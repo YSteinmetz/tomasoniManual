@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.23)  23 JAN 2023 16:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.23)  24 JAN 2023 08:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -294,7 +294,8 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count275
 \l__pdf_internal_box=\box53
 )
-(C:/Users\guilherme.oliveira\PycharmProjects\Flexo\auxil\main.aux
+(C:/Users\guilherme.oliveira\Documents\repositorios\tomasoniManual\auxil\main.a
+ux
 
 LaTeX Warning: Label `' multiply defined.
 
@@ -548,13 +549,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 21.
-(C:/Users\guilherme.oliveira\PycharmProjects\Flexo\auxil\main.out)
-(C:/Users\guilherme.oliveira\PycharmProjects\Flexo\auxil\main.out)
+
+(C:/Users\guilherme.oliveira\Documents\repositorios\tomasoniManual\auxil\main.o
+ut)
+(C:/Users\guilherme.oliveira\Documents\repositorios\tomasoniManual\auxil\main.o
+ut)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-
-(pages/cover.tex
+ (pages/cover.tex
 pages/cover.tex:5: Undefined control sequence.
 <recently read> \AddToShipoutPicture 
                                      
@@ -575,7 +578,8 @@ Package pdftex.def Info: logoTomasoni.png  used on input line 5.
 
 {C:/Users/guilherme.oliveira/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} 
 <./logoTomasoni.png>] (pages/indexPage.tex
-(C:/Users\guilherme.oliveira\PycharmProjects\Flexo\auxil\main.toc
+(C:/Users\guilherme.oliveira\Documents\repositorios\tomasoniManual\auxil\main.t
+oc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1899,16 +1903,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[67] (C:/Users\guilherme.oliveira\PycharmProjects\Flexo\auxil\main.aux)
+[67]
+(C:/Users\guilherme.oliveira\Documents\repositorios\tomasoniManual\auxil\main.a
+ux)
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4B7119CDCB823CCFB27D5F3C4E2AD5F5;14705.
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 91CFBC8809AB73E839D52CB81AB9FEF3;14776
+(rerunfilecheck)             After:  4B7119CDCB823CCFB27D5F3C4E2AD5F5;14705.
  ) 
 Here is how much of TeX's memory you used:
  10278 strings out of 476404
- 180982 string characters out of 2783388
+ 181654 string characters out of 2783388
  1868324 words of memory out of 3000000
  30253 multiletter control sequences out of 15000+600000
  515699 words of font info for 43 fonts, out of 8000000 for 9000
@@ -1926,8 +1938,8 @@ AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/User
 s/guilherme.oliveira/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmr9.pfb><C:/Users/guilherme.oliveira/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmti10.pfb>
-Output written on C:/Users\guilherme.oliveira\PycharmProjects\Flexo\out\main.pd
-f (68 pages, 8882127 bytes).
+Output written on C:/Users\guilherme.oliveira\Documents\repositorios\tomasoniMa
+nual\out\main.pdf (68 pages, 8882127 bytes).
 PDF statistics:
  852 PDF objects out of 1000 (max. 8388607)
  198 named destinations out of 1000 (max. 500000)
