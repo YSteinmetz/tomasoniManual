@@ -79,3 +79,33 @@
 \contentsline {subsubsection}{\numberline {8.11.3}\small {Executa ponto zero}}{76}{subsubsection.8.11.3}%
 \contentsline {subsubsection}{\numberline {8.11.4}\small {Separa pilha}}{77}{subsubsection.8.11.4}%
 \contentsline {subsubsection}{\numberline {8.11.5}\small {JOG}}{78}{subsubsection.8.11.5}%
+\contentsline {subsection}{\numberline {8.12}Tela ajustes alimentação}{79}{subsection.8.12}%
+\contentsline {subsubsection}{\numberline {8.12.1}\small {???}}{80}{subsubsection.8.12.1}%
+\contentsline {subsubsection}{\numberline {8.12.2}\small {???}}{81}{subsubsection.8.12.2}%
+\contentsline {subsection}{\numberline {8.13}Tela ajustes impressoras}{82}{subsection.8.13}%
+\contentsline {subsubsection}{\numberline {8.13.1}\small {???}}{83}{subsubsection.8.13.1}%
+\contentsline {subsubsection}{\numberline {8.13.2}\small {???}}{84}{subsubsection.8.13.2}%
+\contentsline {subsubsection}{\numberline {8.13.3}\small {???}}{85}{subsubsection.8.13.3}%
+\contentsline {subsubsection}{\numberline {8.13.4}\small {???}}{86}{subsubsection.8.13.4}%
+\contentsline {subsubsection}{\numberline {8.13.5}\small {???}}{87}{subsubsection.8.13.5}%
+\contentsline {subsubsection}{\numberline {8.13.6}\small {???}}{88}{subsubsection.8.13.6}%
+\contentsline {subsubsection}{\numberline {8.13.7}\small {???}}{89}{subsubsection.8.13.7}%
+\contentsline {subsubsection}{\numberline {8.13.8}\small {???}}{90}{subsubsection.8.13.8}%
+\contentsline {subsection}{\numberline {8.14}Tela ajustes impressoras}{91}{subsection.8.14}%
+\contentsline {subsubsection}{\numberline {8.14.1}\small {???}}{92}{subsubsection.8.14.1}%
+\contentsline {subsubsection}{\numberline {8.14.2}\small {???}}{93}{subsubsection.8.14.2}%
+\contentsline {subsubsection}{\numberline {8.14.3}\small {???}}{94}{subsubsection.8.14.3}%
+\contentsline {subsubsection}{\numberline {8.14.4}\small {???}}{95}{subsubsection.8.14.4}%
+\contentsline {subsection}{\numberline {8.15}Tela ajustes slotter}{96}{subsection.8.15}%
+\contentsline {subsubsection}{\numberline {8.15.1}\small {???}}{97}{subsubsection.8.15.1}%
+\contentsline {subsubsection}{\numberline {8.15.2}\small {???}}{98}{subsubsection.8.15.2}%
+\contentsline {subsubsection}{\numberline {8.15.3}\small {???}}{99}{subsubsection.8.15.3}%
+\contentsline {subsubsection}{\numberline {8.15.4}\small {???}}{100}{subsubsection.8.15.4}%
+\contentsline {subsubsection}{\numberline {8.15.5}\small {???}}{101}{subsubsection.8.15.5}%
+\contentsline {subsubsection}{\numberline {8.15.6}\small {???}}{102}{subsubsection.8.15.6}%
+\contentsline {subsection}{\numberline {8.16}Tela ajustes slotter}{103}{subsection.8.16}%
+\contentsline {subsubsection}{\numberline {8.16.1}\small {???}}{104}{subsubsection.8.16.1}%
+\contentsline {subsubsection}{\numberline {8.16.2}\small {???}}{105}{subsubsection.8.16.2}%
+\contentsline {subsubsection}{\numberline {8.16.3}\small {???}}{106}{subsubsection.8.16.3}%
+\contentsline {subsubsection}{\numberline {8.16.4}\small {???}}{107}{subsubsection.8.16.4}%
+\contentsline {subsubsection}{\numberline {8.16.5}\small {???}}{108}{subsubsection.8.16.5}%

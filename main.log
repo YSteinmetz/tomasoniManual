@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  24 JAN 2023 11:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  24 JAN 2023 12:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -406,6 +406,96 @@ LaTeX Warning: Label `' multiply defined.
 
 LaTeX Warning: Label `' multiply defined.
 
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
@@ -486,7 +576,7 @@ Package hyperref Info: Link coloring OFF on input line 21.
 \openout3 = `main.out'.
 
  (pagesFlexo/cover.tex
-<logoTomasoni.png, id=327, 3222.79031pt x 828.09375pt>
+<logoTomasoni.png, id=447, 3222.79031pt x 828.09375pt>
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
 Package pdftex.def Info: logoTomasoni.png  used on input line 6.
@@ -602,14 +692,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [10] (pagesFlexo/screenDescriptions/01-main/screenNavegation.tex
-<src/imagesFlexo/01-main/e-Tela-Principal.png, id=464, 770.88pt x 481.8pt>
+<src/imagesFlexo/01-main/e-Tela-Principal.png, id=614, 770.88pt x 481.8pt>
 File: src/imagesFlexo/01-main/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/01-main/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/01-main/e-Tela-Principal.png  used on input line 17.
 (pdftex.def)             Requested size: 481.79883pt x 301.1316pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 22.
+Package pdftex.def Info: logoTomasoni.png  used on input line 21.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -620,14 +710,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [11 <./src/imagesFlexo/01-main/e-Tela-Principal.png>]
-<src/imagesFlexo/01-main/e-1.png, id=470, 770.88pt x 481.8pt>
+<src/imagesFlexo/01-main/e-1.png, id=619, 770.88pt x 481.8pt>
 File: src/imagesFlexo/01-main/e-1.png Graphic file (type png)
 <use src/imagesFlexo/01-main/e-1.png>
-Package pdftex.def Info: src/imagesFlexo/01-main/e-1.png  used on input line 32.
+Package pdftex.def Info: src/imagesFlexo/01-main/e-1.png  used on input line 31.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 39.
+Package pdftex.def Info: logoTomasoni.png  used on input line 37.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -638,14 +728,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [12 <./src/imagesFlexo/01-main/e-1.png>]
-<src/imagesFlexo/01-main/e-2.png, id=479, 770.88pt x 481.8pt>
+<src/imagesFlexo/01-main/e-2.png, id=627, 770.88pt x 481.8pt>
 File: src/imagesFlexo/01-main/e-2.png Graphic file (type png)
 <use src/imagesFlexo/01-main/e-2.png>
-Package pdftex.def Info: src/imagesFlexo/01-main/e-2.png  used on input line 49.
+Package pdftex.def Info: src/imagesFlexo/01-main/e-2.png  used on input line 47.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 56.
+Package pdftex.def Info: logoTomasoni.png  used on input line 53.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -656,14 +746,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [13 <./src/imagesFlexo/01-main/e-2.png>]
-<src/imagesFlexo/01-main/e-3.png, id=485, 770.88pt x 481.8pt>
+<src/imagesFlexo/01-main/e-3.png, id=632, 770.88pt x 481.8pt>
 File: src/imagesFlexo/01-main/e-3.png Graphic file (type png)
 <use src/imagesFlexo/01-main/e-3.png>
-Package pdftex.def Info: src/imagesFlexo/01-main/e-3.png  used on input line 66.
+Package pdftex.def Info: src/imagesFlexo/01-main/e-3.png  used on input line 63.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 75.
+Package pdftex.def Info: logoTomasoni.png  used on input line 71.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -674,14 +764,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [14 <./src/imagesFlexo/01-main/e-3.png>]
-<src/imagesFlexo/01-main/e-4.png, id=491, 770.88pt x 481.8pt>
+<src/imagesFlexo/01-main/e-4.png, id=637, 770.88pt x 481.8pt>
 File: src/imagesFlexo/01-main/e-4.png Graphic file (type png)
 <use src/imagesFlexo/01-main/e-4.png>
-Package pdftex.def Info: src/imagesFlexo/01-main/e-4.png  used on input line 85.
+Package pdftex.def Info: src/imagesFlexo/01-main/e-4.png  used on input line 81.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 91.
+Package pdftex.def Info: logoTomasoni.png  used on input line 86.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -692,10 +782,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [15 <./src/imagesFlexo/01-main/e-4.png>]
-<src/imagesFlexo/01-main/e-5.png, id=497, 770.88pt x 481.8pt>
+<src/imagesFlexo/01-main/e-5.png, id=642, 770.88pt x 481.8pt>
 File: src/imagesFlexo/01-main/e-5.png Graphic file (type png)
 <use src/imagesFlexo/01-main/e-5.png>
-Package pdftex.def Info: src/imagesFlexo/01-main/e-5.png  used on input line 100.
+Package pdftex.def Info: src/imagesFlexo/01-main/e-5.png  used on input line 95.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 )
 File: logoTomasoni.png Graphic file (type png)
@@ -717,14 +807,14 @@ File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 9.
-<src/imagesFlexo/02-machine/e-Tela-Principal.png, id=503, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-Tela-Principal.png, id=647, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/02-machine/e-Tela-Principal.png  used on input line 15.
 (pdftex.def)             Requested size: 481.79883pt x 301.1316pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 22.
+Package pdftex.def Info: logoTomasoni.png  used on input line 21.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -735,14 +825,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [17 <./src/imagesFlexo/02-machine/e-Tela-Principal.png>]
-<src/imagesFlexo/02-machine/e-1.png, id=510, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-1.png, id=653, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-1.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-1.png>
-Package pdftex.def Info: src/imagesFlexo/02-machine/e-1.png  used on input line 31.
+Package pdftex.def Info: src/imagesFlexo/02-machine/e-1.png  used on input line 30.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 38.
+Package pdftex.def Info: logoTomasoni.png  used on input line 36.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -753,14 +843,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [18 <./src/imagesFlexo/02-machine/e-1.png>]
-<src/imagesFlexo/02-machine/e-2.png, id=517, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-2.png, id=659, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-2.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-2.png>
-Package pdftex.def Info: src/imagesFlexo/02-machine/e-2.png  used on input line 47.
+Package pdftex.def Info: src/imagesFlexo/02-machine/e-2.png  used on input line 45.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 54.
+Package pdftex.def Info: logoTomasoni.png  used on input line 51.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -771,14 +861,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [19 <./src/imagesFlexo/02-machine/e-2.png>]
-<src/imagesFlexo/02-machine/e-3.png, id=523, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-3.png, id=664, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-3.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-3.png>
-Package pdftex.def Info: src/imagesFlexo/02-machine/e-3.png  used on input line 63.
+Package pdftex.def Info: src/imagesFlexo/02-machine/e-3.png  used on input line 60.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 70.
+Package pdftex.def Info: logoTomasoni.png  used on input line 66.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -789,14 +879,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [20 <./src/imagesFlexo/02-machine/e-3.png>]
-<src/imagesFlexo/02-machine/e-4.png, id=529, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-4.png, id=669, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-4.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-4.png>
-Package pdftex.def Info: src/imagesFlexo/02-machine/e-4.png  used on input line 79.
+Package pdftex.def Info: src/imagesFlexo/02-machine/e-4.png  used on input line 75.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 86.
+Package pdftex.def Info: logoTomasoni.png  used on input line 81.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -807,14 +897,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [21 <./src/imagesFlexo/02-machine/e-4.png>]
-<src/imagesFlexo/02-machine/e-5.png, id=535, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-5.png, id=674, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-5.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-5.png>
-Package pdftex.def Info: src/imagesFlexo/02-machine/e-5.png  used on input line 95.
+Package pdftex.def Info: src/imagesFlexo/02-machine/e-5.png  used on input line 90.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 102.
+Package pdftex.def Info: logoTomasoni.png  used on input line 96.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -825,14 +915,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [22 <./src/imagesFlexo/02-machine/e-5.png>]
-<src/imagesFlexo/02-machine/e-6.png, id=541, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-6.png, id=679, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-6.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-6.png>
-Package pdftex.def Info: src/imagesFlexo/02-machine/e-6.png  used on input line 111.
+Package pdftex.def Info: src/imagesFlexo/02-machine/e-6.png  used on input line 105.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 118.
+Package pdftex.def Info: logoTomasoni.png  used on input line 111.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -843,14 +933,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [23 <./src/imagesFlexo/02-machine/e-6.png>]
-<src/imagesFlexo/02-machine/e-7.png, id=547, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-7.png, id=684, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-7.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-7.png>
-Package pdftex.def Info: src/imagesFlexo/02-machine/e-7.png  used on input line 127.
+Package pdftex.def Info: src/imagesFlexo/02-machine/e-7.png  used on input line 120.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 134.
+Package pdftex.def Info: logoTomasoni.png  used on input line 126.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -861,14 +951,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [24 <./src/imagesFlexo/02-machine/e-7.png>]
-<src/imagesFlexo/02-machine/e-Tela-Principal-2.png, id=554, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-Tela-Principal-2.png, id=690, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-Tela-Principal-2.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-Tela-Principal-2.png>
-Package pdftex.def Info: src/imagesFlexo/02-machine/e-Tela-Principal-2.png  used on input line 147.
+Package pdftex.def Info: src/imagesFlexo/02-machine/e-Tela-Principal-2.png  used on input line 139.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 152.
+Package pdftex.def Info: logoTomasoni.png  used on input line 143.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -879,10 +969,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [25 <./src/imagesFlexo/02-machine/e-Tela-Principal-2.png>]
-<src/imagesFlexo/02-machine/e-9.png, id=560, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-9.png, id=695, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-9.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-9.png>
-Package pdftex.def Info: src/imagesFlexo/02-machine/e-9.png  used on input line 161.
+Package pdftex.def Info: src/imagesFlexo/02-machine/e-9.png  used on input line 152.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 )
 File: logoTomasoni.png Graphic file (type png)
@@ -898,14 +988,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [26 <./src/imagesFlexo/02-machine/e-9.png>] (pagesFlexo/screenDescriptions/03-feeder/commands/feederCommands.tex
-<src/imagesFlexo/03-feeder/commands/e-Tela-Principal.png, id=566, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-Tela-Principal.png, id=700, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-Tela-Principal.png  used on input line 8.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 13.
+Package pdftex.def Info: logoTomasoni.png  used on input line 12.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -916,14 +1006,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [27 <./src/imagesFlexo/03-feeder/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/03-feeder/commands/e-1.png, id=572, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-1.png, id=705, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-1.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-1.png>
-Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-1.png  used on input line 19.
+Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-1.png  used on input line 18.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 26.
+Package pdftex.def Info: logoTomasoni.png  used on input line 24.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -934,14 +1024,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [28 <./src/imagesFlexo/03-feeder/commands/e-1.png>]
-<src/imagesFlexo/03-feeder/commands/e-2.png, id=579, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-2.png, id=711, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-2.png>
-Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-2.png  used on input line 32.
+Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-2.png  used on input line 30.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 38.
+Package pdftex.def Info: logoTomasoni.png  used on input line 35.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -952,14 +1042,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [29 <./src/imagesFlexo/03-feeder/commands/e-2.png>]
-<src/imagesFlexo/03-feeder/commands/e-3.png, id=585, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-3.png, id=716, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-3.png>
-Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-3.png  used on input line 44.
+Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-3.png  used on input line 41.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 50.
+Package pdftex.def Info: logoTomasoni.png  used on input line 46.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -970,14 +1060,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [30 <./src/imagesFlexo/03-feeder/commands/e-3.png>]
-<src/imagesFlexo/03-feeder/commands/e-4.png, id=592, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-4.png, id=722, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-4.png>
-Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-4.png  used on input line 56.
+Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-4.png  used on input line 52.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 62.
+Package pdftex.def Info: logoTomasoni.png  used on input line 57.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -988,14 +1078,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [31 <./src/imagesFlexo/03-feeder/commands/e-4.png>]
-<src/imagesFlexo/03-feeder/commands/e-5.png, id=598, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-5.png, id=727, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-5.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-5.png>
-Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-5.png  used on input line 68.
+Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-5.png  used on input line 63.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 74.
+Package pdftex.def Info: logoTomasoni.png  used on input line 68.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1006,10 +1096,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [32 <./src/imagesFlexo/03-feeder/commands/e-5.png>]
-<src/imagesFlexo/03-feeder/commands/e-6.png, id=604, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-6.png, id=732, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-6.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-6.png>
-Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-6.png  used on input line 80.
+Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-6.png  used on input line 74.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 )
 File: logoTomasoni.png Graphic file (type png)
@@ -1025,14 +1115,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [33 <./src/imagesFlexo/03-feeder/commands/e-6.png>] (pagesFlexo/screenDescriptions/04-printter/01-printters/commands/printtersCommands.tex
-<src/imagesFlexo/04-printter/01-printters/commands/e-Tela-Principal.png, id=610, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-Tela-Principal.png, id=737, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-Tela-Principal.png  used on input line 7.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 12.
+Package pdftex.def Info: logoTomasoni.png  used on input line 11.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1043,14 +1133,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [34 <./src/imagesFlexo/04-printter/01-printters/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/04-printter/01-printters/commands/e-1.png, id=616, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-1.png, id=742, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-1.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-1.png>
-Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-1.png  used on input line 18.
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-1.png  used on input line 17.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 24.
+Package pdftex.def Info: logoTomasoni.png  used on input line 22.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1061,14 +1151,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [35 <./src/imagesFlexo/04-printter/01-printters/commands/e-1.png>]
-<src/imagesFlexo/04-printter/01-printters/commands/e-2.png, id=622, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-2.png, id=747, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-2.png>
-Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-2.png  used on input line 30.
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-2.png  used on input line 28.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 36.
+Package pdftex.def Info: logoTomasoni.png  used on input line 33.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1079,14 +1169,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [36 <./src/imagesFlexo/04-printter/01-printters/commands/e-2.png>]
-<src/imagesFlexo/04-printter/01-printters/commands/e-3.png, id=629, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-3.png, id=753, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-3.png>
-Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-3.png  used on input line 42.
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-3.png  used on input line 39.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 48.
+Package pdftex.def Info: logoTomasoni.png  used on input line 44.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1097,14 +1187,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [37 <./src/imagesFlexo/04-printter/01-printters/commands/e-3.png>]
-<src/imagesFlexo/04-printter/01-printters/commands/e-4.png, id=635, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-4.png, id=758, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-4.png>
-Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-4.png  used on input line 54.
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-4.png  used on input line 50.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 60.
+Package pdftex.def Info: logoTomasoni.png  used on input line 55.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1115,14 +1205,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [38 <./src/imagesFlexo/04-printter/01-printters/commands/e-4.png>]
-<src/imagesFlexo/04-printter/01-printters/commands/e-5.png, id=641, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-5.png, id=763, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-5.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-5.png>
-Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-5.png  used on input line 66.
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-5.png  used on input line 61.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 72.
+Package pdftex.def Info: logoTomasoni.png  used on input line 66.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1133,10 +1223,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [39 <./src/imagesFlexo/04-printter/01-printters/commands/e-5.png>]
-<src/imagesFlexo/04-printter/01-printters/commands/e-6.png, id=647, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-6.png, id=768, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-6.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-6.png>
-Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-6.png  used on input line 78.
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-6.png  used on input line 72.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 )
 File: logoTomasoni.png Graphic file (type png)
@@ -1152,14 +1242,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [40 <./src/imagesFlexo/04-printter/01-printters/commands/e-6.png>] (pagesFlexo/screenDescriptions/04-printter/02-printter/commands/printterCommand.tex
-<src/imagesFlexo/04-printter/02-printter/commands/e-Tela-Principal.png, id=653, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/02-printter/commands/e-Tela-Principal.png, id=773, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/02-printter/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/02-printter/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-Tela-Principal.png  used on input line 8.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 13.
+Package pdftex.def Info: logoTomasoni.png  used on input line 12.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1170,14 +1260,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [41 <./src/imagesFlexo/04-printter/02-printter/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/04-printter/02-printter/commands/e-2.png, id=659, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/02-printter/commands/e-2.png, id=778, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/02-printter/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/02-printter/commands/e-2.png>
-Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-2.png  used on input line 19.
+Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-2.png  used on input line 18.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 25.
+Package pdftex.def Info: logoTomasoni.png  used on input line 23.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1188,14 +1278,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [42 <./src/imagesFlexo/04-printter/02-printter/commands/e-2.png>]
-<src/imagesFlexo/04-printter/02-printter/commands/e-3.png, id=666, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/02-printter/commands/e-3.png, id=784, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/02-printter/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/02-printter/commands/e-3.png>
-Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-3.png  used on input line 31.
+Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-3.png  used on input line 29.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 37.
+Package pdftex.def Info: logoTomasoni.png  used on input line 34.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1206,14 +1296,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [43 <./src/imagesFlexo/04-printter/02-printter/commands/e-3.png>]
-<src/imagesFlexo/04-printter/02-printter/commands/e-4.png, id=672, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/02-printter/commands/e-4.png, id=789, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/02-printter/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/02-printter/commands/e-4.png>
-Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-4.png  used on input line 43.
+Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-4.png  used on input line 40.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 49.
+Package pdftex.def Info: logoTomasoni.png  used on input line 45.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1224,14 +1314,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [44 <./src/imagesFlexo/04-printter/02-printter/commands/e-4.png>]
-<src/imagesFlexo/04-printter/02-printter/commands/e-5.png, id=678, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/02-printter/commands/e-5.png, id=794, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/02-printter/commands/e-5.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/02-printter/commands/e-5.png>
-Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-5.png  used on input line 55.
+Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-5.png  used on input line 51.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 61.
+Package pdftex.def Info: logoTomasoni.png  used on input line 56.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1242,10 +1332,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [45 <./src/imagesFlexo/04-printter/02-printter/commands/e-5.png>]
-<src/imagesFlexo/04-printter/02-printter/commands/e-6.png, id=684, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/02-printter/commands/e-6.png, id=799, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/02-printter/commands/e-6.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/02-printter/commands/e-6.png>
-Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-6.png  used on input line 67.
+Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-6.png  used on input line 62.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 )
 File: logoTomasoni.png Graphic file (type png)
@@ -1261,14 +1351,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [46 <./src/imagesFlexo/04-printter/02-printter/commands/e-6.png>] (pagesFlexo/screenDescriptions/05-slotter/commands/slotterCommands.tex
-<src/imagesFlexo/05-slotter/commands/e-Tela-Principal.png, id=690, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/commands/e-Tela-Principal.png, id=804, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-Tela-Principal.png  used on input line 7.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 12.
+Package pdftex.def Info: logoTomasoni.png  used on input line 11.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1279,14 +1369,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [47 <./src/imagesFlexo/05-slotter/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/05-slotter/commands/e-2.png, id=696, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/commands/e-2.png, id=809, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/commands/e-2.png>
-Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-2.png  used on input line 18.
+Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-2.png  used on input line 17.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 24.
+Package pdftex.def Info: logoTomasoni.png  used on input line 22.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1297,14 +1387,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [48 <./src/imagesFlexo/05-slotter/commands/e-2.png>]
-<src/imagesFlexo/05-slotter/commands/e-3.png, id=703, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/commands/e-3.png, id=815, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/commands/e-3.png>
-Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-3.png  used on input line 30.
+Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-3.png  used on input line 28.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 37.
+Package pdftex.def Info: logoTomasoni.png  used on input line 34.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1315,14 +1405,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [49 <./src/imagesFlexo/05-slotter/commands/e-3.png>]
-<src/imagesFlexo/05-slotter/commands/e-4.png, id=709, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/commands/e-4.png, id=820, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/commands/e-4.png>
-Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-4.png  used on input line 43.
+Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-4.png  used on input line 40.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 49.
+Package pdftex.def Info: logoTomasoni.png  used on input line 45.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1333,10 +1423,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [50 <./src/imagesFlexo/05-slotter/commands/e-4.png>]
-<src/imagesFlexo/05-slotter/commands/e-5.png, id=715, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/commands/e-5.png, id=825, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/commands/e-5.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/commands/e-5.png>
-Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-5.png  used on input line 55.
+Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-5.png  used on input line 51.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 )
 File: logoTomasoni.png Graphic file (type png)
@@ -1352,14 +1442,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [51 <./src/imagesFlexo/05-slotter/commands/e-5.png>] (pagesFlexo/screenDescriptions/06-drilling/commands/drillingCommands.tex
-<src/imagesFlexo/06-drilling/commands/e-Tela-Principal.png, id=721, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/commands/e-Tela-Principal.png, id=830, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-Tela-Principal.png  used on input line 7.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 12.
+Package pdftex.def Info: logoTomasoni.png  used on input line 11.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1370,14 +1460,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [52 <./src/imagesFlexo/06-drilling/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/06-drilling/commands/e-1.png, id=727, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/commands/e-1.png, id=835, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/commands/e-1.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/commands/e-1.png>
-Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-1.png  used on input line 18.
+Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-1.png  used on input line 17.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 24.
+Package pdftex.def Info: logoTomasoni.png  used on input line 22.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1388,14 +1478,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [53 <./src/imagesFlexo/06-drilling/commands/e-1.png>]
-<src/imagesFlexo/06-drilling/commands/e-2.png, id=733, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/commands/e-2.png, id=840, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/commands/e-2.png>
-Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-2.png  used on input line 30.
+Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-2.png  used on input line 28.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 36.
+Package pdftex.def Info: logoTomasoni.png  used on input line 33.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1406,14 +1496,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [54 <./src/imagesFlexo/06-drilling/commands/e-2.png>]
-<src/imagesFlexo/06-drilling/commands/e-3.png, id=740, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/commands/e-3.png, id=846, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/commands/e-3.png>
-Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-3.png  used on input line 42.
+Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-3.png  used on input line 39.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 48.
+Package pdftex.def Info: logoTomasoni.png  used on input line 44.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1424,10 +1514,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [55 <./src/imagesFlexo/06-drilling/commands/e-3.png>]
-<src/imagesFlexo/06-drilling/commands/e-4.png, id=746, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/commands/e-4.png, id=851, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/commands/e-4.png>
-Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-4.png  used on input line 54.
+Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-4.png  used on input line 50.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 )
 File: logoTomasoni.png Graphic file (type png)
@@ -1443,14 +1533,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [56 <./src/imagesFlexo/06-drilling/commands/e-4.png>] (pagesFlexo/screenDescriptions/07-fold/commands/foldCommands.tex
-<src/imagesFlexo/07-fold/commands/e-Tela-Principal.png, id=752, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-Tela-Principal.png, id=856, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-Tela-Principal.png  used on input line 7.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 12.
+Package pdftex.def Info: logoTomasoni.png  used on input line 11.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1461,14 +1551,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [57 <./src/imagesFlexo/07-fold/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/07-fold/commands/e-1.png, id=758, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-1.png, id=861, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-1.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-1.png>
-Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-1.png  used on input line 18.
+Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-1.png  used on input line 17.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 24.
+Package pdftex.def Info: logoTomasoni.png  used on input line 22.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1479,14 +1569,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [58 <./src/imagesFlexo/07-fold/commands/e-1.png>]
-<src/imagesFlexo/07-fold/commands/e-2.png, id=764, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-2.png, id=866, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-2.png>
-Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-2.png  used on input line 30.
+Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-2.png  used on input line 28.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 36.
+Package pdftex.def Info: logoTomasoni.png  used on input line 33.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1497,14 +1587,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [59 <./src/imagesFlexo/07-fold/commands/e-2.png>]
-<src/imagesFlexo/07-fold/commands/e-3.png, id=770, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-3.png, id=871, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-3.png>
-Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-3.png  used on input line 42.
+Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-3.png  used on input line 39.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 48.
+Package pdftex.def Info: logoTomasoni.png  used on input line 44.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1515,14 +1605,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [60 <./src/imagesFlexo/07-fold/commands/e-3.png>]
-<src/imagesFlexo/07-fold/commands/e-4.png, id=777, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-4.png, id=877, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-4.png>
-Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-4.png  used on input line 54.
+Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-4.png  used on input line 50.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 60.
+Package pdftex.def Info: logoTomasoni.png  used on input line 55.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1533,14 +1623,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [61 <./src/imagesFlexo/07-fold/commands/e-4.png>]
-<src/imagesFlexo/07-fold/commands/e-5.png, id=783, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-5.png, id=882, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-5.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-5.png>
-Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-5.png  used on input line 66.
+Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-5.png  used on input line 61.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 72.
+Package pdftex.def Info: logoTomasoni.png  used on input line 66.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1551,14 +1641,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [62 <./src/imagesFlexo/07-fold/commands/e-5.png>]
-<src/imagesFlexo/07-fold/commands/e-6.png, id=789, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-6.png, id=887, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-6.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-6.png>
-Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-6.png  used on input line 78.
+Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-6.png  used on input line 72.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 84.
+Package pdftex.def Info: logoTomasoni.png  used on input line 77.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1569,10 +1659,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [63 <./src/imagesFlexo/07-fold/commands/e-6.png>]
-<src/imagesFlexo/07-fold/commands/e-7.png, id=795, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-7.png, id=892, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-7.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-7.png>
-Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-7.png  used on input line 90.
+Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-7.png  used on input line 83.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 )
 File: logoTomasoni.png Graphic file (type png)
@@ -1588,14 +1678,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [64 <./src/imagesFlexo/07-fold/commands/e-7.png>] (pagesFlexo/screenDescriptions/08-count/commands/countCommands.tex
-<src/imagesFlexo/08-count/commands/e-Tela-Principal.png, id=801, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-Tela-Principal.png, id=897, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-Tela-Principal.png  used on input line 7.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 12.
+Package pdftex.def Info: logoTomasoni.png  used on input line 11.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1606,14 +1696,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [65 <./src/imagesFlexo/08-count/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/08-count/commands/e-1.png, id=807, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-1.png, id=902, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-1.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-1.png>
-Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-1.png  used on input line 18.
+Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-1.png  used on input line 17.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 24.
+Package pdftex.def Info: logoTomasoni.png  used on input line 22.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1624,14 +1714,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [66 <./src/imagesFlexo/08-count/commands/e-1.png>]
-<src/imagesFlexo/08-count/commands/e-2.png, id=814, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-2.png, id=908, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-2.png>
-Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-2.png  used on input line 30.
+Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-2.png  used on input line 28.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 36.
+Package pdftex.def Info: logoTomasoni.png  used on input line 33.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1642,14 +1732,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [67 <./src/imagesFlexo/08-count/commands/e-2.png>]
-<src/imagesFlexo/08-count/commands/e-3.png, id=820, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-3.png, id=913, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-3.png>
-Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-3.png  used on input line 42.
+Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-3.png  used on input line 39.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 48.
+Package pdftex.def Info: logoTomasoni.png  used on input line 44.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1660,14 +1750,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [68 <./src/imagesFlexo/08-count/commands/e-3.png>]
-<src/imagesFlexo/08-count/commands/e-4.png, id=826, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-4.png, id=918, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-4.png>
-Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-4.png  used on input line 54.
+Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-4.png  used on input line 50.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 60.
+Package pdftex.def Info: logoTomasoni.png  used on input line 55.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1678,14 +1768,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [69 <./src/imagesFlexo/08-count/commands/e-4.png>]
-<src/imagesFlexo/08-count/commands/e-5.png, id=832, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-5.png, id=923, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-5.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-5.png>
-Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-5.png  used on input line 66.
+Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-5.png  used on input line 61.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 72.
+Package pdftex.def Info: logoTomasoni.png  used on input line 66.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1696,14 +1786,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [70 <./src/imagesFlexo/08-count/commands/e-5.png>]
-<src/imagesFlexo/08-count/commands/e-6.png, id=838, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-6.png, id=928, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-6.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-6.png>
-Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-6.png  used on input line 78.
+Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-6.png  used on input line 72.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 84.
+Package pdftex.def Info: logoTomasoni.png  used on input line 77.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1714,14 +1804,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [71 <./src/imagesFlexo/08-count/commands/e-6.png>]
-<src/imagesFlexo/08-count/commands/e-7.png, id=844, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-7.png, id=933, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-7.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-7.png>
-Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-7.png  used on input line 90.
+Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-7.png  used on input line 83.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 96.
+Package pdftex.def Info: logoTomasoni.png  used on input line 88.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1732,14 +1822,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [72 <./src/imagesFlexo/08-count/commands/e-7.png>]
-<src/imagesFlexo/08-count/commands/e-Tela-Principal-2.png, id=851, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-Tela-Principal-2.png, id=939, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-Tela-Principal-2.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-Tela-Principal-2.png>
-Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-Tela-Principal-2.png  used on input line 103.
+Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-Tela-Principal-2.png  used on input line 95.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 108.
+Package pdftex.def Info: logoTomasoni.png  used on input line 99.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1750,14 +1840,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [73 <./src/imagesFlexo/08-count/commands/e-Tela-Principal-2.png>]
-<src/imagesFlexo/08-count/commands/e-9.png, id=858, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-9.png, id=945, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-9.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-9.png>
-Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-9.png  used on input line 114.
+Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-9.png  used on input line 105.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 120.
+Package pdftex.def Info: logoTomasoni.png  used on input line 110.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1768,10 +1858,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [74 <./src/imagesFlexo/08-count/commands/e-9.png>]
-<src/imagesFlexo/08-count/commands/e-10.png, id=864, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-10.png, id=950, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-10.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-10.png>
-Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-10.png  used on input line 126.
+Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-10.png  used on input line 116.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 121.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[75 <./src/imagesFlexo/08-count/commands/e-10.png>]
+<src/imagesFlexo/08-count/commands/e-11.png, id=955, 770.88pt x 481.8pt>
+File: src/imagesFlexo/08-count/commands/e-11.png Graphic file (type png)
+<use src/imagesFlexo/08-count/commands/e-11.png>
+Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-11.png  used on input line 127.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
@@ -1785,33 +1893,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[75 <./src/imagesFlexo/08-count/commands/e-10.png>]
-<src/imagesFlexo/08-count/commands/e-11.png, id=870, 770.88pt x 481.8pt>
-File: src/imagesFlexo/08-count/commands/e-11.png Graphic file (type png)
-<use src/imagesFlexo/08-count/commands/e-11.png>
-Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-11.png  used on input line 138.
-(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
-File: logoTomasoni.png Graphic file (type png)
-<use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 144.
-(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 93.60004pt, for example:
-(fancyhdr)                \setlength{\headheight}{93.60004pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
-
 [76 <./src/imagesFlexo/08-count/commands/e-11.png>]
-<src/imagesFlexo/08-count/commands/e-12.png, id=876, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-12.png, id=960, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-12.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-12.png>
-Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-12.png  used on input line 150.
+Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-12.png  used on input line 138.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 156.
+Package pdftex.def Info: logoTomasoni.png  used on input line 143.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -1822,10 +1912,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [77 <./src/imagesFlexo/08-count/commands/e-12.png>]
-<src/imagesFlexo/08-count/commands/e-13.png, id=882, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-13.png, id=965, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-13.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-13.png>
-Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-13.png  used on input line 162.
+Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-13.png  used on input line 149.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 )
 File: logoTomasoni.png Graphic file (type png)
@@ -1840,25 +1930,556 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[78 <./src/imagesFlexo/08-count/commands/e-13.png>] (main.aux)
+[78 <./src/imagesFlexo/08-count/commands/e-13.png>] (pagesFlexo/screenDescriptions/03-feeder/settings/feederSettings.tex
+<src/imagesFlexo/03-feeder/settings/e-Tela-Principal.png, id=971, 770.88pt x 481.8pt>
+File: src/imagesFlexo/03-feeder/settings/e-Tela-Principal.png Graphic file (type png)
+<use src/imagesFlexo/03-feeder/settings/e-Tela-Principal.png>
+Package pdftex.def Info: src/imagesFlexo/03-feeder/settings/e-Tela-Principal.png  used on input line 7.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 11.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[79 <./src/imagesFlexo/03-feeder/settings/e-Tela-Principal.png>]
+<src/imagesFlexo/03-feeder/settings/e-1.png, id=976, 770.88pt x 481.8pt>
+File: src/imagesFlexo/03-feeder/settings/e-1.png Graphic file (type png)
+<use src/imagesFlexo/03-feeder/settings/e-1.png>
+Package pdftex.def Info: src/imagesFlexo/03-feeder/settings/e-1.png  used on input line 17.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 22.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[80 <./src/imagesFlexo/03-feeder/settings/e-1.png>]
+<src/imagesFlexo/03-feeder/settings/e-2.png, id=981, 770.88pt x 481.8pt>
+File: src/imagesFlexo/03-feeder/settings/e-2.png Graphic file (type png)
+<use src/imagesFlexo/03-feeder/settings/e-2.png>
+Package pdftex.def Info: src/imagesFlexo/03-feeder/settings/e-2.png  used on input line 28.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+)
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 65.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[81 <./src/imagesFlexo/03-feeder/settings/e-2.png>] (pagesFlexo/screenDescriptions/04-printter/01-printters/settings/printtersSettings.tex
+<src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal.png, id=986, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal.png  used on input line 7.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 11.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[82 <./src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal.png>]
+<src/imagesFlexo/04-printter/01-printters/settings/e-1.png, id=991, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-1.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-1.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-1.png  used on input line 17.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 22.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[83 <./src/imagesFlexo/04-printter/01-printters/settings/e-1.png>]
+<src/imagesFlexo/04-printter/01-printters/settings/e-2.png, id=996, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-2.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-2.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-2.png  used on input line 28.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 33.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[84 <./src/imagesFlexo/04-printter/01-printters/settings/e-2.png>]
+<src/imagesFlexo/04-printter/01-printters/settings/e-3.png, id=1002, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-3.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-3.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-3.png  used on input line 39.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 44.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[85 <./src/imagesFlexo/04-printter/01-printters/settings/e-3.png>]
+<src/imagesFlexo/04-printter/01-printters/settings/e-4.png, id=1007, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-4.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-4.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-4.png  used on input line 50.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 55.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[86 <./src/imagesFlexo/04-printter/01-printters/settings/e-4.png>]
+<src/imagesFlexo/04-printter/01-printters/settings/e-5.png, id=1012, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-5.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-5.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-5.png  used on input line 61.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 66.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[87 <./src/imagesFlexo/04-printter/01-printters/settings/e-5.png>]
+<src/imagesFlexo/04-printter/01-printters/settings/e-6.png, id=1017, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-6.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-6.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-6.png  used on input line 72.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 77.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[88 <./src/imagesFlexo/04-printter/01-printters/settings/e-6.png>]
+<src/imagesFlexo/04-printter/01-printters/settings/e-7.png, id=1022, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-7.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-7.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-7.png  used on input line 83.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 88.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[89 <./src/imagesFlexo/04-printter/01-printters/settings/e-7.png>]
+<src/imagesFlexo/04-printter/01-printters/settings/e-8.png, id=1027, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-8.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-8.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-8.png  used on input line 94.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 99.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[90 <./src/imagesFlexo/04-printter/01-printters/settings/e-8.png>]
+<src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal-2.png, id=1033, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal-2.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal-2.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal-2.png  used on input line 106.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+ [91 <./src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal-2.png>]
+<src/imagesFlexo/04-printter/01-printters/settings/e-9.png, id=1038, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-9.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-9.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-9.png  used on input line 116.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 121.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[92 <./src/imagesFlexo/04-printter/01-printters/settings/e-9.png>]
+<src/imagesFlexo/04-printter/01-printters/settings/e-10.png, id=1043, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-10.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-10.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-10.png  used on input line 127.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 132.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[93 <./src/imagesFlexo/04-printter/01-printters/settings/e-10.png>]
+<src/imagesFlexo/04-printter/01-printters/settings/e-11.png, id=1048, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-11.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-11.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-11.png  used on input line 138.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 143.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[94 <./src/imagesFlexo/04-printter/01-printters/settings/e-11.png>]
+<src/imagesFlexo/04-printter/01-printters/settings/e-12.png, id=1053, 770.88pt x 481.8pt>
+File: src/imagesFlexo/04-printter/01-printters/settings/e-12.png Graphic file (type png)
+<use src/imagesFlexo/04-printter/01-printters/settings/e-12.png>
+Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-12.png  used on input line 149.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+)
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 68.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[95 <./src/imagesFlexo/04-printter/01-printters/settings/e-12.png>] (pagesFlexo/screenDescriptions/05-slotter/settings/slotterSettings.tex
+<src/imagesFlexo/05-slotter/settings/e-Tela-Principal.png, id=1058, 770.88pt x 481.8pt>
+File: src/imagesFlexo/05-slotter/settings/e-Tela-Principal.png Graphic file (type png)
+<use src/imagesFlexo/05-slotter/settings/e-Tela-Principal.png>
+Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-Tela-Principal.png  used on input line 7.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 11.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[96 <./src/imagesFlexo/05-slotter/settings/e-Tela-Principal.png>]
+<src/imagesFlexo/05-slotter/settings/e-1.png, id=1064, 770.88pt x 481.8pt>
+File: src/imagesFlexo/05-slotter/settings/e-1.png Graphic file (type png)
+<use src/imagesFlexo/05-slotter/settings/e-1.png>
+Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-1.png  used on input line 17.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 22.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[97 <./src/imagesFlexo/05-slotter/settings/e-1.png>]
+<src/imagesFlexo/05-slotter/settings/e-2.png, id=1069, 770.88pt x 481.8pt>
+File: src/imagesFlexo/05-slotter/settings/e-2.png Graphic file (type png)
+<use src/imagesFlexo/05-slotter/settings/e-2.png>
+Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-2.png  used on input line 28.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 33.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[98 <./src/imagesFlexo/05-slotter/settings/e-2.png>]
+<src/imagesFlexo/05-slotter/settings/e-3.png, id=1074, 770.88pt x 481.8pt>
+File: src/imagesFlexo/05-slotter/settings/e-3.png Graphic file (type png)
+<use src/imagesFlexo/05-slotter/settings/e-3.png>
+Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-3.png  used on input line 39.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 44.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[99 <./src/imagesFlexo/05-slotter/settings/e-3.png>]
+<src/imagesFlexo/05-slotter/settings/e-4.png, id=1079, 770.88pt x 481.8pt>
+File: src/imagesFlexo/05-slotter/settings/e-4.png Graphic file (type png)
+<use src/imagesFlexo/05-slotter/settings/e-4.png>
+Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-4.png  used on input line 50.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 55.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[100 <./src/imagesFlexo/05-slotter/settings/e-4.png>]
+<src/imagesFlexo/05-slotter/settings/e-5.png, id=1084, 770.88pt x 481.8pt>
+File: src/imagesFlexo/05-slotter/settings/e-5.png Graphic file (type png)
+<use src/imagesFlexo/05-slotter/settings/e-5.png>
+Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-5.png  used on input line 61.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 66.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[101 <./src/imagesFlexo/05-slotter/settings/e-5.png>]
+<src/imagesFlexo/05-slotter/settings/e-6.png, id=1089, 770.88pt x 481.8pt>
+File: src/imagesFlexo/05-slotter/settings/e-6.png Graphic file (type png)
+<use src/imagesFlexo/05-slotter/settings/e-6.png>
+Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-6.png  used on input line 72.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 77.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[102 <./src/imagesFlexo/05-slotter/settings/e-6.png>]
+<src/imagesFlexo/05-slotter/settings/e-Tela-Principal-2.png, id=1095, 770.88pt x 481.8pt>
+File: src/imagesFlexo/05-slotter/settings/e-Tela-Principal-2.png Graphic file (type png)
+<use src/imagesFlexo/05-slotter/settings/e-Tela-Principal-2.png>
+Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-Tela-Principal-2.png  used on input line 84.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 88.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[103 <./src/imagesFlexo/05-slotter/settings/e-Tela-Principal-2.png>]
+<src/imagesFlexo/05-slotter/settings/e-7.png, id=1100, 770.88pt x 481.8pt>
+File: src/imagesFlexo/05-slotter/settings/e-7.png Graphic file (type png)
+<use src/imagesFlexo/05-slotter/settings/e-7.png>
+Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-7.png  used on input line 94.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 99.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[104 <./src/imagesFlexo/05-slotter/settings/e-7.png>]
+<src/imagesFlexo/05-slotter/settings/e-8.png, id=1105, 770.88pt x 481.8pt>
+File: src/imagesFlexo/05-slotter/settings/e-8.png Graphic file (type png)
+<use src/imagesFlexo/05-slotter/settings/e-8.png>
+Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-8.png  used on input line 105.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 110.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[105 <./src/imagesFlexo/05-slotter/settings/e-8.png>]
+<src/imagesFlexo/05-slotter/settings/e-9.png, id=1110, 770.88pt x 481.8pt>
+File: src/imagesFlexo/05-slotter/settings/e-9.png Graphic file (type png)
+<use src/imagesFlexo/05-slotter/settings/e-9.png>
+Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-9.png  used on input line 116.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 121.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[106 <./src/imagesFlexo/05-slotter/settings/e-9.png>]
+<src/imagesFlexo/05-slotter/settings/e-10.png, id=1115, 770.88pt x 481.8pt>
+File: src/imagesFlexo/05-slotter/settings/e-10.png Graphic file (type png)
+<use src/imagesFlexo/05-slotter/settings/e-10.png>
+Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-10.png  used on input line 127.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 132.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[107 <./src/imagesFlexo/05-slotter/settings/e-10.png>]
+<src/imagesFlexo/05-slotter/settings/e-11.png, id=1120, 770.88pt x 481.8pt>
+File: src/imagesFlexo/05-slotter/settings/e-11.png Graphic file (type png)
+<use src/imagesFlexo/05-slotter/settings/e-11.png>
+Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-11.png  used on input line 138.
+(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
+)
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 72.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[108 <./src/imagesFlexo/05-slotter/settings/e-11.png>] (main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0FE8B4AD3421B9571C7AAF1A0107A1D1;16361.
+(rerunfilecheck)             Checksum: F8090D0819AC82AFB71B432986EC82EA;19389.
  ) 
 Here is how much of TeX's memory you used:
- 10391 strings out of 475385
- 182441 string characters out of 2787216
- 517062 words of memory out of 3000000
- 31350 multiletter control sequences out of 15000+600000
+ 10617 strings out of 475385
+ 195394 string characters out of 2787216
+ 517091 words of memory out of 3000000
+ 31565 multiletter control sequences out of 15000+600000
  472671 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,16n,77p,709b,541s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\yuri.eng\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (79 pages, 10176280 bytes).
+Output written on main.pdf (109 pages, 16767627 bytes).
 PDF statistics:
- 981 PDF objects out of 1000 (max. 8388607)
- 229 named destinations out of 1000 (max. 500000)
- 994 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1217 PDF objects out of 1440 (max. 8388607)
+ 221 named destinations out of 1000 (max. 500000)
+ 1384 words of extra memory for PDF output out of 10000 (max. 10000000)
 
