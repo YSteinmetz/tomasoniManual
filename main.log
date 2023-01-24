@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  24 JAN 2023 14:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  24 JAN 2023 14:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -667,9 +667,6 @@ LaTeX Warning: Label `' multiply defined.
 
 LaTeX Warning: Label `' multiply defined.
 
-
-LaTeX Warning: Label `' multiply defined.
-
 )
 \openout1 = `main.aux'.
 
@@ -750,7 +747,7 @@ Package hyperref Info: Link coloring OFF on input line 21.
 \openout3 = `main.out'.
 
  (pagesFlexo/cover.tex
-<logoTomasoni.png, id=679, 3222.79031pt x 828.09375pt>
+<logoTomasoni.png, id=675, 3222.79031pt x 828.09375pt>
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
 Package pdftex.def Info: logoTomasoni.png  used on input line 6.
@@ -866,7 +863,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [12] (pagesFlexo/screenDescriptions/01-main/screenNavegation.tex
-<src/imagesFlexo/01-main/e-Tela-Principal.png, id=913, 770.88pt x 481.8pt>
+<src/imagesFlexo/01-main/e-Tela-Principal.png, id=908, 770.88pt x 481.8pt>
 File: src/imagesFlexo/01-main/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/01-main/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/01-main/e-Tela-Principal.png  used on input line 17.
@@ -884,7 +881,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [13 <./src/imagesFlexo/01-main/e-Tela-Principal.png>]
-<src/imagesFlexo/01-main/e-1.png, id=918, 770.88pt x 481.8pt>
+<src/imagesFlexo/01-main/e-1.png, id=913, 770.88pt x 481.8pt>
 File: src/imagesFlexo/01-main/e-1.png Graphic file (type png)
 <use src/imagesFlexo/01-main/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/01-main/e-1.png  used on input line 31.
@@ -902,7 +899,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [14 <./src/imagesFlexo/01-main/e-1.png>]
-<src/imagesFlexo/01-main/e-2.png, id=925, 770.88pt x 481.8pt>
+<src/imagesFlexo/01-main/e-2.png, id=920, 770.88pt x 481.8pt>
 File: src/imagesFlexo/01-main/e-2.png Graphic file (type png)
 <use src/imagesFlexo/01-main/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/01-main/e-2.png  used on input line 47.
@@ -920,7 +917,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [15 <./src/imagesFlexo/01-main/e-2.png>]
-<src/imagesFlexo/01-main/e-3.png, id=930, 770.88pt x 481.8pt>
+<src/imagesFlexo/01-main/e-3.png, id=925, 770.88pt x 481.8pt>
 File: src/imagesFlexo/01-main/e-3.png Graphic file (type png)
 <use src/imagesFlexo/01-main/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/01-main/e-3.png  used on input line 63.
@@ -938,7 +935,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [16 <./src/imagesFlexo/01-main/e-3.png>]
-<src/imagesFlexo/01-main/e-4.png, id=935, 770.88pt x 481.8pt>
+<src/imagesFlexo/01-main/e-4.png, id=930, 770.88pt x 481.8pt>
 File: src/imagesFlexo/01-main/e-4.png Graphic file (type png)
 <use src/imagesFlexo/01-main/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/01-main/e-4.png  used on input line 81.
@@ -956,7 +953,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [17 <./src/imagesFlexo/01-main/e-4.png>]
-<src/imagesFlexo/01-main/e-5.png, id=940, 770.88pt x 481.8pt>
+<src/imagesFlexo/01-main/e-5.png, id=935, 770.88pt x 481.8pt>
 File: src/imagesFlexo/01-main/e-5.png Graphic file (type png)
 <use src/imagesFlexo/01-main/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/01-main/e-5.png  used on input line 95.
@@ -981,7 +978,7 @@ File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 9.
-<src/imagesFlexo/02-machine/e-Tela-Principal.png, id=946, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-Tela-Principal.png, id=941, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/02-machine/e-Tela-Principal.png  used on input line 15.
@@ -999,7 +996,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [19 <./src/imagesFlexo/02-machine/e-Tela-Principal.png>]
-<src/imagesFlexo/02-machine/e-1.png, id=952, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-1.png, id=947, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-1.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/02-machine/e-1.png  used on input line 30.
@@ -1017,7 +1014,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [20 <./src/imagesFlexo/02-machine/e-1.png>]
-<src/imagesFlexo/02-machine/e-2.png, id=957, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-2.png, id=952, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-2.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/02-machine/e-2.png  used on input line 45.
@@ -1035,7 +1032,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [21 <./src/imagesFlexo/02-machine/e-2.png>]
-<src/imagesFlexo/02-machine/e-3.png, id=962, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-3.png, id=957, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-3.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/02-machine/e-3.png  used on input line 60.
@@ -1053,7 +1050,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [22 <./src/imagesFlexo/02-machine/e-3.png>]
-<src/imagesFlexo/02-machine/e-4.png, id=967, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-4.png, id=962, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-4.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/02-machine/e-4.png  used on input line 75.
@@ -1071,7 +1068,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [23 <./src/imagesFlexo/02-machine/e-4.png>]
-<src/imagesFlexo/02-machine/e-5.png, id=972, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-5.png, id=967, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-5.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/02-machine/e-5.png  used on input line 90.
@@ -1089,7 +1086,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [24 <./src/imagesFlexo/02-machine/e-5.png>]
-<src/imagesFlexo/02-machine/e-6.png, id=978, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-6.png, id=973, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-6.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-6.png>
 Package pdftex.def Info: src/imagesFlexo/02-machine/e-6.png  used on input line 105.
@@ -1107,7 +1104,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [25 <./src/imagesFlexo/02-machine/e-6.png>]
-<src/imagesFlexo/02-machine/e-7.png, id=983, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-7.png, id=978, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-7.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-7.png>
 Package pdftex.def Info: src/imagesFlexo/02-machine/e-7.png  used on input line 120.
@@ -1125,7 +1122,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [26 <./src/imagesFlexo/02-machine/e-7.png>]
-<src/imagesFlexo/02-machine/e-Tela-Principal-2.png, id=988, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-Tela-Principal-2.png, id=983, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-Tela-Principal-2.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-Tela-Principal-2.png>
 Package pdftex.def Info: src/imagesFlexo/02-machine/e-Tela-Principal-2.png  used on input line 139.
@@ -1143,7 +1140,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [27 <./src/imagesFlexo/02-machine/e-Tela-Principal-2.png>]
-<src/imagesFlexo/02-machine/e-9.png, id=993, 770.88pt x 481.8pt>
+<src/imagesFlexo/02-machine/e-9.png, id=988, 770.88pt x 481.8pt>
 File: src/imagesFlexo/02-machine/e-9.png Graphic file (type png)
 <use src/imagesFlexo/02-machine/e-9.png>
 Package pdftex.def Info: src/imagesFlexo/02-machine/e-9.png  used on input line 152.
@@ -1162,7 +1159,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [28 <./src/imagesFlexo/02-machine/e-9.png>] (pagesFlexo/screenDescriptions/03-feeder/commands/feederCommands.tex
-<src/imagesFlexo/03-feeder/commands/e-Tela-Principal.png, id=998, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-Tela-Principal.png, id=993, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-Tela-Principal.png  used on input line 8.
@@ -1180,7 +1177,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [29 <./src/imagesFlexo/03-feeder/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/03-feeder/commands/e-1.png, id=1003, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-1.png, id=998, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-1.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-1.png  used on input line 18.
@@ -1198,7 +1195,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [30 <./src/imagesFlexo/03-feeder/commands/e-1.png>]
-<src/imagesFlexo/03-feeder/commands/e-2.png, id=1010, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-2.png, id=1005, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-2.png  used on input line 30.
@@ -1216,7 +1213,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [31 <./src/imagesFlexo/03-feeder/commands/e-2.png>]
-<src/imagesFlexo/03-feeder/commands/e-3.png, id=1015, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-3.png, id=1010, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-3.png  used on input line 41.
@@ -1234,7 +1231,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [32 <./src/imagesFlexo/03-feeder/commands/e-3.png>]
-<src/imagesFlexo/03-feeder/commands/e-4.png, id=1020, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-4.png, id=1015, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-4.png  used on input line 52.
@@ -1252,7 +1249,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [33 <./src/imagesFlexo/03-feeder/commands/e-4.png>]
-<src/imagesFlexo/03-feeder/commands/e-5.png, id=1025, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-5.png, id=1020, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-5.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-5.png  used on input line 63.
@@ -1270,7 +1267,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [34 <./src/imagesFlexo/03-feeder/commands/e-5.png>]
-<src/imagesFlexo/03-feeder/commands/e-6.png, id=1030, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/commands/e-6.png, id=1025, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/commands/e-6.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/commands/e-6.png>
 Package pdftex.def Info: src/imagesFlexo/03-feeder/commands/e-6.png  used on input line 74.
@@ -1289,7 +1286,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [35 <./src/imagesFlexo/03-feeder/commands/e-6.png>] (pagesFlexo/screenDescriptions/04-printter/01-printters/commands/printtersCommands.tex
-<src/imagesFlexo/04-printter/01-printters/commands/e-Tela-Principal.png, id=1035, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-Tela-Principal.png, id=1030, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-Tela-Principal.png  used on input line 7.
@@ -1307,7 +1304,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [36 <./src/imagesFlexo/04-printter/01-printters/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/04-printter/01-printters/commands/e-1.png, id=1041, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-1.png, id=1036, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-1.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-1.png  used on input line 17.
@@ -1325,7 +1322,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [37 <./src/imagesFlexo/04-printter/01-printters/commands/e-1.png>]
-<src/imagesFlexo/04-printter/01-printters/commands/e-2.png, id=1046, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-2.png, id=1041, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-2.png  used on input line 28.
@@ -1343,7 +1340,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [38 <./src/imagesFlexo/04-printter/01-printters/commands/e-2.png>]
-<src/imagesFlexo/04-printter/01-printters/commands/e-3.png, id=1051, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-3.png, id=1046, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-3.png  used on input line 39.
@@ -1361,7 +1358,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [39 <./src/imagesFlexo/04-printter/01-printters/commands/e-3.png>]
-<src/imagesFlexo/04-printter/01-printters/commands/e-4.png, id=1056, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-4.png, id=1051, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-4.png  used on input line 50.
@@ -1379,7 +1376,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [40 <./src/imagesFlexo/04-printter/01-printters/commands/e-4.png>]
-<src/imagesFlexo/04-printter/01-printters/commands/e-5.png, id=1061, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-5.png, id=1056, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-5.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-5.png  used on input line 61.
@@ -1397,7 +1394,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [41 <./src/imagesFlexo/04-printter/01-printters/commands/e-5.png>]
-<src/imagesFlexo/04-printter/01-printters/commands/e-6.png, id=1066, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/commands/e-6.png, id=1061, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/commands/e-6.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/commands/e-6.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/commands/e-6.png  used on input line 72.
@@ -1416,7 +1413,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [42 <./src/imagesFlexo/04-printter/01-printters/commands/e-6.png>] (pagesFlexo/screenDescriptions/04-printter/02-printter/commands/printterCommand.tex
-<src/imagesFlexo/04-printter/02-printter/commands/e-Tela-Principal.png, id=1072, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/02-printter/commands/e-Tela-Principal.png, id=1067, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/02-printter/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/02-printter/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-Tela-Principal.png  used on input line 8.
@@ -1434,7 +1431,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [43 <./src/imagesFlexo/04-printter/02-printter/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/04-printter/02-printter/commands/e-2.png, id=1077, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/02-printter/commands/e-2.png, id=1072, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/02-printter/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/02-printter/commands/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-2.png  used on input line 18.
@@ -1452,7 +1449,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [44 <./src/imagesFlexo/04-printter/02-printter/commands/e-2.png>]
-<src/imagesFlexo/04-printter/02-printter/commands/e-3.png, id=1082, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/02-printter/commands/e-3.png, id=1077, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/02-printter/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/02-printter/commands/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-3.png  used on input line 29.
@@ -1470,7 +1467,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [45 <./src/imagesFlexo/04-printter/02-printter/commands/e-3.png>]
-<src/imagesFlexo/04-printter/02-printter/commands/e-4.png, id=1087, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/02-printter/commands/e-4.png, id=1082, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/02-printter/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/02-printter/commands/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-4.png  used on input line 40.
@@ -1488,7 +1485,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [46 <./src/imagesFlexo/04-printter/02-printter/commands/e-4.png>]
-<src/imagesFlexo/04-printter/02-printter/commands/e-5.png, id=1092, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/02-printter/commands/e-5.png, id=1087, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/02-printter/commands/e-5.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/02-printter/commands/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-5.png  used on input line 51.
@@ -1506,7 +1503,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [47 <./src/imagesFlexo/04-printter/02-printter/commands/e-5.png>]
-<src/imagesFlexo/04-printter/02-printter/commands/e-6.png, id=1097, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/02-printter/commands/e-6.png, id=1092, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/02-printter/commands/e-6.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/02-printter/commands/e-6.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/02-printter/commands/e-6.png  used on input line 62.
@@ -1525,7 +1522,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [48 <./src/imagesFlexo/04-printter/02-printter/commands/e-6.png>] (pagesFlexo/screenDescriptions/05-slotter/commands/slotterCommands.tex
-<src/imagesFlexo/05-slotter/commands/e-Tela-Principal.png, id=1103, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/commands/e-Tela-Principal.png, id=1098, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-Tela-Principal.png  used on input line 7.
@@ -1543,7 +1540,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [49 <./src/imagesFlexo/05-slotter/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/05-slotter/commands/e-2.png, id=1108, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/commands/e-2.png, id=1103, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/commands/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-2.png  used on input line 17.
@@ -1561,7 +1558,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [50 <./src/imagesFlexo/05-slotter/commands/e-2.png>]
-<src/imagesFlexo/05-slotter/commands/e-3.png, id=1113, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/commands/e-3.png, id=1108, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/commands/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-3.png  used on input line 28.
@@ -1579,7 +1576,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [51 <./src/imagesFlexo/05-slotter/commands/e-3.png>]
-<src/imagesFlexo/05-slotter/commands/e-4.png, id=1118, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/commands/e-4.png, id=1113, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/commands/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-4.png  used on input line 40.
@@ -1597,7 +1594,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [52 <./src/imagesFlexo/05-slotter/commands/e-4.png>]
-<src/imagesFlexo/05-slotter/commands/e-5.png, id=1123, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/commands/e-5.png, id=1118, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/commands/e-5.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/commands/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/commands/e-5.png  used on input line 51.
@@ -1616,7 +1613,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [53 <./src/imagesFlexo/05-slotter/commands/e-5.png>] (pagesFlexo/screenDescriptions/06-drilling/commands/drillingCommands.tex
-<src/imagesFlexo/06-drilling/commands/e-Tela-Principal.png, id=1128, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/commands/e-Tela-Principal.png, id=1123, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-Tela-Principal.png  used on input line 7.
@@ -1634,7 +1631,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [54 <./src/imagesFlexo/06-drilling/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/06-drilling/commands/e-1.png, id=1134, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/commands/e-1.png, id=1129, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/commands/e-1.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/commands/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-1.png  used on input line 17.
@@ -1652,7 +1649,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [55 <./src/imagesFlexo/06-drilling/commands/e-1.png>]
-<src/imagesFlexo/06-drilling/commands/e-2.png, id=1139, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/commands/e-2.png, id=1134, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/commands/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-2.png  used on input line 28.
@@ -1670,7 +1667,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [56 <./src/imagesFlexo/06-drilling/commands/e-2.png>]
-<src/imagesFlexo/06-drilling/commands/e-3.png, id=1144, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/commands/e-3.png, id=1139, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/commands/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-3.png  used on input line 39.
@@ -1688,7 +1685,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [57 <./src/imagesFlexo/06-drilling/commands/e-3.png>]
-<src/imagesFlexo/06-drilling/commands/e-4.png, id=1149, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/commands/e-4.png, id=1144, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/commands/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/06-drilling/commands/e-4.png  used on input line 50.
@@ -1707,7 +1704,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [58 <./src/imagesFlexo/06-drilling/commands/e-4.png>] (pagesFlexo/screenDescriptions/07-fold/commands/foldCommands.tex
-<src/imagesFlexo/07-fold/commands/e-Tela-Principal.png, id=1154, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-Tela-Principal.png, id=1149, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-Tela-Principal.png  used on input line 7.
@@ -1725,7 +1722,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [59 <./src/imagesFlexo/07-fold/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/07-fold/commands/e-1.png, id=1159, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-1.png, id=1154, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-1.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-1.png  used on input line 17.
@@ -1743,7 +1740,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [60 <./src/imagesFlexo/07-fold/commands/e-1.png>]
-<src/imagesFlexo/07-fold/commands/e-2.png, id=1165, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-2.png, id=1160, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-2.png  used on input line 28.
@@ -1761,7 +1758,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [61 <./src/imagesFlexo/07-fold/commands/e-2.png>]
-<src/imagesFlexo/07-fold/commands/e-3.png, id=1170, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-3.png, id=1165, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-3.png  used on input line 39.
@@ -1779,7 +1776,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [62 <./src/imagesFlexo/07-fold/commands/e-3.png>]
-<src/imagesFlexo/07-fold/commands/e-4.png, id=1175, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-4.png, id=1170, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-4.png  used on input line 50.
@@ -1797,7 +1794,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [63 <./src/imagesFlexo/07-fold/commands/e-4.png>]
-<src/imagesFlexo/07-fold/commands/e-5.png, id=1180, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-5.png, id=1175, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-5.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-5.png  used on input line 61.
@@ -1815,7 +1812,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [64 <./src/imagesFlexo/07-fold/commands/e-5.png>]
-<src/imagesFlexo/07-fold/commands/e-6.png, id=1185, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-6.png, id=1180, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-6.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-6.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-6.png  used on input line 72.
@@ -1833,7 +1830,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [65 <./src/imagesFlexo/07-fold/commands/e-6.png>]
-<src/imagesFlexo/07-fold/commands/e-7.png, id=1190, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/commands/e-7.png, id=1185, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/commands/e-7.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/commands/e-7.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/commands/e-7.png  used on input line 83.
@@ -1852,7 +1849,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [66 <./src/imagesFlexo/07-fold/commands/e-7.png>] (pagesFlexo/screenDescriptions/08-count/commands/countCommands.tex
-<src/imagesFlexo/08-count/commands/e-Tela-Principal.png, id=1196, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-Tela-Principal.png, id=1191, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-Tela-Principal.png  used on input line 7.
@@ -1870,7 +1867,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [67 <./src/imagesFlexo/08-count/commands/e-Tela-Principal.png>]
-<src/imagesFlexo/08-count/commands/e-1.png, id=1201, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-1.png, id=1196, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-1.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-1.png  used on input line 17.
@@ -1888,7 +1885,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [68 <./src/imagesFlexo/08-count/commands/e-1.png>]
-<src/imagesFlexo/08-count/commands/e-2.png, id=1206, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-2.png, id=1201, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-2.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-2.png  used on input line 28.
@@ -1906,7 +1903,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [69 <./src/imagesFlexo/08-count/commands/e-2.png>]
-<src/imagesFlexo/08-count/commands/e-3.png, id=1211, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-3.png, id=1206, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-3.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-3.png  used on input line 39.
@@ -1924,7 +1921,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [70 <./src/imagesFlexo/08-count/commands/e-3.png>]
-<src/imagesFlexo/08-count/commands/e-4.png, id=1216, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-4.png, id=1211, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-4.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-4.png  used on input line 50.
@@ -1942,7 +1939,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [71 <./src/imagesFlexo/08-count/commands/e-4.png>]
-<src/imagesFlexo/08-count/commands/e-5.png, id=1221, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-5.png, id=1216, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-5.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-5.png  used on input line 61.
@@ -1960,7 +1957,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [72 <./src/imagesFlexo/08-count/commands/e-5.png>]
-<src/imagesFlexo/08-count/commands/e-6.png, id=1227, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-6.png, id=1222, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-6.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-6.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-6.png  used on input line 72.
@@ -1978,7 +1975,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [73 <./src/imagesFlexo/08-count/commands/e-6.png>]
-<src/imagesFlexo/08-count/commands/e-7.png, id=1232, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-7.png, id=1227, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-7.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-7.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-7.png  used on input line 83.
@@ -1996,7 +1993,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [74 <./src/imagesFlexo/08-count/commands/e-7.png>]
-<src/imagesFlexo/08-count/commands/e-Tela-Principal-2.png, id=1237, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-Tela-Principal-2.png, id=1232, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-Tela-Principal-2.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-Tela-Principal-2.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-Tela-Principal-2.png  used on input line 95.
@@ -2014,7 +2011,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [75 <./src/imagesFlexo/08-count/commands/e-Tela-Principal-2.png>]
-<src/imagesFlexo/08-count/commands/e-9.png, id=1243, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-9.png, id=1238, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-9.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-9.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-9.png  used on input line 105.
@@ -2032,7 +2029,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [76 <./src/imagesFlexo/08-count/commands/e-9.png>]
-<src/imagesFlexo/08-count/commands/e-10.png, id=1248, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-10.png, id=1243, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-10.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-10.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-10.png  used on input line 116.
@@ -2050,7 +2047,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [77 <./src/imagesFlexo/08-count/commands/e-10.png>]
-<src/imagesFlexo/08-count/commands/e-11.png, id=1253, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-11.png, id=1248, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-11.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-11.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-11.png  used on input line 127.
@@ -2068,7 +2065,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [78 <./src/imagesFlexo/08-count/commands/e-11.png>]
-<src/imagesFlexo/08-count/commands/e-12.png, id=1259, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-12.png, id=1254, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-12.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-12.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-12.png  used on input line 138.
@@ -2086,7 +2083,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [79 <./src/imagesFlexo/08-count/commands/e-12.png>]
-<src/imagesFlexo/08-count/commands/e-13.png, id=1264, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/commands/e-13.png, id=1259, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/commands/e-13.png Graphic file (type png)
 <use src/imagesFlexo/08-count/commands/e-13.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/commands/e-13.png  used on input line 149.
@@ -2105,7 +2102,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [80 <./src/imagesFlexo/08-count/commands/e-13.png>] (pagesFlexo/screenDescriptions/03-feeder/settings/feederSettings.tex
-<src/imagesFlexo/03-feeder/settings/e-Tela-Principal.png, id=1269, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/settings/e-Tela-Principal.png, id=1264, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/settings/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/settings/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/03-feeder/settings/e-Tela-Principal.png  used on input line 7.
@@ -2123,7 +2120,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [81 <./src/imagesFlexo/03-feeder/settings/e-Tela-Principal.png>]
-<src/imagesFlexo/03-feeder/settings/e-1.png, id=1274, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/settings/e-1.png, id=1269, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/settings/e-1.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/settings/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/03-feeder/settings/e-1.png  used on input line 17.
@@ -2141,7 +2138,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [82 <./src/imagesFlexo/03-feeder/settings/e-1.png>]
-<src/imagesFlexo/03-feeder/settings/e-2.png, id=1279, 770.88pt x 481.8pt>
+<src/imagesFlexo/03-feeder/settings/e-2.png, id=1274, 770.88pt x 481.8pt>
 File: src/imagesFlexo/03-feeder/settings/e-2.png Graphic file (type png)
 <use src/imagesFlexo/03-feeder/settings/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/03-feeder/settings/e-2.png  used on input line 28.
@@ -2160,7 +2157,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [83 <./src/imagesFlexo/03-feeder/settings/e-2.png>] (pagesFlexo/screenDescriptions/04-printter/01-printters/settings/printtersSettings.tex
-<src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal.png, id=1284, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal.png, id=1279, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal.png  used on input line 7.
@@ -2178,7 +2175,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [84 <./src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal.png>]
-<src/imagesFlexo/04-printter/01-printters/settings/e-1.png, id=1290, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-1.png, id=1285, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-1.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-1.png  used on input line 17.
@@ -2196,7 +2193,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [85 <./src/imagesFlexo/04-printter/01-printters/settings/e-1.png>]
-<src/imagesFlexo/04-printter/01-printters/settings/e-2.png, id=1295, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-2.png, id=1290, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-2.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-2.png  used on input line 28.
@@ -2214,7 +2211,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [86 <./src/imagesFlexo/04-printter/01-printters/settings/e-2.png>]
-<src/imagesFlexo/04-printter/01-printters/settings/e-3.png, id=1300, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-3.png, id=1295, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-3.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-3.png  used on input line 39.
@@ -2232,7 +2229,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [87 <./src/imagesFlexo/04-printter/01-printters/settings/e-3.png>]
-<src/imagesFlexo/04-printter/01-printters/settings/e-4.png, id=1305, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-4.png, id=1300, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-4.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-4.png  used on input line 50.
@@ -2250,7 +2247,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [88 <./src/imagesFlexo/04-printter/01-printters/settings/e-4.png>]
-<src/imagesFlexo/04-printter/01-printters/settings/e-5.png, id=1310, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-5.png, id=1305, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-5.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-5.png  used on input line 61.
@@ -2268,7 +2265,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [89 <./src/imagesFlexo/04-printter/01-printters/settings/e-5.png>]
-<src/imagesFlexo/04-printter/01-printters/settings/e-6.png, id=1315, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-6.png, id=1310, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-6.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-6.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-6.png  used on input line 72.
@@ -2286,7 +2283,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [90 <./src/imagesFlexo/04-printter/01-printters/settings/e-6.png>]
-<src/imagesFlexo/04-printter/01-printters/settings/e-7.png, id=1321, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-7.png, id=1316, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-7.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-7.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-7.png  used on input line 83.
@@ -2304,7 +2301,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [91 <./src/imagesFlexo/04-printter/01-printters/settings/e-7.png>]
-<src/imagesFlexo/04-printter/01-printters/settings/e-8.png, id=1326, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-8.png, id=1321, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-8.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-8.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-8.png  used on input line 94.
@@ -2322,13 +2319,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [92 <./src/imagesFlexo/04-printter/01-printters/settings/e-8.png>]
-<src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal-2.png, id=1331, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal-2.png, id=1326, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal-2.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal-2.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal-2.png  used on input line 106.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
  [93 <./src/imagesFlexo/04-printter/01-printters/settings/e-Tela-Principal-2.png>]
-<src/imagesFlexo/04-printter/01-printters/settings/e-9.png, id=1336, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-9.png, id=1331, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-9.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-9.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-9.png  used on input line 116.
@@ -2346,7 +2343,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [94 <./src/imagesFlexo/04-printter/01-printters/settings/e-9.png>]
-<src/imagesFlexo/04-printter/01-printters/settings/e-10.png, id=1341, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-10.png, id=1336, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-10.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-10.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-10.png  used on input line 127.
@@ -2364,7 +2361,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [95 <./src/imagesFlexo/04-printter/01-printters/settings/e-10.png>]
-<src/imagesFlexo/04-printter/01-printters/settings/e-11.png, id=1346, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-11.png, id=1341, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-11.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-11.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-11.png  used on input line 138.
@@ -2382,7 +2379,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [96 <./src/imagesFlexo/04-printter/01-printters/settings/e-11.png>]
-<src/imagesFlexo/04-printter/01-printters/settings/e-12.png, id=1352, 770.88pt x 481.8pt>
+<src/imagesFlexo/04-printter/01-printters/settings/e-12.png, id=1347, 770.88pt x 481.8pt>
 File: src/imagesFlexo/04-printter/01-printters/settings/e-12.png Graphic file (type png)
 <use src/imagesFlexo/04-printter/01-printters/settings/e-12.png>
 Package pdftex.def Info: src/imagesFlexo/04-printter/01-printters/settings/e-12.png  used on input line 149.
@@ -2401,7 +2398,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [97 <./src/imagesFlexo/04-printter/01-printters/settings/e-12.png>] (pagesFlexo/screenDescriptions/05-slotter/settings/slotterSettings.tex
-<src/imagesFlexo/05-slotter/settings/e-Tela-Principal.png, id=1357, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/settings/e-Tela-Principal.png, id=1352, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/settings/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/settings/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-Tela-Principal.png  used on input line 7.
@@ -2419,7 +2416,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [98 <./src/imagesFlexo/05-slotter/settings/e-Tela-Principal.png>]
-<src/imagesFlexo/05-slotter/settings/e-1.png, id=1362, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/settings/e-1.png, id=1357, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/settings/e-1.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/settings/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-1.png  used on input line 17.
@@ -2437,7 +2434,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [99 <./src/imagesFlexo/05-slotter/settings/e-1.png>]
-<src/imagesFlexo/05-slotter/settings/e-2.png, id=1367, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/settings/e-2.png, id=1362, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/settings/e-2.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/settings/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-2.png  used on input line 28.
@@ -2455,7 +2452,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [100 <./src/imagesFlexo/05-slotter/settings/e-2.png>]
-<src/imagesFlexo/05-slotter/settings/e-3.png, id=1372, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/settings/e-3.png, id=1367, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/settings/e-3.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/settings/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-3.png  used on input line 39.
@@ -2473,7 +2470,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [101 <./src/imagesFlexo/05-slotter/settings/e-3.png>]
-<src/imagesFlexo/05-slotter/settings/e-4.png, id=1377, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/settings/e-4.png, id=1372, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/settings/e-4.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/settings/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-4.png  used on input line 50.
@@ -2491,7 +2488,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [102 <./src/imagesFlexo/05-slotter/settings/e-4.png>]
-<src/imagesFlexo/05-slotter/settings/e-5.png, id=1383, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/settings/e-5.png, id=1378, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/settings/e-5.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/settings/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-5.png  used on input line 61.
@@ -2509,7 +2506,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [103 <./src/imagesFlexo/05-slotter/settings/e-5.png>]
-<src/imagesFlexo/05-slotter/settings/e-6.png, id=1388, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/settings/e-6.png, id=1383, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/settings/e-6.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/settings/e-6.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-6.png  used on input line 72.
@@ -2527,7 +2524,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [104 <./src/imagesFlexo/05-slotter/settings/e-6.png>]
-<src/imagesFlexo/05-slotter/settings/e-Tela-Principal-2.png, id=1393, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/settings/e-Tela-Principal-2.png, id=1388, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/settings/e-Tela-Principal-2.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/settings/e-Tela-Principal-2.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-Tela-Principal-2.png  used on input line 84.
@@ -2545,7 +2542,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [105 <./src/imagesFlexo/05-slotter/settings/e-Tela-Principal-2.png>]
-<src/imagesFlexo/05-slotter/settings/e-7.png, id=1398, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/settings/e-7.png, id=1393, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/settings/e-7.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/settings/e-7.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-7.png  used on input line 94.
@@ -2563,7 +2560,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [106 <./src/imagesFlexo/05-slotter/settings/e-7.png>]
-<src/imagesFlexo/05-slotter/settings/e-8.png, id=1403, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/settings/e-8.png, id=1398, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/settings/e-8.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/settings/e-8.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-8.png  used on input line 105.
@@ -2581,7 +2578,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [107 <./src/imagesFlexo/05-slotter/settings/e-8.png>]
-<src/imagesFlexo/05-slotter/settings/e-9.png, id=1408, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/settings/e-9.png, id=1403, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/settings/e-9.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/settings/e-9.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-9.png  used on input line 116.
@@ -2599,7 +2596,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [108 <./src/imagesFlexo/05-slotter/settings/e-9.png>]
-<src/imagesFlexo/05-slotter/settings/e-10.png, id=1414, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/settings/e-10.png, id=1409, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/settings/e-10.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/settings/e-10.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-10.png  used on input line 127.
@@ -2617,7 +2614,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [109 <./src/imagesFlexo/05-slotter/settings/e-10.png>]
-<src/imagesFlexo/05-slotter/settings/e-11.png, id=1419, 770.88pt x 481.8pt>
+<src/imagesFlexo/05-slotter/settings/e-11.png, id=1414, 770.88pt x 481.8pt>
 File: src/imagesFlexo/05-slotter/settings/e-11.png Graphic file (type png)
 <use src/imagesFlexo/05-slotter/settings/e-11.png>
 Package pdftex.def Info: src/imagesFlexo/05-slotter/settings/e-11.png  used on input line 138.
@@ -2636,7 +2633,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [110 <./src/imagesFlexo/05-slotter/settings/e-11.png>] (pagesFlexo/screenDescriptions/06-drilling/settings/drillingSettings.tex
-<src/imagesFlexo/06-drilling/settings/e-Tela-Principal.png, id=1424, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/settings/e-Tela-Principal.png, id=1419, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/settings/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/settings/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/06-drilling/settings/e-Tela-Principal.png  used on input line 7.
@@ -2654,7 +2651,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [111 <./src/imagesFlexo/06-drilling/settings/e-Tela-Principal.png>]
-<src/imagesFlexo/06-drilling/settings/e-1.png, id=1429, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/settings/e-1.png, id=1424, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/settings/e-1.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/settings/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/06-drilling/settings/e-1.png  used on input line 17.
@@ -2672,7 +2669,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [112 <./src/imagesFlexo/06-drilling/settings/e-1.png>]
-<src/imagesFlexo/06-drilling/settings/e-2.png, id=1434, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/settings/e-2.png, id=1429, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/settings/e-2.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/settings/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/06-drilling/settings/e-2.png  used on input line 28.
@@ -2690,7 +2687,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [113 <./src/imagesFlexo/06-drilling/settings/e-2.png>]
-<src/imagesFlexo/06-drilling/settings/e-3.png, id=1439, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/settings/e-3.png, id=1434, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/settings/e-3.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/settings/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/06-drilling/settings/e-3.png  used on input line 39.
@@ -2708,7 +2705,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [114 <./src/imagesFlexo/06-drilling/settings/e-3.png>]
-<src/imagesFlexo/06-drilling/settings/e-4.png, id=1445, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/settings/e-4.png, id=1440, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/settings/e-4.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/settings/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/06-drilling/settings/e-4.png  used on input line 50.
@@ -2726,7 +2723,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [115 <./src/imagesFlexo/06-drilling/settings/e-4.png>]
-<src/imagesFlexo/06-drilling/settings/e-5.png, id=1450, 770.88pt x 481.8pt>
+<src/imagesFlexo/06-drilling/settings/e-5.png, id=1445, 770.88pt x 481.8pt>
 File: src/imagesFlexo/06-drilling/settings/e-5.png Graphic file (type png)
 <use src/imagesFlexo/06-drilling/settings/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/06-drilling/settings/e-5.png  used on input line 61.
@@ -2745,7 +2742,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [116 <./src/imagesFlexo/06-drilling/settings/e-5.png>] (pagesFlexo/screenDescriptions/07-fold/settings/foldSettings.tex
-<src/imagesFlexo/07-fold/settings/e-Tela-Principal.png, id=1455, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/settings/e-Tela-Principal.png, id=1450, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/settings/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/settings/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/settings/e-Tela-Principal.png  used on input line 7.
@@ -2763,7 +2760,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [117 <./src/imagesFlexo/07-fold/settings/e-Tela-Principal.png>]
-<src/imagesFlexo/07-fold/settings/e-1.png, id=1460, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/settings/e-1.png, id=1455, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/settings/e-1.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/settings/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/settings/e-1.png  used on input line 17.
@@ -2781,7 +2778,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [118 <./src/imagesFlexo/07-fold/settings/e-1.png>]
-<src/imagesFlexo/07-fold/settings/e-2.png, id=1465, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/settings/e-2.png, id=1460, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/settings/e-2.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/settings/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/settings/e-2.png  used on input line 28.
@@ -2799,7 +2796,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [119 <./src/imagesFlexo/07-fold/settings/e-2.png>]
-<src/imagesFlexo/07-fold/settings/e-3.png, id=1470, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/settings/e-3.png, id=1465, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/settings/e-3.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/settings/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/settings/e-3.png  used on input line 39.
@@ -2817,7 +2814,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [120 <./src/imagesFlexo/07-fold/settings/e-3.png>]
-<src/imagesFlexo/07-fold/settings/e-4.png, id=1476, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/settings/e-4.png, id=1471, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/settings/e-4.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/settings/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/settings/e-4.png  used on input line 50.
@@ -2835,7 +2832,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [121 <./src/imagesFlexo/07-fold/settings/e-4.png>]
-<src/imagesFlexo/07-fold/settings/e-5.png, id=1481, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/settings/e-5.png, id=1476, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/settings/e-5.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/settings/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/settings/e-5.png  used on input line 61.
@@ -2853,7 +2850,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [122 <./src/imagesFlexo/07-fold/settings/e-5.png>]
-<src/imagesFlexo/07-fold/settings/e-Tela-Principal-2.png, id=1486, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/settings/e-Tela-Principal-2.png, id=1481, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/settings/e-Tela-Principal-2.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/settings/e-Tela-Principal-2.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/settings/e-Tela-Principal-2.png  used on input line 73.
@@ -2871,7 +2868,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [123 <./src/imagesFlexo/07-fold/settings/e-Tela-Principal-2.png>]
-<src/imagesFlexo/07-fold/settings/e-6.png, id=1491, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/settings/e-6.png, id=1486, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/settings/e-6.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/settings/e-6.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/settings/e-6.png  used on input line 83.
@@ -2889,7 +2886,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [124 <./src/imagesFlexo/07-fold/settings/e-6.png>]
-<src/imagesFlexo/07-fold/settings/e-7.png, id=1496, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/settings/e-7.png, id=1491, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/settings/e-7.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/settings/e-7.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/settings/e-7.png  used on input line 94.
@@ -2907,7 +2904,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [125 <./src/imagesFlexo/07-fold/settings/e-7.png>]
-<src/imagesFlexo/07-fold/settings/e-8.png, id=1501, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/settings/e-8.png, id=1496, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/settings/e-8.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/settings/e-8.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/settings/e-8.png  used on input line 105.
@@ -2925,7 +2922,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [126 <./src/imagesFlexo/07-fold/settings/e-8.png>]
-<src/imagesFlexo/07-fold/settings/e-9.png, id=1507, 770.88pt x 481.8pt>
+<src/imagesFlexo/07-fold/settings/e-9.png, id=1502, 770.88pt x 481.8pt>
 File: src/imagesFlexo/07-fold/settings/e-9.png Graphic file (type png)
 <use src/imagesFlexo/07-fold/settings/e-9.png>
 Package pdftex.def Info: src/imagesFlexo/07-fold/settings/e-9.png  used on input line 116.
@@ -2944,7 +2941,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [127 <./src/imagesFlexo/07-fold/settings/e-9.png>] (pagesFlexo/screenDescriptions/08-count/settings/countSettings.tex
-<src/imagesFlexo/08-count/settings/e-Tela-Principal.png, id=1512, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-Tela-Principal.png, id=1507, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-Tela-Principal.png  used on input line 7.
@@ -2962,7 +2959,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [128 <./src/imagesFlexo/08-count/settings/e-Tela-Principal.png>]
-<src/imagesFlexo/08-count/settings/e-1.png, id=1517, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-1.png, id=1512, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-1.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-1.png  used on input line 17.
@@ -2980,7 +2977,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [129 <./src/imagesFlexo/08-count/settings/e-1.png>]
-<src/imagesFlexo/08-count/settings/e-2.png, id=1522, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-2.png, id=1517, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-2.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-2.png  used on input line 28.
@@ -2998,7 +2995,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [130 <./src/imagesFlexo/08-count/settings/e-2.png>]
-<src/imagesFlexo/08-count/settings/e-3.png, id=1527, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-3.png, id=1522, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-3.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-3.png  used on input line 39.
@@ -3016,7 +3013,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [131 <./src/imagesFlexo/08-count/settings/e-3.png>]
-<src/imagesFlexo/08-count/settings/e-4.png, id=1532, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-4.png, id=1527, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-4.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-4.png  used on input line 50.
@@ -3034,7 +3031,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [132 <./src/imagesFlexo/08-count/settings/e-4.png>]
-<src/imagesFlexo/08-count/settings/e-5.png, id=1538, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-5.png, id=1533, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-5.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-5.png  used on input line 61.
@@ -3052,7 +3049,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [133 <./src/imagesFlexo/08-count/settings/e-5.png>]
-<src/imagesFlexo/08-count/settings/e-6.png, id=1543, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-6.png, id=1538, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-6.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-6.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-6.png  used on input line 72.
@@ -3070,7 +3067,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [134 <./src/imagesFlexo/08-count/settings/e-6.png>]
-<src/imagesFlexo/08-count/settings/e-Tela-Principal-2.png, id=1548, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-Tela-Principal-2.png, id=1543, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-Tela-Principal-2.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-Tela-Principal-2.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-Tela-Principal-2.png  used on input line 84.
@@ -3088,7 +3085,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [135 <./src/imagesFlexo/08-count/settings/e-Tela-Principal-2.png>]
-<src/imagesFlexo/08-count/settings/e-7.png, id=1553, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-7.png, id=1548, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-7.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-7.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-7.png  used on input line 94.
@@ -3106,7 +3103,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [136 <./src/imagesFlexo/08-count/settings/e-7.png>]
-<src/imagesFlexo/08-count/settings/e-8.png, id=1558, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-8.png, id=1553, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-8.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-8.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-8.png  used on input line 106.
@@ -3124,7 +3121,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [137 <./src/imagesFlexo/08-count/settings/e-8.png>]
-<src/imagesFlexo/08-count/settings/e-9.png, id=1563, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-9.png, id=1558, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-9.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-9.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-9.png  used on input line 118.
@@ -3142,7 +3139,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [138 <./src/imagesFlexo/08-count/settings/e-9.png>]
-<src/imagesFlexo/08-count/settings/e-10.png, id=1569, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-10.png, id=1564, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-10.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-10.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-10.png  used on input line 130.
@@ -3160,7 +3157,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [139 <./src/imagesFlexo/08-count/settings/e-10.png>]
-<src/imagesFlexo/08-count/settings/e-11.png, id=1574, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-11.png, id=1569, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-11.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-11.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-11.png  used on input line 142.
@@ -3178,7 +3175,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [140 <./src/imagesFlexo/08-count/settings/e-11.png>]
-<src/imagesFlexo/08-count/settings/e-12.png, id=1579, 770.88pt x 481.8pt>
+<src/imagesFlexo/08-count/settings/e-12.png, id=1574, 770.88pt x 481.8pt>
 File: src/imagesFlexo/08-count/settings/e-12.png Graphic file (type png)
 <use src/imagesFlexo/08-count/settings/e-12.png>
 Package pdftex.def Info: src/imagesFlexo/08-count/settings/e-12.png  used on input line 154.
@@ -3197,7 +3194,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [141 <./src/imagesFlexo/08-count/settings/e-12.png>] (pagesFlexo/screenDescriptions/09-screenSettings/screenSettings.tex
-<src/imagesFlexo/09-screenSettings/e-Tela-Principal.png, id=1584, 770.88pt x 481.8pt>
+<src/imagesFlexo/09-screenSettings/e-Tela-Principal.png, id=1579, 770.88pt x 481.8pt>
 File: src/imagesFlexo/09-screenSettings/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/09-screenSettings/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/09-screenSettings/e-Tela-Principal.png  used on input line 7.
@@ -3215,7 +3212,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [142 <./src/imagesFlexo/09-screenSettings/e-Tela-Principal.png>]
-<src/imagesFlexo/09-screenSettings/e-1.png, id=1589, 770.88pt x 481.8pt>
+<src/imagesFlexo/09-screenSettings/e-1.png, id=1584, 770.88pt x 481.8pt>
 File: src/imagesFlexo/09-screenSettings/e-1.png Graphic file (type png)
 <use src/imagesFlexo/09-screenSettings/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/09-screenSettings/e-1.png  used on input line 17.
@@ -3233,7 +3230,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [143 <./src/imagesFlexo/09-screenSettings/e-1.png>]
-<src/imagesFlexo/09-screenSettings/e-2.png, id=1594, 770.88pt x 481.8pt>
+<src/imagesFlexo/09-screenSettings/e-2.png, id=1589, 770.88pt x 481.8pt>
 File: src/imagesFlexo/09-screenSettings/e-2.png Graphic file (type png)
 <use src/imagesFlexo/09-screenSettings/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/09-screenSettings/e-2.png  used on input line 28.
@@ -3251,7 +3248,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [144 <./src/imagesFlexo/09-screenSettings/e-2.png>]
-<src/imagesFlexo/09-screenSettings/e-3.png, id=1600, 770.88pt x 481.8pt>
+<src/imagesFlexo/09-screenSettings/e-3.png, id=1595, 770.88pt x 481.8pt>
 File: src/imagesFlexo/09-screenSettings/e-3.png Graphic file (type png)
 <use src/imagesFlexo/09-screenSettings/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/09-screenSettings/e-3.png  used on input line 39.
@@ -3269,7 +3266,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [145 <./src/imagesFlexo/09-screenSettings/e-3.png>]
-<src/imagesFlexo/09-screenSettings/e-4.png, id=1605, 770.88pt x 481.8pt>
+<src/imagesFlexo/09-screenSettings/e-4.png, id=1600, 770.88pt x 481.8pt>
 File: src/imagesFlexo/09-screenSettings/e-4.png Graphic file (type png)
 <use src/imagesFlexo/09-screenSettings/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/09-screenSettings/e-4.png  used on input line 50.
@@ -3287,7 +3284,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [146 <./src/imagesFlexo/09-screenSettings/e-4.png>]
-<src/imagesFlexo/09-screenSettings/e-5.png, id=1610, 770.88pt x 481.8pt>
+<src/imagesFlexo/09-screenSettings/e-5.png, id=1605, 770.88pt x 481.8pt>
 File: src/imagesFlexo/09-screenSettings/e-5.png Graphic file (type png)
 <use src/imagesFlexo/09-screenSettings/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/09-screenSettings/e-5.png  used on input line 61.
@@ -3306,7 +3303,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [147 <./src/imagesFlexo/09-screenSettings/e-5.png>] (pagesFlexo/screenDescriptions/10-orders/01-visualization/ordersVisualization.tex
-<src/imagesFlexo/10-orders/01-visualization/e-Tela-Principal.png, id=1615, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/01-visualization/e-Tela-Principal.png, id=1610, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/01-visualization/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/01-visualization/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/01-visualization/e-Tela-Principal.png  used on input line 7.
@@ -3324,7 +3321,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [148 <./src/imagesFlexo/10-orders/01-visualization/e-Tela-Principal.png>]
-<src/imagesFlexo/10-orders/01-visualization/e-1.png, id=1621, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/01-visualization/e-1.png, id=1616, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/01-visualization/e-1.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/01-visualization/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/01-visualization/e-1.png  used on input line 17.
@@ -3342,7 +3339,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [149 <./src/imagesFlexo/10-orders/01-visualization/e-1.png>]
-<src/imagesFlexo/10-orders/01-visualization/e-2.png, id=1626, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/01-visualization/e-2.png, id=1621, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/01-visualization/e-2.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/01-visualization/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/01-visualization/e-2.png  used on input line 28.
@@ -3360,7 +3357,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [150 <./src/imagesFlexo/10-orders/01-visualization/e-2.png>]
-<src/imagesFlexo/10-orders/01-visualization/e-3.png, id=1632, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/01-visualization/e-3.png, id=1627, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/01-visualization/e-3.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/01-visualization/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/01-visualization/e-3.png  used on input line 39.
@@ -3378,7 +3375,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [151 <./src/imagesFlexo/10-orders/01-visualization/e-3.png>]
-<src/imagesFlexo/10-orders/01-visualization/e-Tela-Principal-2.png, id=1637, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/01-visualization/e-Tela-Principal-2.png, id=1632, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/01-visualization/e-Tela-Principal-2.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/01-visualization/e-Tela-Principal-2.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/01-visualization/e-Tela-Principal-2.png  used on input line 52.
@@ -3396,7 +3393,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [152 <./src/imagesFlexo/10-orders/01-visualization/e-Tela-Principal-2.png>]
-<src/imagesFlexo/10-orders/01-visualization/e-4.png, id=1643, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/01-visualization/e-4.png, id=1638, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/01-visualization/e-4.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/01-visualization/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/01-visualization/e-4.png  used on input line 62.
@@ -3414,7 +3411,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [153 <./src/imagesFlexo/10-orders/01-visualization/e-4.png>]
-<src/imagesFlexo/10-orders/01-visualization/e-5.png, id=1648, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/01-visualization/e-5.png, id=1643, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/01-visualization/e-5.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/01-visualization/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/01-visualization/e-5.png  used on input line 73.
@@ -3432,7 +3429,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [154 <./src/imagesFlexo/10-orders/01-visualization/e-5.png>]
-<src/imagesFlexo/10-orders/01-visualization/e-6.png, id=1654, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/01-visualization/e-6.png, id=1649, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/01-visualization/e-6.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/01-visualization/e-6.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/01-visualization/e-6.png  used on input line 84.
@@ -3451,7 +3448,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [155 <./src/imagesFlexo/10-orders/01-visualization/e-6.png>] (pagesFlexo/screenDescriptions/10-orders/02-new/ordersNew.tex
-<src/imagesFlexo/10-orders/02-new/e-Tela-Principal.png, id=1659, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/02-new/e-Tela-Principal.png, id=1654, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/02-new/e-Tela-Principal.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/02-new/e-Tela-Principal.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-Tela-Principal.png  used on input line 7.
@@ -3469,7 +3466,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [156 <./src/imagesFlexo/10-orders/02-new/e-Tela-Principal.png>]
-<src/imagesFlexo/10-orders/02-new/e-1.png, id=1665, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/02-new/e-1.png, id=1660, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/02-new/e-1.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/02-new/e-1.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-1.png  used on input line 17.
@@ -3487,7 +3484,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [157 <./src/imagesFlexo/10-orders/02-new/e-1.png>]
-<src/imagesFlexo/10-orders/02-new/e-2.png, id=1670, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/02-new/e-2.png, id=1665, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/02-new/e-2.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/02-new/e-2.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-2.png  used on input line 28.
@@ -3505,7 +3502,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [158 <./src/imagesFlexo/10-orders/02-new/e-2.png>]
-<src/imagesFlexo/10-orders/02-new/e-3.png, id=1675, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/02-new/e-3.png, id=1670, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/02-new/e-3.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/02-new/e-3.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-3.png  used on input line 39.
@@ -3523,7 +3520,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [159 <./src/imagesFlexo/10-orders/02-new/e-3.png>]
-<src/imagesFlexo/10-orders/02-new/e-4.png, id=1680, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/02-new/e-4.png, id=1675, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/02-new/e-4.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/02-new/e-4.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-4.png  used on input line 50.
@@ -3541,7 +3538,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [160 <./src/imagesFlexo/10-orders/02-new/e-4.png>]
-<src/imagesFlexo/10-orders/02-new/e-5.png, id=1685, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/02-new/e-5.png, id=1680, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/02-new/e-5.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/02-new/e-5.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-5.png  used on input line 61.
@@ -3559,7 +3556,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [161 <./src/imagesFlexo/10-orders/02-new/e-5.png>]
-<src/imagesFlexo/10-orders/02-new/e-Tela-Principal-2.png, id=1690, 770.88pt x 481.8pt>
+<src/imagesFlexo/10-orders/02-new/e-Tela-Principal-2.png, id=1685, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/02-new/e-Tela-Principal-2.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/02-new/e-Tela-Principal-2.png>
 Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-Tela-Principal-2.png  used on input line 73.
@@ -3577,10 +3574,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
 [162 <./src/imagesFlexo/10-orders/02-new/e-Tela-Principal-2.png>]
-<src/imagesFlexo/10-orders/02-new/e-6.png, id=1696, 770.88pt x 481.8pt>
-File: src/imagesFlexo/10-orders/02-new/e-6.png Graphic file (type png)
-<use src/imagesFlexo/10-orders/02-new/e-6.png>
-Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-6.png  used on input line 83.
+<src/imagesFlexo/10-orders/02-new/e-7.png, id=1691, 770.88pt x 481.8pt>
+File: src/imagesFlexo/10-orders/02-new/e-7.png Graphic file (type png)
+<use src/imagesFlexo/10-orders/02-new/e-7.png>
+Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-7.png  used on input line 83.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
@@ -3594,11 +3591,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[163 <./src/imagesFlexo/10-orders/02-new/e-6.png>]
-<src/imagesFlexo/10-orders/02-new/e-7.png, id=1701, 770.88pt x 481.8pt>
-File: src/imagesFlexo/10-orders/02-new/e-7.png Graphic file (type png)
-<use src/imagesFlexo/10-orders/02-new/e-7.png>
-Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-7.png  used on input line 94.
+[163 <./src/imagesFlexo/10-orders/02-new/e-7.png>]
+<src/imagesFlexo/10-orders/02-new/e-8.png, id=1696, 770.88pt x 481.8pt>
+File: src/imagesFlexo/10-orders/02-new/e-8.png Graphic file (type png)
+<use src/imagesFlexo/10-orders/02-new/e-8.png>
+Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-8.png  used on input line 94.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
@@ -3612,11 +3609,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[164 <./src/imagesFlexo/10-orders/02-new/e-7.png>]
-<src/imagesFlexo/10-orders/02-new/e-8.png, id=1706, 770.88pt x 481.8pt>
-File: src/imagesFlexo/10-orders/02-new/e-8.png Graphic file (type png)
-<use src/imagesFlexo/10-orders/02-new/e-8.png>
-Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-8.png  used on input line 105.
+[164 <./src/imagesFlexo/10-orders/02-new/e-8.png>]
+<src/imagesFlexo/10-orders/02-new/e-9.png, id=1701, 770.88pt x 481.8pt>
+File: src/imagesFlexo/10-orders/02-new/e-9.png Graphic file (type png)
+<use src/imagesFlexo/10-orders/02-new/e-9.png>
+Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-9.png  used on input line 105.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
@@ -3630,11 +3627,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[165 <./src/imagesFlexo/10-orders/02-new/e-8.png>]
-<src/imagesFlexo/10-orders/02-new/e-9.png, id=1711, 770.88pt x 481.8pt>
-File: src/imagesFlexo/10-orders/02-new/e-9.png Graphic file (type png)
-<use src/imagesFlexo/10-orders/02-new/e-9.png>
-Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-9.png  used on input line 116.
+[165 <./src/imagesFlexo/10-orders/02-new/e-9.png>]
+<src/imagesFlexo/10-orders/02-new/e-10.png, id=1706, 770.88pt x 481.8pt>
+File: src/imagesFlexo/10-orders/02-new/e-10.png Graphic file (type png)
+<use src/imagesFlexo/10-orders/02-new/e-10.png>
+Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-10.png  used on input line 116.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
@@ -3648,29 +3645,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[166 <./src/imagesFlexo/10-orders/02-new/e-9.png>]
-<src/imagesFlexo/10-orders/02-new/e-10.png, id=1716, 770.88pt x 481.8pt>
-File: src/imagesFlexo/10-orders/02-new/e-10.png Graphic file (type png)
-<use src/imagesFlexo/10-orders/02-new/e-10.png>
-Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-10.png  used on input line 127.
-(pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
-File: logoTomasoni.png Graphic file (type png)
-<use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 132.
-(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 93.60004pt, for example:
-(fancyhdr)                \setlength{\headheight}{93.60004pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
-
-[167 <./src/imagesFlexo/10-orders/02-new/e-10.png>]
-<src/imagesFlexo/10-orders/02-new/e-11.png, id=1721, 770.88pt x 481.8pt>
+[166 <./src/imagesFlexo/10-orders/02-new/e-10.png>]
+<src/imagesFlexo/10-orders/02-new/e-11.png, id=1711, 770.88pt x 481.8pt>
 File: src/imagesFlexo/10-orders/02-new/e-11.png Graphic file (type png)
 <use src/imagesFlexo/10-orders/02-new/e-11.png>
-Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-11.png  used on input line 138.
+Package pdftex.def Info: src/imagesFlexo/10-orders/02-new/e-11.png  used on input line 127.
 (pdftex.def)             Requested size: 578.15858pt x 361.3638pt.
 )
 File: logoTomasoni.png Graphic file (type png)
@@ -3685,25 +3664,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[168 <./src/imagesFlexo/10-orders/02-new/e-11.png>] (main.aux)
+[167 <./src/imagesFlexo/10-orders/02-new/e-11.png>] (main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FF95F86B71E36AF583879DF6A9D84938;25234.
+(rerunfilecheck)             Checksum: E1BEF69C870B354DCE2A3605CE11EA0F;25354.
  ) 
 Here is how much of TeX's memory you used:
- 11189 strings out of 475385
- 219007 string characters out of 2787216
+ 11180 strings out of 475385
+ 218682 string characters out of 2787216
  517121 words of memory out of 3000000
- 31983 multiletter control sequences out of 15000+600000
+ 31976 multiletter control sequences out of 15000+600000
  472671 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,16n,77p,709b,541s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\yuri.eng\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (169 pages, 26206562 bytes).
+Output written on main.pdf (168 pages, 26079845 bytes).
 PDF statistics:
- 1842 PDF objects out of 2073 (max. 8388607)
- 339 named destinations out of 1000 (max. 500000)
- 2138 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1831 PDF objects out of 2073 (max. 8388607)
+ 337 named destinations out of 1000 (max. 500000)
+ 2125 words of extra memory for PDF output out of 10000 (max. 10000000)
 

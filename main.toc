@@ -10,7 +10,7 @@
 \contentsline {subsection}{\numberline {7.3}Deslocamentos das unidades}{11}{subsection.7.3}%
 \contentsline {subsection}{\numberline {7.4}Limpeza de clichês}{11}{subsection.7.4}%
 \contentsline {subsection}{\numberline {7.5}Limpeza e manutenção}{12}{subsection.7.5}%
-\contentsline {section}{\numberline {8}\MakeUppercase {\large {Descrição das telas}}}{13}{section.8}%
+\contentsline {section}{\numberline {8}\MakeUppercase {\large {Descrição das telas - IHM Slotter e Entrada da Contragem}}}{13}{section.8}%
 \contentsline {subsection}{\numberline {8.1}Ajuda tela principal}{13}{subsection.8.1}%
 \contentsline {subsubsection}{\numberline {8.1.1}\small {Gráficos de velocidade e produção}}{14}{subsubsection.8.1.1}%
 \contentsline {subsubsection}{\numberline {8.1.2}\small {Informações sobre as impressoras}}{15}{subsubsection.8.1.2}%
@@ -166,4 +166,3 @@
 \contentsline {subsubsection}{\numberline {8.26.3}\small {???}}{165}{subsubsection.8.26.3}%
 \contentsline {subsubsection}{\numberline {8.26.4}\small {???}}{166}{subsubsection.8.26.4}%
 \contentsline {subsubsection}{\numberline {8.26.5}\small {???}}{167}{subsubsection.8.26.5}%
-\contentsline {subsubsection}{\numberline {8.26.6}\small {???}}{168}{subsubsection.8.26.6}%
