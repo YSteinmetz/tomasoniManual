@@ -1,0 +1,71 @@
+\contentsline {section}{\numberline {1}\large {INFORMAÇÕES DO FABRICANTE}}{3}{section.1}%
+\contentsline {section}{\numberline {2}\large {INFORMAÇÕES DO FABRICANTE}}{3}{section.2}%
+\contentsline {section}{\numberline {3}\large {INFORMAÇÕES DA MÁQUINA}}{3}{section.3}%
+\contentsline {section}{\numberline {4}\large {INFORMAÇÕES DA MÁQUINA}}{4}{section.4}%
+\contentsline {section}{\numberline {5}\large {NORMAS APLICADAS NA MANUFATURA DA MÁQUINA}}{5}{section.5}%
+\contentsline {section}{\numberline {6}\large {\MakeUppercase {Descrição Detalhada da Máquina e ou Equipamento}}}{5}{section.6}%
+\contentsline {section}{\numberline {7}\large {\MakeUppercase {Descrição detalhada da Exposição à Riscos e Medidas de Segurança}}}{6}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Regras gerais de segurança}{7}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Partida da Máquina}{8}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Deslocamentos das unidades}{8}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Limpeza de clichês}{8}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Limpeza e manutenção}{9}{subsection.7.5}%
+\contentsline {section}{\numberline {8}\MakeUppercase {\large {Descrição das telas}}}{10}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Ajuda tela principal}{10}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}\small {Gráficos de velocidade e produção}}{11}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}\small {Informações sobre as impressoras}}{12}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}\small {Ultimo pedido sem informação}}{13}{subsubsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.4}\small {Ultimo pedido}}{14}{subsubsection.8.1.4}%
+\contentsline {subsubsection}{\numberline {8.1.5}\small {Pedido atual sem informação}}{15}{subsubsection.8.1.5}%
+\contentsline {subsection}{\numberline {8.2}Tela comandos de máquina}{16}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}\small {Acesso rápido à velocidade da máquina}}{17}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}\small {Liga máquina}}{18}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}\small {Ponto zero geral}}{19}{subsubsection.8.2.3}%
+\contentsline {subsubsection}{\numberline {8.2.4}\small {Habilita máquina}}{20}{subsubsection.8.2.4}%
+\contentsline {subsubsection}{\numberline {8.2.5}\small {Habilita vácuo transporte}}{21}{subsubsection.8.2.5}%
+\contentsline {subsubsection}{\numberline {8.2.6}\small {Habilita skip feed}}{22}{subsubsection.8.2.6}%
+\contentsline {subsubsection}{\numberline {8.2.7}\small {Liga controle de embuchamento}}{23}{subsubsection.8.2.7}%
+\contentsline {subsection}{\numberline {8.3}Segunda tela comandos de máquina}{24}{subsection.8.3}%
+\contentsline {subsubsection}{\numberline {8.3.1}\small {Reseta a contagem de chapas de pedidos}}{25}{subsubsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.4}Tela comando alimentação}{26}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1}\small {Configuração de alimentação de caixas modo manual}}{27}{subsubsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.2}\small {Configuração de alimentação de caixas modo automático}}{28}{subsubsection.8.4.2}%
+\contentsline {subsubsection}{\numberline {8.4.3}\small {Habilita vácuo alimentação}}{29}{subsubsection.8.4.3}%
+\contentsline {subsubsection}{\numberline {8.4.4}\small {Executa ponto zero lançador de caixas}}{30}{subsubsection.8.4.4}%
+\contentsline {subsubsection}{\numberline {8.4.5}\small {Habilita alimentação de chapas}}{31}{subsubsection.8.4.5}%
+\contentsline {subsubsection}{\numberline {8.4.6}\small {Habilita barra eletrostática}}{32}{subsubsection.8.4.6}%
+\contentsline {subsection}{\numberline {8.5}Tela comando impressoras}{33}{subsection.8.5}%
+\contentsline {subsubsection}{\numberline {8.5.1}\small {Visualização cor impressora}}{34}{subsubsection.8.5.1}%
+\contentsline {subsubsection}{\numberline {8.5.2}\small {Visualização se a aproximação do anilox está bloqueada}}{35}{subsubsection.8.5.2}%
+\contentsline {subsubsection}{\numberline {8.5.3}\small {Visualização vácuo habilitado}}{36}{subsubsection.8.5.3}%
+\contentsline {subsubsection}{\numberline {8.5.4}\small {Visualização giro anilox habilitado}}{37}{subsubsection.8.5.4}%
+\contentsline {subsubsection}{\numberline {8.5.5}\small {Visualização lavagem de tinta habilitada}}{38}{subsubsection.8.5.5}%
+\contentsline {subsubsection}{\numberline {8.5.6}\small {Atalho para tela da impressora}}{39}{subsubsection.8.5.6}%
+\contentsline {subsection}{\numberline {8.6}Tela comando impressora}{40}{subsection.8.6}%
+\contentsline {subsubsection}{\numberline {8.6.1}\small {Executa lavagem de tinta}}{41}{subsubsection.8.6.1}%
+\contentsline {subsubsection}{\numberline {8.6.2}\small {Habilita giro anilox}}{42}{subsubsection.8.6.2}%
+\contentsline {subsubsection}{\numberline {8.6.3}\small {Executa ponto zero}}{43}{subsubsection.8.6.3}%
+\contentsline {subsubsection}{\numberline {8.6.4}\small {Liga bomba de tinta}}{44}{subsubsection.8.6.4}%
+\contentsline {subsubsection}{\numberline {8.6.5}\small {Desabilita impressora}}{45}{subsubsection.8.6.5}%
+\contentsline {subsection}{\numberline {8.7}Tela comando slotter}{46}{subsection.8.7}%
+\contentsline {subsubsection}{\numberline {8.7.1}\small {Encaixe das facas traseiras}}{47}{subsubsection.8.7.1}%
+\contentsline {subsubsection}{\numberline {8.7.2}\small {Executa ponto zero da unidade}}{48}{subsubsection.8.7.2}%
+\contentsline {subsubsection}{\numberline {8.7.3}\small {Executa ponto zero axial}}{49}{subsubsection.8.7.3}%
+\contentsline {subsubsection}{\numberline {8.7.4}\small {Encaixe das facas dianteiras}}{50}{subsubsection.8.7.4}%
+\contentsline {subsection}{\numberline {8.8}Tela comando slotter}{51}{subsection.8.8}%
+\contentsline {subsubsection}{\numberline {8.8.1}\small {Ajuste pressão porta manta}}{52}{subsubsection.8.8.1}%
+\contentsline {subsubsection}{\numberline {8.8.2}\small {Executa ponto zero}}{53}{subsubsection.8.8.2}%
+\contentsline {subsubsection}{\numberline {8.8.3}\small {Habilita transporte de refile}}{54}{subsubsection.8.8.3}%
+\contentsline {subsubsection}{\numberline {8.8.4}\small {Trava perfuradora}}{55}{subsubsection.8.8.4}%
+\contentsline {subsection}{\numberline {8.9}Tela comando dobra}{56}{subsection.8.9}%
+\contentsline {subsubsection}{\numberline {8.9.1}\small {Ajuste pressão porta manta}}{57}{subsubsection.8.9.1}%
+\contentsline {subsubsection}{\numberline {8.9.2}\small {JOG}}{58}{subsubsection.8.9.2}%
+\contentsline {subsubsection}{\numberline {8.9.3}\small {Habilita extrator de refile}}{59}{subsubsection.8.9.3}%
+\contentsline {subsubsection}{\numberline {8.9.4}\small {Executa ponto zero}}{60}{subsubsection.8.9.4}%
+\contentsline {subsubsection}{\numberline {8.9.5}\small {Habilita ventilador}}{61}{subsubsection.8.9.5}%
+\contentsline {subsubsection}{\numberline {8.9.6}\small {Habilita lavagem do coleiro}}{62}{subsubsection.8.9.6}%
+\contentsline {subsubsection}{\numberline {8.9.7}\small {Habilita coleiro}}{63}{subsubsection.8.9.7}%
+\contentsline {subsection}{\numberline {8.10}Tela comando contagem}{64}{subsection.8.10}%
+\contentsline {subsubsection}{\numberline {8.10.1}\small {Ajuste pressão porta manta}}{65}{subsubsection.8.10.1}%
+\contentsline {subsubsection}{\numberline {8.10.2}\small {Ajuste pressão porta manta}}{66}{subsubsection.8.10.2}%
+\contentsline {subsubsection}{\numberline {8.10.3}\small {Ajuste pressão porta manta}}{67}{subsubsection.8.10.3}%
