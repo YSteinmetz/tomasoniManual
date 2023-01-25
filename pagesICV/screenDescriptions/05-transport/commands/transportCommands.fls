@@ -1,0 +1,6 @@
+PWD C:\Users\yuri.eng\Documents\repositorio\tomasoniManual\pagesICV\screenDescriptions\05-transport\commands
+INPUT C:\Users\yuri.eng\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\yuri.eng\Documents\repositorio\tomasoniManual\pagesICV\screenDescriptions\05-transport\commands\transportCommands.tex
+OUTPUT transportCommands.log
+OUTPUT transportCommands.pdf
+INPUT C:\Users\yuri.eng\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
