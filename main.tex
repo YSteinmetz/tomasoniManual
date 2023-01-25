@@ -32,31 +32,157 @@
 \newpage
 \input{pagesFlexo/preamble.tex}
 
-\newpage
-\input{pagesFlexo/screenDescriptions/01-main/screenNavegation.tex}
+%commands screens
 
-\newpage
-\input{pagesFlexo/screenDescriptions/02-machine/machineCommands.tex}
+\ifmachineType
+        
+    \newpage
+    \input{pagesFlexo/screenDescriptions/01-main/screenNavegation.tex}
 
-\newpage
-\input{pagesFlexo/screenDescriptions/03-feeder/commands/feederCommands.tex}
+    \newpage
+    \input{pagesFlexo/screenDescriptions/02-machine/machineCommands.tex}
 
-\newpage
-\input{pagesFlexo/screenDescriptions/04-printter/01-printters/commands/printtersCommands.tex}
+    \newpage
+    \input{pagesFlexo/screenDescriptions/03-feeder/commands/feederCommands.tex}
 
-\newpage
-\input{pagesFlexo/screenDescriptions/04-printter/02-printter/commands/printterCommand.tex}
+    \newpage
+    \input{pagesFlexo/screenDescriptions/04-printter/01-printters/commands/printtersCommands.tex}
 
-\newpage
-\input{pagesFlexo/screenDescriptions/05-slotter/commands/slotterCommands.tex}
+    \newpage
+    \input{pagesFlexo/screenDescriptions/04-printter/02-printter/commands/printterCommand.tex}
 
-\newpage
-\input{pagesFlexo/screenDescriptions/06-drilling/commands/drillingCommands.tex}
+    \newpage
+    \input{pagesFlexo/screenDescriptions/05-slotter/commands/slotterCommands.tex}
 
-\newpage
-\input{pagesFlexo/screenDescriptions/07-fold/commands/foldCommands.tex}
+        \ifunidadePerfuradora
+        
+        \newpage
+        \input{pagesFlexo/screenDescriptions/06-drilling/commands/drillingCommands.tex}
 
-\newpage
-\input{pagesFlexo/screenDescriptions/08-count/commands/countCommands.tex}
+        \fi
+
+    \newpage
+    \input{pagesFlexo/screenDescriptions/07-fold/commands/foldCommands.tex}
+
+    \newpage
+    \input{pagesFlexo/screenDescriptions/08-count/commands/countCommands.tex}
+
+    \else
+
+    \newpage
+    \input{pagesICV/screenDescriptions/01-main/screenNavegation.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/02-machine/machineCommands.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/03-feeder/commands/feederCommands.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/04-printter/01-printters/commands/printtersCommands.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/04-printter/02-printter/commands/printterCommands.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/05-transport/commands/transportCommands.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/06-dryCutter/commands/dryCutterCommands.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/07-scout/commands/scoutCommands.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/08-stacker/commands/stackerCommands.tex}
+
+    \fi
+
+
+
+%settings screens
+
+    \ifmachineType
+    
+    \newpage
+    \input{pagesFlexo/screenDescriptions/03-feeder/settings/feederSettings.tex}
+
+    \newpage
+    \input{pagesFlexo/screenDescriptions/04-printter/01-printters/settings/printtersSettings.tex}
+
+    \newpage
+    \input{pagesFlexo/screenDescriptions/04-printter/02-printter/settings/printterSettings.tex}
+
+    \newpage
+    \input{pagesFlexo/screenDescriptions/05-slotter/settings/slotterSettings.tex}
+
+        \ifunidadePerfuradora
+        
+        \newpage
+        \input{pagesFlexo/screenDescriptions/06-drilling/settings/drillingSettings.tex}
+
+        \fi
+        
+    \newpage
+    \input{pagesFlexo/screenDescriptions/07-fold/settings/foldSettings.tex}
+
+    \newpage
+    \input{pagesFlexo/screenDescriptions/08-count/settings/countSettings.tex}
+
+    \newpage
+    \input{pagesFlexo/screenDescriptions/09-screenSettings/screenSettings.tex}
+
+    \newpage
+    \input{pagesFlexo/screenDescriptions/10-orders/01-visualization/ordersVisualization.tex}
+
+    \newpage
+    \input{pagesFlexo/screenDescriptions/10-orders/02-new/ordersNew.tex}
+
+    \newpage
+    \input{pagesFlexo/screenDescriptions/11-IHMALM/screensIHMALM.tex}
+
+    \newpage
+    \input{pagesFlexo/screenDescriptions/12-IHMCNT/screensIHMCNT.tex}
+
+
+    \else
+    
+    \newpage
+    \input{pagesICV/screenDescriptions/03-feeder/settings/feederSettings.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/04-printter/01-printters/settings/printtersSettings.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/04-printter/02-printter/settings/printterSettings.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/05-transport/settings/transportSettings.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/06-dryCutter/settings/dryCutterSettings.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/07-scout/settings/scoutSettings.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/08-stacker/settings/stackerSettings.tex}
+
+   % \newpage
+   % \input{pagesICV/screenDescriptions/09-screenSettings/screenSettings.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/09-request/visualization/requestVisualization.tex}
+
+    \newpage
+    \input{pagesICV/screenDescriptions/09-request/new/requestNew.tex}
+
+    % \newpage
+    % \input{pagesICV/screenDescriptions/10-KTP400-Feeder/KTP400Feeder.tex}
+
+    % \newpage
+    % \input{pagesICV/screenDescriptions/11-KTP400-scout/KTP400Scout.tex}
+    
+    \fi
 
 \end{document}
