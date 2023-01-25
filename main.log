@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  25 JAN 2023 15:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.24)  25 JAN 2023 16:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -279,12 +279,11 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 21.
-(main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
- (pagesFlexo/cover.tex
-<logoTomasoni.png, id=147, 3222.79031pt x 828.09375pt>
+(pagesFlexo/cover.tex
+<logoTomasoni.png, id=3, 3222.79031pt x 828.09375pt>
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
 Package pdftex.def Info: logoTomasoni.png  used on input line 6.
@@ -295,27 +294,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 7.
 ) [0
 
-{C:/Users/yuri.eng/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logoTomasoni.png>] (pagesFlexo/indexPage.tex (main.toc
-File: logoTomasoni.png Graphic file (type png)
-<use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 30.
-(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 93.60004pt, for example:
-(fancyhdr)                \setlength{\headheight}{93.60004pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
-
-[1])
+{C:/Users/yuri.eng/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logoTomasoni.png>] (pagesFlexo/indexPage.tex
+No file main.toc.
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-) [2] (pagesFlexo/manufactorAndMachineInfo.tex
+)
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 71.
+Package pdftex.def Info: logoTomasoni.png  used on input line 29.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -325,7 +312,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[3]) [4] (pagesFlexo/preamble.tex
+[1] (pagesFlexo/manufactorAndMachineInfo.tex
+File: logoTomasoni.png Graphic file (type png)
+<use logoTomasoni.png>
+Package pdftex.def Info: logoTomasoni.png  used on input line 76.
+(pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 93.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{93.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
+
+[2]) [3] (pagesFlexo/preamble.tex
 \enitdp@standartsMet=\count282
 \enitdp@machinePartsList=\count283
 File: logoTomasoni.png Graphic file (type png)
@@ -340,7 +340,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[5]
+[4]
 \enitdp@typeOfRisks=\count284
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
@@ -354,7 +354,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[6]
+[5]
 \enitdp@generalSafetyRules=\count285
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
@@ -368,7 +368,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-77.60004pt}.
 
-[7]
+[6]
 \enitdp@generalSafetyToStartTheMachine=\count286
 \enitdp@generalSafetyToMoveUnities=\count287
 \enitdp@generalRulesToPlateCleaning=\count288
@@ -384,7 +384,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[8]
+[7]
 \enitdp@generalRulesForCleaning=\count289
 )
 File: logoTomasoni.png Graphic file (type png)
@@ -399,8 +399,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[9] (pagesICV/screenDescriptions/01-main/screenNavegation.tex
-<src/imagesICV/01-main/1.png, id=234, 770.88pt x 481.8pt>
+[8] (pagesICV/screenDescriptions/01-main/screenNavegation.tex
+<src/imagesICV/01-main/1.png, id=61, 770.88pt x 481.8pt>
 File: src/imagesICV/01-main/1.png Graphic file (type png)
 <use src/imagesICV/01-main/1.png>
 Package pdftex.def Info: src/imagesICV/01-main/1.png  used on input line 22.
@@ -417,8 +417,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[10 <./src/imagesICV/01-main/1.png>]
-<src/imagesICV/01-main/2.png, id=239, 770.88pt x 481.8pt>
+[9 <./src/imagesICV/01-main/1.png>]
+<src/imagesICV/01-main/2.png, id=68, 770.88pt x 481.8pt>
 File: src/imagesICV/01-main/2.png Graphic file (type png)
 <use src/imagesICV/01-main/2.png>
 Package pdftex.def Info: src/imagesICV/01-main/2.png  used on input line 33.
@@ -435,8 +435,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[11 <./src/imagesICV/01-main/2.png>]
-<src/imagesICV/01-main/3.png, id=245, 770.88pt x 481.8pt>
+[10 <./src/imagesICV/01-main/2.png>]
+<src/imagesICV/01-main/3.png, id=75, 770.88pt x 481.8pt>
 File: src/imagesICV/01-main/3.png Graphic file (type png)
 <use src/imagesICV/01-main/3.png>
 Package pdftex.def Info: src/imagesICV/01-main/3.png  used on input line 44.
@@ -453,8 +453,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[12 <./src/imagesICV/01-main/3.png>]
-<src/imagesICV/01-main/4.png, id=251, 770.88pt x 481.8pt>
+[11 <./src/imagesICV/01-main/3.png>]
+<src/imagesICV/01-main/4.png, id=81, 770.88pt x 481.8pt>
 File: src/imagesICV/01-main/4.png Graphic file (type png)
 <use src/imagesICV/01-main/4.png>
 Package pdftex.def Info: src/imagesICV/01-main/4.png  used on input line 55.
@@ -471,8 +471,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[13 <./src/imagesICV/01-main/4.png>]
-<src/imagesICV/01-main/5.png, id=256, 770.88pt x 481.8pt>
+[12 <./src/imagesICV/01-main/4.png>]
+<src/imagesICV/01-main/5.png, id=88, 770.88pt x 481.8pt>
 File: src/imagesICV/01-main/5.png Graphic file (type png)
 <use src/imagesICV/01-main/5.png>
 Package pdftex.def Info: src/imagesICV/01-main/5.png  used on input line 66.
@@ -489,8 +489,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[14 <./src/imagesICV/01-main/5.png>]
-<src/imagesICV/01-main/6.png, id=261, 770.88pt x 481.8pt>
+[13 <./src/imagesICV/01-main/5.png>]
+<src/imagesICV/01-main/6.png, id=94, 770.88pt x 481.8pt>
 File: src/imagesICV/01-main/6.png Graphic file (type png)
 <use src/imagesICV/01-main/6.png>
 Package pdftex.def Info: src/imagesICV/01-main/6.png  used on input line 77.
@@ -508,14 +508,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[15 <./src/imagesICV/01-main/6.png>] (pagesICV/screenDescriptions/02-machine/machineCommands.tex
+[14 <./src/imagesICV/01-main/6.png>] (pagesICV/screenDescriptions/02-machine/machineCommands.tex
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 6.
  (D:\arquivosdeProgramas\tex/latex/base\omlcmr.fd
 File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 6.
-<src/imagesICV/02-machine/1.png, id=266, 770.88pt x 481.8pt>
+<src/imagesICV/02-machine/1.png, id=100, 770.88pt x 481.8pt>
 File: src/imagesICV/02-machine/1.png Graphic file (type png)
 <use src/imagesICV/02-machine/1.png>
 Package pdftex.def Info: src/imagesICV/02-machine/1.png  used on input line 11.
@@ -532,8 +532,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[16 <./src/imagesICV/02-machine/1.png>]
-<src/imagesICV/02-machine/2.png, id=273, 770.88pt x 481.8pt>
+[15 <./src/imagesICV/02-machine/1.png>]
+<src/imagesICV/02-machine/2.png, id=108, 770.88pt x 481.8pt>
 File: src/imagesICV/02-machine/2.png Graphic file (type png)
 <use src/imagesICV/02-machine/2.png>
 Package pdftex.def Info: src/imagesICV/02-machine/2.png  used on input line 20.
@@ -550,8 +550,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[17 <./src/imagesICV/02-machine/2.png>]
-<src/imagesICV/02-machine/3.png, id=278, 770.88pt x 481.8pt>
+[16 <./src/imagesICV/02-machine/2.png>]
+<src/imagesICV/02-machine/3.png, id=114, 770.88pt x 481.8pt>
 File: src/imagesICV/02-machine/3.png Graphic file (type png)
 <use src/imagesICV/02-machine/3.png>
 Package pdftex.def Info: src/imagesICV/02-machine/3.png  used on input line 29.
@@ -568,8 +568,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[18 <./src/imagesICV/02-machine/3.png>]
-<src/imagesICV/02-machine/4.png, id=284, 770.88pt x 481.8pt>
+[17 <./src/imagesICV/02-machine/3.png>]
+<src/imagesICV/02-machine/4.png, id=120, 770.88pt x 481.8pt>
 File: src/imagesICV/02-machine/4.png Graphic file (type png)
 <use src/imagesICV/02-machine/4.png>
 Package pdftex.def Info: src/imagesICV/02-machine/4.png  used on input line 38.
@@ -586,8 +586,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[19 <./src/imagesICV/02-machine/4.png>]
-<src/imagesICV/02-machine/5.png, id=289, 769.6755pt x 481.19775pt>
+[18 <./src/imagesICV/02-machine/4.png>]
+<src/imagesICV/02-machine/5.png, id=127, 769.6755pt x 481.19775pt>
 File: src/imagesICV/02-machine/5.png Graphic file (type png)
 <use src/imagesICV/02-machine/5.png>
 Package pdftex.def Info: src/imagesICV/02-machine/5.png  used on input line 47.
@@ -604,8 +604,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[20 <./src/imagesICV/02-machine/5.png>]
-<src/imagesICV/02-machine/6.png, id=295, 770.88pt x 481.8pt>
+[19 <./src/imagesICV/02-machine/5.png>]
+<src/imagesICV/02-machine/6.png, id=134, 770.88pt x 481.8pt>
 File: src/imagesICV/02-machine/6.png Graphic file (type png)
 <use src/imagesICV/02-machine/6.png>
 Package pdftex.def Info: src/imagesICV/02-machine/6.png  used on input line 56.
@@ -622,8 +622,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[21 <./src/imagesICV/02-machine/6.png>]
-<src/imagesICV/02-machine/7.png, id=300, 770.88pt x 481.8pt>
+[20 <./src/imagesICV/02-machine/6.png>]
+<src/imagesICV/02-machine/7.png, id=140, 770.88pt x 481.8pt>
 File: src/imagesICV/02-machine/7.png Graphic file (type png)
 <use src/imagesICV/02-machine/7.png>
 Package pdftex.def Info: src/imagesICV/02-machine/7.png  used on input line 65.
@@ -640,8 +640,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[22 <./src/imagesICV/02-machine/7.png>]
-<src/imagesICV/02-machine/8.png, id=305, 770.88pt x 481.8pt>
+[21 <./src/imagesICV/02-machine/7.png>]
+<src/imagesICV/02-machine/8.png, id=146, 770.88pt x 481.8pt>
 File: src/imagesICV/02-machine/8.png Graphic file (type png)
 <use src/imagesICV/02-machine/8.png>
 Package pdftex.def Info: src/imagesICV/02-machine/8.png  used on input line 74.
@@ -659,8 +659,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[23 <./src/imagesICV/02-machine/8.png>] (pagesICV/screenDescriptions/03-feeder/commands/feederCommands.tex
-<src/imagesICV/03-feeder/commands/1.png, id=310, 770.88pt x 481.8pt>
+[22 <./src/imagesICV/02-machine/8.png>] (pagesICV/screenDescriptions/03-feeder/commands/feederCommands.tex
+<src/imagesICV/03-feeder/commands/1.png, id=152, 770.88pt x 481.8pt>
 File: src/imagesICV/03-feeder/commands/1.png Graphic file (type png)
 <use src/imagesICV/03-feeder/commands/1.png>
 Package pdftex.def Info: src/imagesICV/03-feeder/commands/1.png  used on input line 10.
@@ -677,8 +677,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[24 <./src/imagesICV/03-feeder/commands/1.png>]
-<src/imagesICV/03-feeder/commands/2.png, id=316, 770.88pt x 481.8pt>
+[23 <./src/imagesICV/03-feeder/commands/1.png>]
+<src/imagesICV/03-feeder/commands/2.png, id=158, 770.88pt x 481.8pt>
 File: src/imagesICV/03-feeder/commands/2.png Graphic file (type png)
 <use src/imagesICV/03-feeder/commands/2.png>
 Package pdftex.def Info: src/imagesICV/03-feeder/commands/2.png  used on input line 20.
@@ -695,8 +695,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[25 <./src/imagesICV/03-feeder/commands/2.png>]
-<src/imagesICV/03-feeder/commands/3.png, id=322, 770.88pt x 481.8pt>
+[24 <./src/imagesICV/03-feeder/commands/2.png>]
+<src/imagesICV/03-feeder/commands/3.png, id=166, 770.88pt x 481.8pt>
 File: src/imagesICV/03-feeder/commands/3.png Graphic file (type png)
 <use src/imagesICV/03-feeder/commands/3.png>
 Package pdftex.def Info: src/imagesICV/03-feeder/commands/3.png  used on input line 29.
@@ -713,8 +713,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[26 <./src/imagesICV/03-feeder/commands/3.png>]
-<src/imagesICV/03-feeder/commands/4.png, id=327, 770.88pt x 481.8pt>
+[25 <./src/imagesICV/03-feeder/commands/3.png>]
+<src/imagesICV/03-feeder/commands/4.png, id=172, 770.88pt x 481.8pt>
 File: src/imagesICV/03-feeder/commands/4.png Graphic file (type png)
 <use src/imagesICV/03-feeder/commands/4.png>
 Package pdftex.def Info: src/imagesICV/03-feeder/commands/4.png  used on input line 38.
@@ -731,8 +731,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[27 <./src/imagesICV/03-feeder/commands/4.png>]
-<src/imagesICV/03-feeder/commands/5.png, id=332, 770.88pt x 481.8pt>
+[26 <./src/imagesICV/03-feeder/commands/4.png>]
+<src/imagesICV/03-feeder/commands/5.png, id=178, 770.88pt x 481.8pt>
 File: src/imagesICV/03-feeder/commands/5.png Graphic file (type png)
 <use src/imagesICV/03-feeder/commands/5.png>
 Package pdftex.def Info: src/imagesICV/03-feeder/commands/5.png  used on input line 48.
@@ -749,8 +749,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[28 <./src/imagesICV/03-feeder/commands/5.png>]
-<src/imagesICV/03-feeder/commands/6.png, id=337, 752.8125pt x 481.8pt>
+[27 <./src/imagesICV/03-feeder/commands/5.png>]
+<src/imagesICV/03-feeder/commands/6.png, id=184, 752.8125pt x 481.8pt>
 File: src/imagesICV/03-feeder/commands/6.png Graphic file (type png)
 <use src/imagesICV/03-feeder/commands/6.png>
 Package pdftex.def Info: src/imagesICV/03-feeder/commands/6.png  used on input line 57.
@@ -767,8 +767,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[29 <./src/imagesICV/03-feeder/commands/6.png>]
-<src/imagesICV/03-feeder/commands/7.png, id=342, 770.88pt x 481.8pt>
+[28 <./src/imagesICV/03-feeder/commands/6.png>]
+<src/imagesICV/03-feeder/commands/7.png, id=190, 770.88pt x 481.8pt>
 File: src/imagesICV/03-feeder/commands/7.png Graphic file (type png)
 <use src/imagesICV/03-feeder/commands/7.png>
 Package pdftex.def Info: src/imagesICV/03-feeder/commands/7.png  used on input line 66.
@@ -785,8 +785,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[30 <./src/imagesICV/03-feeder/commands/7.png>]
-<src/imagesICV/03-feeder/commands/8.png, id=349, 770.88pt x 481.8pt>
+[29 <./src/imagesICV/03-feeder/commands/7.png>]
+<src/imagesICV/03-feeder/commands/8.png, id=197, 770.88pt x 481.8pt>
 File: src/imagesICV/03-feeder/commands/8.png Graphic file (type png)
 <use src/imagesICV/03-feeder/commands/8.png>
 Package pdftex.def Info: src/imagesICV/03-feeder/commands/8.png  used on input line 75.
@@ -803,8 +803,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[31 <./src/imagesICV/03-feeder/commands/8.png>]
-<src/imagesICV/03-feeder/commands/9.png, id=355, 770.88pt x 481.8pt>
+[30 <./src/imagesICV/03-feeder/commands/8.png>]
+<src/imagesICV/03-feeder/commands/9.png, id=205, 770.88pt x 481.8pt>
 File: src/imagesICV/03-feeder/commands/9.png Graphic file (type png)
 <use src/imagesICV/03-feeder/commands/9.png>
 Package pdftex.def Info: src/imagesICV/03-feeder/commands/9.png  used on input line 84.
@@ -812,7 +812,7 @@ Package pdftex.def Info: src/imagesICV/03-feeder/commands/9.png  used on input l
 )
 File: logoTomasoni.png Graphic file (type png)
 <use logoTomasoni.png>
-Package pdftex.def Info: logoTomasoni.png  used on input line 188.
+Package pdftex.def Info: logoTomasoni.png  used on input line 81.
 (pdftex.def)             Requested size: 170.71652pt x 43.85843pt.
 
 
@@ -822,22 +822,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-81.60004pt}.
 
-[32 <./src/imagesICV/03-feeder/commands/9.png>] (main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 67ED4EFD5D9AC2B92AB8DF5DD887DE94;7144.
- ) 
+[31 <./src/imagesICV/03-feeder/commands/9.png>]
+
+! LaTeX Error: File `pagesICV/screenDescriptions/04-printter/01-printters/commands/printtersCommands.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+c:/Users/yuri.eng/Documents/repositorio/tomasoniManual/main.tex:82: Emergency stop.
+<read *> 
+         
+l.82 ...-printters/commands/printtersCommands.tex}
+                                                  ^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
 Here is how much of TeX's memory you used:
- 9856 strings out of 475385
- 160612 string characters out of 2787216
- 513949 words of memory out of 3000000
- 31016 multiletter control sequences out of 15000+600000
- 472336 words of font info for 38 fonts, out of 8000000 for 9000
+ 9810 strings out of 475385
+ 159973 string characters out of 2787216
+ 513658 words of memory out of 3000000
+ 30978 multiletter control sequences out of 15000+600000
+ 472037 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,16n,77p,726b,541s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/arquivosdeProgramas/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (33 pages, 3984963 bytes).
-PDF statistics:
- 411 PDF objects out of 1000 (max. 8388607)
- 70 named destinations out of 1000 (max. 500000)
- 409 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+c:/Users/yuri.eng/Documents/repositorio/tomasoniManual/main.tex:82:  ==> Fatal error occurred, no output PDF file produced!
