@@ -3,14 +3,14 @@
 \contentsline {section}{\numberline {3}\large {INFORMAÇÕES DA MÁQUINA}}{3}{section.3}%
 \contentsline {section}{\numberline {4}\large {INFORMAÇÕES DA MÁQUINA}}{4}{section.4}%
 \contentsline {section}{\numberline {5}\large {NORMAS APLICADAS NA MANUFATURA DA MÁQUINA}}{5}{section.5}%
-\contentsline {section}{\numberline {6}\large {\MakeUppercase []{Descrição Detalhada da Máquina e ou Equipamento}}}{5}{section.6}%
-\contentsline {section}{\numberline {7}\large {\MakeUppercase []{Descrição detalhada da Exposição à Riscos e Medidas de Segurança}}}{6}{section.7}%
+\contentsline {section}{\numberline {6}\large {\MakeUppercase {Descrição Detalhada da Máquina e ou Equipamento}}}{5}{section.6}%
+\contentsline {section}{\numberline {7}\large {\MakeUppercase {Descrição detalhada da Exposição à Riscos e Medidas de Segurança}}}{6}{section.7}%
 \contentsline {subsection}{\numberline {7.1}Regras gerais de segurança}{7}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}Partida da Máquina}{8}{subsection.7.2}%
 \contentsline {subsection}{\numberline {7.3}Deslocamentos das unidades}{8}{subsection.7.3}%
 \contentsline {subsection}{\numberline {7.4}Limpeza de clichês}{8}{subsection.7.4}%
 \contentsline {subsection}{\numberline {7.5}Limpeza e manutenção}{9}{subsection.7.5}%
-\contentsline {section}{\numberline {8}\MakeUppercase []{\large {Descrição das telas}}}{10}{section.8}%
+\contentsline {section}{\numberline {8}\MakeUppercase {\large {Descrição das telas}}}{10}{section.8}%
 \contentsline {subsection}{\numberline {8.1}Ajuda tela principal}{10}{subsection.8.1}%
 \contentsline {subsubsection}{\numberline {8.1.1}\small {Gráficos de velocidade e produção}}{11}{subsubsection.8.1.1}%
 \contentsline {subsubsection}{\numberline {8.1.2}\small {Informações sobre as impressoras}}{12}{subsubsection.8.1.2}%
