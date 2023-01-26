@@ -6,6 +6,10 @@
 \usepackage{enumitem}
 \usepackage{indentfirst}
 \usepackage{titlesec}
+\usepackage[utf8]{inputenc}
+\usepackage[acronym]{glossaries}
+\usepackage{booktabs, longtable}
+
 
 \titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
 \titlespacing*{\section}{0pt}{20pt}{10pt}
@@ -22,9 +26,21 @@
 
 %Adiciona a capa
 \input{commomPages/cover.tex}
-\newpage
 
+\newpage
 \input{commomPages/indexPage.tex}
+
+\ifmachineType
+
+\newpage
+\input{src/glossaryFlexo.tex}
+
+\else
+
+\newpage
+\input{src/glossaryFlexo.tex}
+
+\fi
 
 \newpage
 \input{commomPages/manufactorAndMachineInfo.tex}
@@ -35,7 +51,7 @@
 %commands screens
 
 \ifmachineType
-        
+
     \newpage
     \input{pagesFlexo/screenDescriptions/01-main/screenNavegation.tex}
 
