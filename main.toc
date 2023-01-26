@@ -1,0 +1,133 @@
+\contentsline {section}{\numberline {1}\large {INFORMAÇÕES DO FABRICANTE}}{5}{section.1}%
+\contentsline {section}{\numberline {2}\large {INFORMAÇÕES DO FABRICANTE}}{5}{section.2}%
+\contentsline {section}{\numberline {3}\large {INFORMAÇÕES DA MÁQUINA}}{6}{section.3}%
+\contentsline {section}{\numberline {4}\large {INFORMAÇÕES DA MÁQUINA}}{6}{section.4}%
+\contentsline {section}{\numberline {5}\large {NORMAS APLICADAS NA MANUFATURA DA MÁQUINA}}{7}{section.5}%
+\contentsline {section}{\numberline {6}\large {\MakeUppercase {Descrição Detalhada da Máquina e ou Equipamento}}}{7}{section.6}%
+\contentsline {section}{\numberline {7}\large {\MakeUppercase {Descrição detalhada da Exposição à Riscos e Medidas de Segurança}}}{8}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Regras gerais de segurança}{9}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Partida da Máquina}{10}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Deslocamentos das unidades}{10}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Limpeza de clichês}{10}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Limpeza e manutenção}{11}{subsection.7.5}%
+\contentsline {section}{\numberline {8}\large {Descrição das telas}}{12}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Ajuda tela Principal}{12}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}\small {Gráficos de velocidade e produção}}{13}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}\small {Informações das impressoras}}{14}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}\small {Últimos pedidos}}{15}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}\small {Últimos pedidos}}{16}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}\small {Produção atual}}{17}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}Tela de comandos da máquina}{18}{subsection.8.7}%
+\contentsline {subsection}{\numberline {8.8}Velocidade da máquina}{19}{subsection.8.8}%
+\contentsline {subsection}{\numberline {8.9}Acionamento da máquina}{20}{subsection.8.9}%
+\contentsline {subsection}{\numberline {8.10}Executa ponto zero geral}{21}{subsection.8.10}%
+\contentsline {subsection}{\numberline {8.11}Habilita máquina}{22}{subsection.8.11}%
+\contentsline {subsection}{\numberline {8.12}Habilita vácuo transporte}{23}{subsection.8.12}%
+\contentsline {subsection}{\numberline {8.13}Habilita skip feed}{24}{subsection.8.13}%
+\contentsline {subsection}{\numberline {8.14}Liga controle do embuchamento}{25}{subsection.8.14}%
+\contentsline {subsection}{\numberline {8.15}Tela de comando Alimentação}{26}{subsection.8.15}%
+\contentsline {subsection}{\numberline {8.16}Alimentação manual da máquina}{27}{subsection.8.16}%
+\contentsline {subsection}{\numberline {8.17}Alimentação automática da máquina}{28}{subsection.8.17}%
+\contentsline {subsection}{\numberline {8.18}Habilita vácuo transporte}{29}{subsection.8.18}%
+\contentsline {subsection}{\numberline {8.19}Habilita vácuo alimentação}{30}{subsection.8.19}%
+\contentsline {subsection}{\numberline {8.20}Executa ponto zero Lançador de Caixas}{31}{subsection.8.20}%
+\contentsline {subsection}{\numberline {8.21}Habilita alimentação de chapas}{32}{subsection.8.21}%
+\contentsline {subsection}{\numberline {8.22}Trava unidade alimentação}{33}{subsection.8.22}%
+\contentsline {subsection}{\numberline {8.23}Habilita barra eletrostática}{34}{subsection.8.23}%
+\contentsline {subsection}{\numberline {8.24}Visão geral dos comandos nas impressoras}{35}{subsection.8.24}%
+\contentsline {subsection}{\numberline {8.25}Aproximação do anilox bloqueada}{36}{subsection.8.25}%
+\contentsline {subsection}{\numberline {8.26}Ventilador de vácuo habilitado}{37}{subsection.8.26}%
+\contentsline {subsection}{\numberline {8.27}Rolo anilox habilitado}{38}{subsection.8.27}%
+\contentsline {subsection}{\numberline {8.28}Lavagem de tinta habilitada}{39}{subsection.8.28}%
+\contentsline {subsection}{\numberline {8.29}Unidade travada}{40}{subsection.8.29}%
+\contentsline {subsection}{\numberline {8.30}Acesso à tela de comamndo da unidade}{41}{subsection.8.30}%
+\contentsline {subsection}{\numberline {8.31}Velocidade da máquina}{42}{subsection.8.31}%
+\contentsline {subsection}{\numberline {8.32}Executa lavagem de tinta}{43}{subsection.8.32}%
+\contentsline {subsection}{\numberline {8.33}Trava impressora}{44}{subsection.8.33}%
+\contentsline {subsection}{\numberline {8.34}Habilita giro rolo anilox}{45}{subsection.8.34}%
+\contentsline {subsection}{\numberline {8.35}Executa ponto zero}{46}{subsection.8.35}%
+\contentsline {subsection}{\numberline {8.36}Liga bomba de tinta}{47}{subsection.8.36}%
+\contentsline {subsection}{\numberline {8.37}Habilita impressora}{48}{subsection.8.37}%
+\contentsline {subsection}{\numberline {8.38}Velocidade da máquina}{49}{subsection.8.38}%
+\contentsline {subsection}{\numberline {8.39}Trava unidade Transporte}{50}{subsection.8.39}%
+\contentsline {subsection}{\numberline {8.40}Ajuste de pressão no Porta Manta}{51}{subsection.8.40}%
+\contentsline {subsection}{\numberline {8.41}Executa ponto zero}{52}{subsection.8.41}%
+\contentsline {subsection}{\numberline {8.42}Trava unidade Corte e Vinco na unidade Batedor}{53}{subsection.8.42}%
+\contentsline {subsection}{\numberline {8.43}Habilita transporte de refiles}{54}{subsection.8.43}%
+\contentsline {subsection}{\numberline {8.44}Ajuste manual do Batedor}{55}{subsection.8.44}%
+\contentsline {subsection}{\numberline {8.45}Ajuste manual do Batedor}{56}{subsection.8.45}%
+\contentsline {subsection}{\numberline {8.46}Liga ventiladores}{57}{subsection.8.46}%
+\contentsline {subsection}{\numberline {8.47}Seleciona todas as guias do Batedor}{58}{subsection.8.47}%
+\contentsline {subsection}{\numberline {8.48}Habilita rolo batedor}{59}{subsection.8.48}%
+\contentsline {subsection}{\numberline {8.49}Desseleciona todas as guias do Batedor}{60}{subsection.8.49}%
+\contentsline {subsection}{\numberline {8.50}\small Velocidade da máquina}{61}{subsection.8.50}%
+\contentsline {subsection}{\numberline {8.51}\small Habilita ventilador 2}{62}{subsection.8.51}%
+\contentsline {subsection}{\numberline {8.52}\small Desabilita ventilador 1}{63}{subsection.8.52}%
+\contentsline {subsection}{\numberline {8.53}\small Executa ponto zero da unidade}{64}{subsection.8.53}%
+\contentsline {subsection}{\numberline {8.54}\small Habilita roletes}{65}{subsection.8.54}%
+\contentsline {subsection}{\numberline {8.55}\small Habilita movimento dos eixos}{66}{subsection.8.55}%
+\contentsline {subsection}{\numberline {8.56}\small Executa ponto zero altura batente das caixas}{67}{subsection.8.56}%
+\contentsline {subsection}{\numberline {8.57}\small Habilita função Jog}{68}{subsection.8.57}%
+\contentsline {subsection}{\numberline {8.58}\small Movimento incial dos eixos}{69}{subsection.8.58}%
+\contentsline {subsection}{\numberline {8.59}\small Descarta pilha}{70}{subsection.8.59}%
+\contentsline {subsection}{\numberline {8.60}\small Desabilita modo embuchamento}{71}{subsection.8.60}%
+\contentsline {subsection}{\numberline {8.61}\small Separa pilha}{72}{subsection.8.61}%
+\contentsline {subsection}{\numberline {8.62}Tela de configurações Alimentação}{73}{subsection.8.62}%
+\contentsline {subsection}{\numberline {8.63}Atraso lançamento}{74}{subsection.8.63}%
+\contentsline {subsection}{\numberline {8.64}Pressão rolo puxador}{75}{subsection.8.64}%
+\contentsline {subsection}{\numberline {8.65}Vista geral dos ajustes das impressoras}{76}{subsection.8.65}%
+\contentsline {subsection}{\numberline {8.66}Aproximação do anilox bloqueada}{77}{subsection.8.66}%
+\contentsline {subsection}{\numberline {8.67}Registro atual}{78}{subsection.8.67}%
+\contentsline {subsection}{\numberline {8.68}Ajuste axial do Clichê}{79}{subsection.8.68}%
+\contentsline {subsection}{\numberline {8.69}Pressão caixa de vácuo}{80}{subsection.8.69}%
+\contentsline {subsection}{\numberline {8.70}Pressão anilox}{81}{subsection.8.70}%
+\contentsline {subsection}{\numberline {8.71}Intensidade do vácuo}{82}{subsection.8.71}%
+\contentsline {subsection}{\numberline {8.72}Tempo ativo da lavagem de tinta}{83}{subsection.8.72}%
+\contentsline {subsection}{\numberline {8.73}Ajuste individual da unidade}{84}{subsection.8.73}%
+\contentsline {subsection}{\numberline {8.74}Axial porta clichê}{85}{subsection.8.74}%
+\contentsline {subsection}{\numberline {8.75}Pressão caixa de vácuo}{86}{subsection.8.75}%
+\contentsline {subsection}{\numberline {8.76}Radial porta clichê}{87}{subsection.8.76}%
+\contentsline {subsection}{\numberline {8.77}Pressão rolo anilox}{88}{subsection.8.77}%
+\contentsline {subsection}{\numberline {8.78}Lavagem de tinta}{89}{subsection.8.78}%
+\contentsline {subsection}{\numberline {8.79}Radial porta clichê}{90}{subsection.8.79}%
+\contentsline {subsection}{\numberline {8.80}Pressão caixa de vácuo}{91}{subsection.8.80}%
+\contentsline {subsection}{\numberline {8.81}Ventilador de vácuo}{92}{subsection.8.81}%
+\contentsline {subsection}{\numberline {8.82}Axial porta clichê}{93}{subsection.8.82}%
+\contentsline {subsection}{\numberline {8.83}Pressão rolo anilox}{94}{subsection.8.83}%
+\contentsline {subsection}{\numberline {8.84}Ventilador de vácuo}{95}{subsection.8.84}%
+\contentsline {subsection}{\numberline {8.85}Pressão caixa de vácuo}{96}{subsection.8.85}%
+\contentsline {subsection}{\numberline {8.86}Pressão manual no Porta Manta}{97}{subsection.8.86}%
+\contentsline {subsection}{\numberline {8.87}Pressão manual no Porta Manta}{98}{subsection.8.87}%
+\contentsline {subsection}{\numberline {8.88}Radial Porta Ferramenta}{99}{subsection.8.88}%
+\contentsline {subsection}{\numberline {8.89}Perímetro da Manta}{100}{subsection.8.89}%
+\contentsline {subsection}{\numberline {8.90}Setpoint pressão Porta Manta afastado}{101}{subsection.8.90}%
+\contentsline {subsection}{\numberline {8.91}Setpoint pressão Porta Manta aproximado}{102}{subsection.8.91}%
+\contentsline {subsection}{\numberline {8.92}Axial Porta Ferramenta}{103}{subsection.8.92}%
+\contentsline {subsection}{\numberline {8.93}\small Ventilador do batedor}{104}{subsection.8.93}%
+\contentsline {subsection}{\numberline {8.94}\small Rolo batedor}{105}{subsection.8.94}%
+\contentsline {subsection}{\numberline {8.95}\small Ventilador saída do batedor}{106}{subsection.8.95}%
+\contentsline {subsection}{\numberline {8.96}\small Velocidade de transporte no Batedor}{107}{subsection.8.96}%
+\contentsline {subsection}{\numberline {8.97}\small Status das guias}{108}{subsection.8.97}%
+\contentsline {subsection}{\numberline {8.98}\small Dados da caixa}{109}{subsection.8.98}%
+\contentsline {subsection}{\numberline {8.99}\small Dados da chapa}{110}{subsection.8.99}%
+\contentsline {subsection}{\numberline {8.100}\small Saída do pacote}{111}{subsection.8.100}%
+\contentsline {subsection}{\numberline {8.101}\small Velocidade do TRP-1}{112}{subsection.8.101}%
+\contentsline {subsection}{\numberline {8.102}\small Velocidade do TRP-2/3}{113}{subsection.8.102}%
+\contentsline {subsection}{\numberline {8.103}\small Quantidade de caixas por pilha}{114}{subsection.8.103}%
+\contentsline {subsection}{\numberline {8.104}\small Separação TRP-3}{115}{subsection.8.104}%
+\contentsline {subsection}{\numberline {8.105}\small Separação transportador-2}{116}{subsection.8.105}%
+\contentsline {subsection}{\numberline {8.106}\small Visualização das receitas}{117}{subsection.8.106}%
+\contentsline {subsection}{\numberline {8.107}\small Criar nova receita}{118}{subsection.8.107}%
+\contentsline {subsection}{\numberline {8.108}\small Pré carregar pedido}{119}{subsection.8.108}%
+\contentsline {subsection}{\numberline {8.109}\small Visualização de pedidos}{120}{subsection.8.109}%
+\contentsline {subsection}{\numberline {8.110}\small Detalhes da receita}{121}{subsection.8.110}%
+\contentsline {subsection}{\numberline {8.111}\small Próxima receita}{122}{subsection.8.111}%
+\contentsline {subsection}{\numberline {8.112}\small Informações do pedido}{123}{subsection.8.112}%
+\contentsline {subsection}{\numberline {8.113}\small Seleção de impressora}{124}{subsection.8.113}%
+\contentsline {subsection}{\numberline {8.114}\small Dados dos clichês}{125}{subsection.8.114}%
+\contentsline {subsection}{\numberline {8.115}\small Requisitos para liberar a próxima página}{126}{subsection.8.115}%
+\contentsline {subsection}{\numberline {8.116}\small Requisitos para liberar a próxima página}{127}{subsection.8.116}%
+\contentsline {subsection}{\numberline {8.117}\small Dados da caixa}{128}{subsection.8.117}%
+\contentsline {subsection}{\numberline {8.118}\small Dados da chapa}{129}{subsection.8.118}%
+\contentsline {subsection}{\numberline {8.119}\small Dados da chapa}{130}{subsection.8.119}%
+\contentsline {subsection}{\numberline {8.120}\small Requisitos para liberar a próxima página}{131}{subsection.8.120}%
