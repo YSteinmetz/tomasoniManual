@@ -1,6 +1,4 @@
-\usepackage[utf8]{inputenc}
-\usepackage[acronym]{glossaries}
-\usepackage{booktabs, longtable}
+
 %itens geral
 \newglossaryentry{alm}{name={ALM},description={Alarme}}
 \newglossaryentry{ALIM}{name={ALIM},description={Unid. Alimentação}}
@@ -54,7 +52,12 @@
 \author{guilherme.oliveira }
 \date{January 2023}
 
-\begin{document}
+\thispagestyle{fancy}
+\vspace*{40 pt}
+
+\section{\large{\MakeUppercase{Glosário}}}
+
+\subsection{Siglas/abreviações gerais}
 
 \begin{longtable}{@{}c c@{}}
 \textbf{Sigla/abreviação Geral} & \textbf{Descritivo da sigla/abreviação} \\
@@ -109,6 +112,14 @@
 \addlinespace[0.2cm]
 
 \end{longtable}
+
+\newpage
+\thispagestyle{fancy}
+\vspace*{40 pt}
+
+\subsection{Siglas/abreviações Painéis}
+
+
 %Tabela de abreviações do Painel
 \begin{longtable}{@{}c c@{}}
 \textbf{Sigla/abreviação Painéis} & \textbf{Descritivo da sigla/abreviação} \\
@@ -139,7 +150,14 @@
 \gls{HC-100} & Painel de Comando Unid. Contagem \\
 \addlinespace[0.2cm]
 \end{longtable}
+
+
 \newpage
+\thispagestyle{fancy}
+\vspace*{40 pt}
+
+\subsection{Siglas/abreviações Acionamentos}
+
 %Tabela de abreviações dos Acionamentos
 \begin{longtable}{@{}c c@{}}
 \textbf{Sigla/abreviação Acionamentos} & \textbf{Descritivo da sigla/abreviação} \\
@@ -178,5 +196,3 @@
 \gls{VE-CNT} & Ventilador Soprador Unid. Contagem \\
 \addlinespace[0.2cm]
 \end{longtable}
-
-\end{document}
