@@ -28,11 +28,21 @@ Ramo de Atividade: Fabricação de Máquinas e Equipamentos para Indústria de C
 
 \machineName \space. DESIGNAÇÃO: \machineShortName. VARIANTE: \variant.
 
+%IF FLEXO
+\ifmachineType
+
 Capacidade de Produção: \productionCapacityminimumSheet \space caixas por minuto para menor caixa (chapa).
 
-Chapa Mínima: \minimumSheet \ space mm / Chapa Máxima: \maximumSheet \space mm.
+Chapa Mínima: \minimumSheet \space mm / Chapa Máxima: \maximumSheet \space mm.
 
 \textbf{Nota: conforme aumento do tamanho da caixa (chapa) diminui velocidade de produção.}
 
 Velocidade máxima para maior chapa: \productionCapacitymaximumSheet \space caixas por minuto.
+
+\else
+
+Capacidade de Produção: \productionCapacityminimumSheet \space caixas por minuto.
+
+\fi
+
 
