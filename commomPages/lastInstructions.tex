@@ -17,9 +17,24 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \item[\ding{\dingNumber}] Ajustar o carro esquadrejador e as guias de acordo com o tamanho da chapa; Ver: \ref{ihmAlimentacaoTelaAjustesPagina1} - \nameref{ihmAlimentacaoTelaAjustesPagina1};
   \item[\ding{\dingNumber}] Colocar clichê e tintas nas impressoras que serão usadas;
   \item[\ding{\dingNumber}] Colocar o ferramental na máquina;
-  \item[\ding{\dingNumber}] Habilitar as impressoras que serão usadas; Ver: \ref{telaComandoImpressoraExecutaLavagemDeTinta} - \nameref{telaComandoImpressoraExecutaLavagemDeTinta};
-  \item[\ding{\dingNumber}] Fazer os ajustes de pressão no anilox conforme a expessura do clichê; Ver: \ref{ajustaPressaoRoloAnilox} - \nameref{ajustaPressaoRoloAnilox};
-  \item[\ding{\dingNumber}] Ajustar a pressão da caixa de vácuo considerando a espessura do clichê e a espessura da chapa; Ver: \ref{ajustaPressaoCaixaVacuo} - \nameref{ajustaPressaoCaixaVacuo};
+  \item[\ding{\dingNumber}] Habilitar as impressoras que serão usadas; Ver: 
+  \ifmachineType
+  \ref{telaComandoImpressoraHabilitaImpressora} - \nameref{telaComandoImpressoraHabilitaImpressora};
+  \else
+  \ref{sec:comandosImpressoraHabilitaImpressora} - \nameref{sec:comandosImpressoraHabilitaImpressora};
+  \fi
+  \item[\ding{\dingNumber}] Fazer os ajustes de pressão no anilox conforme a expessura do clichê; Ver: 
+  \ifmachineType
+  \ref{ajustaPressaoRoloAnilox} - \nameref{ajustaPressaoRoloAnilox};
+  \else
+  \ref{sec:telaAjustesImpressorasPressaoAnilox} - \nameref{sec:telaAjustesImpressorasPressaoAnilox};
+  \fi
+  \item[\ding{\dingNumber}] Ajustar a pressão da caixa de vácuo considerando a espessura do clichê e a espessura da chapa; Ver: 
+  \ifmachineType
+  \ref{ajustaPressaoCaixaVacuo} - \nameref{ajustaPressaoCaixaVacuo};
+  \else
+  \ref{sec:telaAjustesImpressorasPressaoCaixaVaco} - \nameref{sec:telaAjustesImpressorasPressaoCaixaVaco};
+  \fi
   \item[\ding{\dingNumber}] Realizar os outros ajustes de pressão de acordo com a espessura da chapa; Ver: 
     %Criar nova lista com nome pressureAdjustment
     \newlist {pressureAdjustment}{itemize}{1}
@@ -28,6 +43,8 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
     %inicia a lista de itens
 
     \begin{pressureAdjustment}
+      \ifmachineType
+
       \item[\ding{\dingNumber}] \ref{telaAjustesAlimentacaoPressaoRoloPuxador} - \nameref{telaAjustesAlimentacaoPressaoRoloPuxador};
       \item[\ding{\dingNumber}] \ref{telaAjustesSlotterAjustePressaoDoAmassador} - \nameref{telaAjustesSlotterAjustePressaoDoAmassador};
       \item[\ding{\dingNumber}] \ref{telaAjustesSlotterAjustePressaoDoEntalheTraseiro} - \nameref{telaAjustesSlotterAjustePressaoDoEntalheTraseiro};
@@ -37,12 +54,21 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
       \item[\ding{\dingNumber}] \ref{telaAjustesDobra2AjustaPressaoRoloEntrada} - \nameref{telaAjustesDobra2AjustaPressaoRoloEntrada};
       \item[\ding{\dingNumber}] \ref{telaAjustesDobra2AjustaPressaoRoloSaida} - \nameref{telaAjustesDobra2AjustaPressaoRoloSaida};
       \item[\ding{\dingNumber}] \ref{telaAjustesContagemAjustaPressaoRoloEntrada} - \nameref{telaAjustesContagemAjustaPressaoRoloEntrada}.
+      
+      \newpage
+      \thispagestyle{fancy}
+      \vspace*{50 pt}
+
+      \else
+
+      \item[\ding{\dingNumber}] \ref{sec:telaConfiguracoesAlimentacaoPressaoRoloPuxador} - \nameref{sec:telaConfiguracoesAlimentacaoPressaoRoloPuxador};
+
+      \fi
     \end{pressureAdjustment}
 
-    \newpage
-    \thispagestyle{fancy}
-    \vspace*{50 pt}
-
+    
+  
+  \ifmachineType
   \item[\ding{\dingNumber}] Ajustar a dobra e a contagem de acordo com as dimensões da caixa;Ver: 
   %cria uma nova lista com o nome ajustes de dobra e contagem
   \newlist {foldCount}{itemize}{1}
@@ -50,6 +76,8 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \setlist [foldCount]{label={}, nosep, before=\vspace{10pt}, after=\vspace{10pt}}
   %inicia a lista de itens
   \begin{foldCount}
+    
+
     \item[\ding{\dingNumber}] \ref{telaAjustesDobraAjustaPosicaoAxialAplicadorCola} - \nameref{telaAjustesDobraAjustaPosicaoAxialAplicadorCola};
     \item[\ding{\dingNumber}] \ref{telaAjustesDobraAjustaPosicaoAxialViga1} - \nameref{telaAjustesDobraAjustaPosicaoAxialViga1};
     \item[\ding{\dingNumber}] \ref{telaAjustesDobraAjustaPosicaoAxialViga2} - \nameref{telaAjustesDobraAjustaPosicaoAxialViga2};
@@ -59,24 +87,80 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
     \item[\ding{\dingNumber}] \ref{telaAjustesContagemAjustaSeparacaoPacoteOffsetPilha} - \nameref{telaAjustesContagemAjustaSeparacaoPacoteOffsetPilha};
     \item[\ding{\dingNumber}] \ref{telaAjustesContagemAjustaOffsetEspessuraCaixaDobrada} - \nameref{telaAjustesContagemAjustaOffsetEspessuraCaixaDobrada};
     \item[\ding{\dingNumber}] \ref{telaAjustesContagemFormacaoPilhaOffset} - \nameref{telaAjustesContagemFormacaoPilhaOffset}.
+    
+    
   \end{foldCount}
-  \item[\ding{\dingNumber}] Ajustar a pressão de corte conforme o ferramental e o desgaste da manta; Ver: \ref{telaAjustesPerfuradoraAjustePressaoPortaManta} - \nameref{telaAjustesPerfuradoraAjustePressaoPortaManta};
-  \item[\ding{\dingNumber}] Fazer ponto zero geral da máquina; Ver: \ref{telaComandosMaquinaPontoZeroGeral} - \nameref{telaComandosMaquinaPontoZeroGeral};
-  \item[\ding{\dingNumber}] Ligar a máquina e fazer o teste de impressão; Ver: \ref{telaComandoAlimentacaoConfiguracaoDeAlimentacaoDeCaixasModoManual} - \nameref{telaComandoAlimentacaoConfiguracaoDeAlimentacaoDeCaixasModoManual};
-  \item[\ding{\dingNumber}] Ajustar os registros de impressão; Ver: \ref{ajustaRegistroRoloPortaCliche} - \nameref{ajustaRegistroRoloPortaCliche};
+
+  \else
+
+  \item[\ding{\dingNumber}] Ajustar o batedor e o empilhador de acordo com as dimensões da caixa;Ver:
+  
+  \newlist {stacker}{itemize}{1}
+  \setlist [stacker]{label={}, nosep, before=\vspace{10pt}, after=\vspace{10pt}}
+
+  \begin{stacker}
+
+    \item[\ding{\dingNumber}] \ref{sec:telaCalculoAutomaticoGuiasDadosCaixa} - \nameref{sec:telaCalculoAutomaticoGuiasDadosCaixa};
+    \item[\ding{\dingNumber}] \ref{sec:telaAjustesEmpilhadorAlturaAvancoElevadorEntrada} - \nameref{sec:telaAjustesEmpilhadorAlturaAvancoElevadorEntrada};
+    \item[\ding{\dingNumber}] \ref{sec:telaAjustesEmpilhadorAlturaBatente} - \nameref{sec:telaAjustesEmpilhadorAlturaBatente}
+    \item[\ding{\dingNumber}] \ref{sec:telaAjustesEmpilhadorEscovaSaidaEmpilhador} - \nameref{sec:telaAjustesEmpilhadorEscovaSaidaEmpilhador}
+    \item[\ding{\dingNumber}] \ref{sec:telaAjustesEmpilhadorNoCrushEntradaTRP2} - \nameref{sec:telaAjustesEmpilhadorNoCrushEntradaTRP2}
+    \item[\ding{\dingNumber}] \ref{sec:telaAjustesEmpilhadorQuantidadeCaixasPilha} - \nameref{sec:telaAjustesEmpilhadorQuantidadeCaixasPilha}
+    \item[\ding{\dingNumber}] \ref{sec:telaAjustesEmpilhadorPosicaoParadaPilha} - \nameref{sec:telaAjustesEmpilhadorPosicaoParadaPilha}
+    
+  \end{stacker}
+    
+  \fi
+  \item[\ding{\dingNumber}] Ajustar a pressão de corte conforme o ferramental e o desgaste da manta; Ver: 
+  \ifmachineType
+  \ref{telaAjustesPerfuradoraAjustePressaoPortaManta} - \nameref{telaAjustesPerfuradoraAjustePressaoPortaManta};
+  \ref{telaAjustesPerfuradoraAlteraPerimetroManta} - \nameref{telaAjustesPerfuradoraAlteraPerimetroManta};
+  \else
+  \ref{sec:comandosCorteVincoAjustePressaoPortaManta} - \nameref{sec:comandosCorteVincoAjustePressaoPortaManta};
+  \ref{sec:telaAjustesCorteEVincoPerimetroManta} - \nameref{sec:telaAjustesCorteEVincoPerimetroManta};
+  \fi
+  \item[\ding{\dingNumber}] Fazer ponto zero geral da máquina; Ver: 
+  \ifmachineType
+  \ref{telaComandosMaquinaPontoZeroGeral} - \nameref{telaComandosMaquinaPontoZeroGeral};
+  \else
+  \ref{sec:comandosMaquinaexecutaPontoZeroGeral} - \nameref{sec:comandosMaquinaexecutaPontoZeroGeral};
+  \fi
+  \item[\ding{\dingNumber}] Ligar a máquina e fazer o teste de impressão; Ver: 
+  \ifmachineType
+  \ref{telaComandoAlimentacaoConfiguracaoDeAlimentacaoDeCaixasModoManual} - \nameref{telaComandoAlimentacaoConfiguracaoDeAlimentacaoDeCaixasModoManual};
+  \else
+  \ref{sec:telaComandoAlimentacaoAlimentacaoManualDaMaquina} - \nameref{sec:telaComandoAlimentacaoAlimentacaoManualDaMaquina};
+  \fi
+  \item[\ding{\dingNumber}] Ajustar os registros de impressão; Ver: 
+  \ifmachineType
+  \ref{ajustaRegistroRoloPortaCliche} - \nameref{ajustaRegistroRoloPortaCliche};
+  \else
+  \ref{sec:telaAjustesImpressorasRegistroAtual} - \nameref{sec:telaAjustesImpressorasRegistroAtual};
+  \fi
+  \ifmachineType
   \item[\ding{\dingNumber}] Ajustar os registros dos entalhes; Ver: \ref{telaAjustesSlotterAjusteRegistroEntalheDianteiro} - \nameref{telaAjustesSlotterAjusteRegistroEntalheDianteiro} e \ref{telaAjustesSlotterAjusteRegistroEntalheTraseiro} - \nameref{telaAjustesSlotterAjusteRegistroEntalheTraseiro};
   \item[\ding{\dingNumber}] Ajustar os registros da perfuradora; Ver: \ref{telaAjustesPerfuradoraAjusteRegistroPortaFerramenta} - \nameref{telaAjustesPerfuradoraAjusteRegistroPortaFerramenta};
+  \else
+  \item[\ding{\dingNumber}] Ajustar o resgistro do corte; Ver: \ref{sec:telaAjustesCorteEVincoRadialPortaFerramenta} - \nameref{sec:telaAjustesCorteEVincoRadialPortaFerramenta};
+  \fi
   \item[\ding{\dingNumber}] Ajustar o ajuste fino das pressões de acordo com a impressão;
   \item[\ding{\dingNumber}] Iniciar a produção.
   
 \end{procedureAdjustmentNoRecipe}
+
+\ifmachineType
+\else
+  \newpage
+  \thispagestyle{fancy}
+  \vspace*{40 pt}
+\fi
 
 \section{\large{PROCEDIMENTO PARA AJUSTE DA MÁQUINA COM RECEITA}}
 
 %criar uma nova lista de itens com o nome procedureAdjustmentRecipe
 \newlist {procedureAdjustmentRecipe}{itemize}{1}
 %define as propriedades da lista
-\setlist [procedureAdjustmentRecipe]{label={}, nosep, before=\vspace{10pt}, after=\vspace{10pt}}
+\setlist [procedureAdjustmentRecipe]{label={}, nosep, after=\vspace{10pt}}
 
 %inicia a lista de itens
 \begin{procedureAdjustmentRecipe}
@@ -84,11 +168,33 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \item[\ding{\dingNumber}] Ajustar o carro esquadrejador e as guias de acordo com o tamanho da chapa; Ver: \ref{ihmAlimentacaoTelaAjustesPagina1} - \nameref{ihmAlimentacaoTelaAjustesPagina1};
   \item[\ding{\dingNumber}] Colocar clichê e tintas nas impressoras que serão usadas;
   \item[\ding{\dingNumber}] Colocar o ferramental na máquina;
-  \item[\ding{\dingNumber}] Carregar a receita, ou criar uma nova receita; Ver: \ref{telaVisualizacaoPedidos} - \nameref{telaVisualizacaoPedidos};
-  \item[\ding{\dingNumber}] Ajustar a pressão de corte conforme o ferramental e o desgaste da manta; Ver: \ref{telaAjustesPerfuradoraAjustePressaoPortaManta} - \nameref{telaAjustesPerfuradoraAjustePressaoPortaManta};
+  \item[\ding{\dingNumber}] Carregar a receita, ou criar uma nova receita; Ver: 
+  \ifmachineType
+  \ref{telaVisualizacaoPedidos} - \nameref{telaVisualizacaoPedidos};
+  \else
+  \ref{sec:telaVisualizacaoReceitas} - \nameref{sec:telaVisualizacaoReceitas};
+  \fi
+  \item[\ding{\dingNumber}] Ajustar a pressão de corte conforme o ferramental e o desgaste da manta; Ver: 
+  \ifmachineType
+  \ref{telaAjustesPerfuradoraAjustePressaoPortaManta} - \nameref{telaAjustesPerfuradoraAjustePressaoPortaManta};
+  \ref{telaAjustesPerfuradoraAlteraPerimetroManta} - \nameref{telaAjustesPerfuradoraAlteraPerimetroManta};
+  \else
+  \ref{sec:comandosCorteVincoAjustePressaoPortaManta} - \nameref{sec:comandosCorteVincoAjustePressaoPortaManta};
+  \ref{sec:telaAjustesCorteEVincoPerimetroManta} - \nameref{sec:telaAjustesCorteEVincoPerimetroManta};
+  \fi
   \item[\ding{\dingNumber}] Ligar a máquina e fazer o teste de impressão;
-  \item[\ding{\dingNumber}] Ajustar os registros de impressão; Ver: \ref{ajustaRegistroRoloPortaCliche} - \nameref{ajustaRegistroRoloPortaCliche};
+  \item[\ding{\dingNumber}] Ajustar os registros de impressão; Ver: 
+  \ifmachineType
+  \ref{ajustaRegistroRoloPortaCliche} - \nameref{ajustaRegistroRoloPortaCliche};
+  \else
+  \ref{sec:segundaTelaGeralAjustesImpressorasRadialPortaCliche} - \nameref{sec:segundaTelaGeralAjustesImpressorasRadialPortaCliche};
+  \fi
+  \ifmachineType
+  \item[\ding{\dingNumber}] Ajustar os registros dos entalhes; Ver: \ref{telaAjustesSlotterAjusteRegistroEntalheDianteiro} - \nameref{telaAjustesSlotterAjusteRegistroEntalheDianteiro} e \ref{telaAjustesSlotterAjusteRegistroEntalheTraseiro} - \nameref{telaAjustesSlotterAjusteRegistroEntalheTraseiro};
   \item[\ding{\dingNumber}] Ajustar os registros da perfuradora; Ver: \ref{telaAjustesPerfuradoraAjusteRegistroPortaFerramenta} - \nameref{telaAjustesPerfuradoraAjusteRegistroPortaFerramenta};
+  \else
+  \item[\ding{\dingNumber}] Ajustar o resgistro do corte; Ver: \ref{sec:telaAjustesCorteEVincoRadialPortaFerramenta} - \nameref{sec:telaAjustesCorteEVincoRadialPortaFerramenta};
+  \fi
   \item[\ding{\dingNumber}] Ajustar as pressões de acordo com a impressão;
   \item[\ding{\dingNumber}] Salvar ajustes finos;
   \item[\ding{\dingNumber}] Iniciar a produção.
