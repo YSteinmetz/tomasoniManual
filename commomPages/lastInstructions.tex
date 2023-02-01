@@ -27,13 +27,13 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \ifmachineType
   \ref{ajustaPressaoRoloAnilox} - \nameref{ajustaPressaoRoloAnilox};
   \else
-  \ref{sec:telaAjustesImpressorasPressaoAnilox} - \nameref{sec:telaAjustesImpressorasPressaoAnilox};
+  \ref{sec:telaAjustesImpressoraPressaoRoloAnilox} - \nameref{sec:telaAjustesImpressoraPressaoRoloAnilox};
   \fi
   \item[\ding{\dingNumber}] Ajustar a pressão da caixa de vácuo considerando a espessura do clichê e a espessura da chapa; Ver: 
   \ifmachineType
   \ref{ajustaPressaoCaixaVacuo} - \nameref{ajustaPressaoCaixaVacuo};
   \else
-  \ref{sec:telaAjustesImpressorasPressaoCaixaVaco} - \nameref{sec:telaAjustesImpressorasPressaoCaixaVaco};
+  \ref{sec:telaAjustesImpressoraPressaoCaixaVaco} - \nameref{sec:telaAjustesImpressoraPressaoCaixaVaco};
   \fi
   \item[\ding{\dingNumber}] Realizar os outros ajustes de pressão de acordo com a espessura da chapa; Ver: 
     %Criar nova lista com nome pressureAdjustment
@@ -135,7 +135,7 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \ifmachineType
   \ref{ajustaRegistroRoloPortaCliche} - \nameref{ajustaRegistroRoloPortaCliche};
   \else
-  \ref{sec:telaAjustesImpressorasRegistroAtual} - \nameref{sec:telaAjustesImpressorasRegistroAtual};
+  \ref{sec:telaAjustesImpressoraRadialPortaCliche} - \nameref{sec:telaAjustesImpressoraRadialPortaCliche};
   \fi
   \ifmachineType
   \item[\ding{\dingNumber}] Ajustar os registros dos entalhes; Ver: \ref{telaAjustesSlotterAjusteRegistroEntalheDianteiro} - \nameref{telaAjustesSlotterAjusteRegistroEntalheDianteiro} e \ref{telaAjustesSlotterAjusteRegistroEntalheTraseiro} - \nameref{telaAjustesSlotterAjusteRegistroEntalheTraseiro};
@@ -200,4 +200,81 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \item[\ding{\dingNumber}] Iniciar a produção.
   
 \end{procedureAdjustmentRecipe}
+
+\section{\large{PROCEDIMENTO PARA RESOLUÇÃO DE EMBUCHAMENTOS NO SETOR 1}}
+
+%criar uma nova lista de itens com o nome procedureFixingIsuesSector1
+
+\newlist {procedureFixingIsuesSector1}{itemize}{1}
+%define as propriedades da lista
+\setlist [procedureFixingIsuesSector1]{label={}, nosep, after=\vspace{10pt}}
+
+%inicia a lista de itens
+%procedimentos para desembuchamento do setor 1
+\begin{procedureFixingIsuesSector1}
+
+  \item[\ding{\dingNumber}] Desative o controle de embuchamento; Ver: 
+  \ifmachineType
+  \ref{telaComandosMaquinaLigaControleDeEmbuchamento} - \nameref{telaComandosMaquinaLigaControleDeEmbuchamento};
+  \else
+  \ref{sec:comandosMaquinaLigaControleDoEmbuchamento} - \nameref{sec:comandosMaquinaLigaControleDoEmbuchamento};
+  \fi
+  \ifmachineType
+  \item[\ding{\dingNumber}] Destrave a unidade em que o embuchamento ocorreu;
+  \item[\ding{\dingNumber}] Abra a máquina;
+  \fi
+  \item[\ding{\dingNumber}] Remova o embuchamento;
+  \ifmachineType
+  \item[\ding{\dingNumber}] Feche a máquina;
+  \item[\ding{\dingNumber}] Trave a unidade;
+  \fi
+  \item[\ding{\dingNumber}] Resete as falhas;
+  \item[\ding{\dingNumber}] Ative o controle de embuchamento.
+  
+\end{procedureFixingIsuesSector1}
+
+\section{\large{PROCEDIMENTO PARA RESOLUÇÃO DE EMBUCHAMENTOS NO SETOR 2}}
+
+%criar uma nova lista de itens com o nome procedureFixingIsuesSector2
+
+\newlist {procedureFixingIsuesSector2}{itemize}{1}
+%define as propriedades da lista
+\setlist [procedureFixingIsuesSector2]{label={}, nosep, after=\vspace{10pt}}
+
+%inicia a lista de itens
+%procedimentos para desembuchamento do setor 2
+\begin{procedureFixingIsuesSector2}
+
+  \item[\ding{\dingNumber}] Habilite o modo embuchamento; Ver:
+  \ifmachineType
+  \ref{telaComandoContagemHabilitaModoEmbuchamento} - \nameref{telaComandoContagemHabilitaModoEmbuchamento};
+  \else
+  \ref{sec:telaComandosEmpilhadorHabilitaModoEmbuchamento} - \nameref{sec:telaComandosEmpilhadorHabilitaModoEmbuchamento};
+  \fi
+  \item[\ding{\dingNumber}] Descarte a pilha; Ver:
+  \ifmachineType
+  \ref{telaComandoContagemDescartaPilha} - \nameref{telaComandoContagemDescartaPilha};
+  \else
+  \ref{sec:telaComandosEmpilhadorDescartaPilha} - \nameref{sec:telaComandosEmpilhadorDescartaPilha};
+  \fi
+  \item[\ding{\dingNumber}] Pressione o botão de JOG até que a dobra não tenha mais nenhuma caixa; Ver:
+  \ifmachineType
+  \ref{telaComandoContagemMenuJOGEixos} - \nameref{telaComandoContagemMenuJOGEixos};
+  \else
+  \ref{sec:telaComandosEmpilhadorHabilitaFuncaoJog} - \nameref{sec:telaComandosEmpilhadorHabilitaFuncaoJog};
+  \fi
+  \item[\ding{\dingNumber}] Descarte a pilha;
+  \item[\ding{\dingNumber}] Desabilite o modo embuchamento;
+  \item[\ding{\dingNumber}] Devolva os eixos para a posição inicial; Ver:
+  \ifmachineType
+  \ref{telaComandoContagemMovimentoInicialDosEixos} - \nameref{telaComandoContagemMovimentoInicialDosEixos};
+  \else
+  \ref{sec:telaComandosEmpilhadorMovimentoInicialEixos} - \nameref{sec:telaComandosEmpilhadorMovimentoInicialEixos};
+  \fi
+  \item[\ding{\dingNumber}] Resete as falhas.
+  
+\end{procedureFixingIsuesSector2}
+  
+
+
 
