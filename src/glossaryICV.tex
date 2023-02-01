@@ -1,9 +1,6 @@
-\documentclass{article}
-\usepackage[utf8]{inputenc}
-\usepackage[acronym]{glossaries}
-\usepackage{booktabs, longtable}
+
 %itens geral
-\newglossaryentry{alm}{name={alm},description={Alarme}}
+\newglossaryentry{ALM}{name={ALM},description={Alarme}}
 \newglossaryentry{ALIM}{name={ALIM},description={Unid. Alimentação}}
 \newglossaryentry{IMP1}{name={IMP1},description={Unid. Impressora 1}}
 \newglossaryentry{IMP2}{name={IMP2},description={Unid. Impressora 2}}
@@ -17,6 +14,9 @@
 \newglossaryentry{PPRA}{name={PPRA},description={Programa de Prevenção de Riscos Ambientais}}
 \newglossaryentry{PCMSO}{name={PCMSO},description={Programa de Controle Médico de Saúde Ocupacional}}
 \newglossaryentry{LER}{name={LER}, description={Lesão por Esforço Repetitivo}}
+\newglossaryentry{SETOR1}{name={SETOR 1}, description={Unidades: Alimentação, Impressoras, Transporte, Corte e Vinco.}}
+\newglossaryentry{SETOR2}{name={SETOR 2}, description={Unidades: Batedor, Empilhador.}}
+\newglossaryentry{NR}{name={NR},description={Norma Regulamentadora}}
 
 
 %itens Painéis
@@ -49,15 +49,15 @@
 \newglossaryentry{NC3}{name={NC3},description={No-Crush3 - Unid. Empilhador}}
 \newglossaryentry{STP}{name={STP},description={Setpoint - Unid. Corte e Vinco}}
 \newglossaryentry{SUP}{name={SUP},description={Superior - Unid. Batedor}}
-\newglossaryentry{TR2}{name={TR2},description={Transportador 2 - Unid. Empilhador}}
+\newglossaryentry{TRP2}{name={TRP2},description={Transportador 2 - Unid. Empilhador}}
 \newglossaryentry{TRP1}{name={TRP1},description={Transportador 1 - Unid. Empilhador}}
 
+\thispagestyle{fancy}
+\vspace*{40 pt}
 
-\title{Glosário}
-\author{guilherme.oliveira }
-\date{January 2023}
+\section{\large{\MakeUppercase{Glosário}}}
 
-\begin{document}
+\subsection{Siglas/abreviações gerais}
 
 \begin{longtable}{@{}c c@{}}
 \textbf{Sigla/abreviação Geral} & \textbf{Descritivo da sigla/abreviação} \\
@@ -72,7 +72,7 @@
 \midrule
 \endlastfoot
 
-\gls{alm} & Alarme \\
+\gls{ALM} & Alarme \\
 \addlinespace[0.2cm]
 
 \gls{ALIM} & Unid. Alimentação  \\
@@ -114,7 +114,23 @@
 \gls{LER} & Lesão por Esforço Repetitivo \\
 \addlinespace[0.2cm]
 
+\gls{NR} & Norma Regulamentadora \\
+\addlinespace[0.2cm]
+
+\gls{SETOR1} & Unidades: Alimentação, Impressoras, Transporte, Corte e Vinco. \\
+\addlinespace[0.2cm]
+
+\gls{SETOR2} & Unidades: Batedor, Empilhador. \\
+\addlinespace[0.2cm]
+
+
 \end{longtable}
+
+\newpage
+\thispagestyle{fancy}
+\vspace*{40 pt}
+
+\subsection{Siglas/abreviações Painéis}
 
 %Tabela de abreviações do Painel
 \begin{longtable}{@{}c c@{}}
@@ -144,7 +160,13 @@
 \gls{GC-100} & Painel de Comando Unid. Empilhador \\
 \addlinespace[0.2cm]
 \end{longtable}
+
 \newpage
+\thispagestyle{fancy}
+\vspace*{40 pt}
+
+\subsection{Siglas/abreviações Acionamentos}
+
 %Tabela de abreviações dos Acionamentos
 \begin{longtable}{@{}c c@{}}
 \textbf{Sigla/abreviação Acionamentos} & \textbf{Descritivo da sigla/abreviação} \\
@@ -195,11 +217,9 @@
 \addlinespace[0.2cm]
 \gls{SUP} & Superior - Unid. Batedor \\
 \addlinespace[0.2cm]
-\gls{TR2} & Transportador 2 - Unid. Empilhador \\
+\gls{TRP2} & Transportador 2 - Unid. Empilhador \\
 \addlinespace[0.2cm]
 \gls{TRP1} & Transportador 1 - Unid. Empilhador \\
 \addlinespace[0.2cm]
 
 \end{longtable}
-
-\end{document}
