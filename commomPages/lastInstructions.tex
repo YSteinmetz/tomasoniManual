@@ -10,7 +10,7 @@ Abaixo segue a descrição de procedimentos importantes para a operação da má
 \subsection{Procedimento para ajuste da máquina sem receita}
 
 Atenção, ao ajustar a máquina sem receita não será possível salvar as configurações, para salvar as configurações é necessário ter uma receita carregada.
-Não recomendamos ajustar a máquina sem receita, pois não será possível salvar as configurações e os seus finos serão perdidos ao carregar uma nova receita.
+Não recomendamos ajustar a máquina sem receita, pois não será possível salvar as configurações e os seus ajustes finos serão perdidos ao carregar uma nova receita.
 
 %cria uma nova lista de itens com o nome procedureAdjustmentNoRecipe
 \newlist {procedureAdjustmentNoRecipe}{itemize}{1}
@@ -206,7 +206,13 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   
 \end{procedureAdjustmentRecipe}
 
-\subsection{Procedimento para resolução de emchamentos no setor 1}
+\ifmachineType
+  \newpage
+  \thispagestyle{fancy}
+  \vspace*{40 pt}
+\fi
+
+\subsection{Procedimento para resolução de embuchamentos no setor 1}
 
 %criar uma nova lista de itens com o nome procedureFixingIsuesSector1
 
@@ -225,11 +231,15 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \ref{sec:comandosMaquinaLigaControleDoEmbuchamento} - \nameref{sec:comandosMaquinaLigaControleDoEmbuchamento};
   \fi
   \ifmachineType
+  \item[\ding{\dingNumber}] Abra a tampa da unidade em que o embuchamento ocorreu;
+  \else
   \item[\ding{\dingNumber}] Destrave a unidade em que o embuchamento ocorreu;
   \item[\ding{\dingNumber}] Abra a máquina;
   \fi
   \item[\ding{\dingNumber}] Remova o embuchamento;
   \ifmachineType
+  \item[\ding{\dingNumber}] Feche a tampa da unidade;
+  \else
   \item[\ding{\dingNumber}] Feche a máquina;
   \item[\ding{\dingNumber}] Trave a unidade;
   \fi
@@ -237,8 +247,6 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \item[\ding{\dingNumber}] Ative o controle de embuchamento.
   
 \end{procedureFixingIsuesSector1}
-
-\subsection{Procedimento para resolução de emchamentos no setor 2}
 
 %criar uma nova lista de itens com o nome procedureFixingIsuesSector2
 
@@ -248,7 +256,60 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
 
 %inicia a lista de itens
 %procedimentos para desembuchamento do setor 2
+\ifmachineType
+
+\subsection{Procedimento para resolução de embuchamentos no setor 2}
+
 \begin{procedureFixingIsuesSector2}
+
+  \item[\ding{\dingNumber}] Caso o embuchamento necessite acessar a área para a sua resolução:
+  
+  %criar uma nova lista de itens com o nome procedureFixingIsuesSector2.1
+  \newlist {procedureFixingIsuesSector2.1}{itemize}{1}
+  %define as propriedades da lista
+  \setlist [procedureFixingIsuesSector2.1]{label={}, nosep}
+
+  %inicia a lista de itens
+  \begin{procedureFixingIsuesSector2.1}
+  
+    \item[\ding{\dingNumber}] Desbloqueie a porta da unidade por meio da comutadora bloqueio local;
+    \item[\ding{\dingNumber}] Acesse a área onde o embuchamento ocorreu;
+    \item[\ding{\dingNumber}] Remova o embuchamento;
+    \item[\ding{\dingNumber}] Feche a porta da unidade;
+    \item[\ding{\dingNumber}] Retorne a comutadora bloqueio local para a posição normal de operação.
+    
+  \end{procedureFixingIsuesSector2.1}
+
+  \item[\ding{\dingNumber}] Caso o embuchamento não necessite acessar a área para a sua resolução:
+  
+  %criar uma nova lista de itens com o nome procedureFixingIsuesSector2.2
+  \newlist {procedureFixingIsuesSector2.2}{itemize}{1}
+  %define as propriedades da lista
+  \setlist [procedureFixingIsuesSector2.2]{label={}, nosep}
+
+  %inicia a lista de itens
+  \begin{procedureFixingIsuesSector2.2}
+  
+    \item[\ding{\dingNumber}] Aperte o botão de JOG até que o embuchamento seja removido, Ver: \ref{telaComandoDobraJOG} - \nameref{telaComandoDobraJOG};
+    
+  \end{procedureFixingIsuesSector2.2}
+  
+  \item[\ding{\dingNumber}] Resete as falhas;
+  \item[\ding{\dingNumber}] Ative o controle de embuchamento.
+  
+\end{procedureFixingIsuesSector2}
+
+\fi
+
+\subsection{Procedimento para resolução de embuchamentos no setor \ifmachineType 3 \else 2 \fi}
+
+\newlist {procedureFixingIsuesSector3}{itemize}{1}
+%define as propriedades da lista
+\setlist [procedureFixingIsuesSector3]{label={}, nosep, after=\vspace{10pt}}
+
+%inicia a lista de itens
+%procedimentos para desembuchamento do setor 2
+\begin{procedureFixingIsuesSector3}
 
   \item[\ding{\dingNumber}] Habilite o modo embuchamento; Ver:
   \ifmachineType
@@ -262,7 +323,7 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \else
   \ref{sec:telaComandosEmpilhadorDescartaPilha} - \nameref{sec:telaComandosEmpilhadorDescartaPilha};
   \fi
-  \item[\ding{\dingNumber}] Pressione o botão de JOG até que a dobra não tenha mais nenhuma caixa; Ver:
+  \item[\ding{\dingNumber}] Pressione o botão de JOG até que \ifmachineType a dobra \else o empilhador \fi não tenha mais nenhuma caixa; Ver:
   \ifmachineType
   \ref{telaComandoContagemMenuJOGEixos} - \nameref{telaComandoContagemMenuJOGEixos};
   \else
@@ -278,7 +339,7 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \fi
   \item[\ding{\dingNumber}] Resete as falhas.
   
-\end{procedureFixingIsuesSector2}
+\end{procedureFixingIsuesSector3}
 
 \newpage
 \thispagestyle{fancy}
@@ -286,70 +347,112 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   
 \section{\large\MakeUppercase{{Lógica de segurança da máquina}}}
 
+\ifmachineType
+ A máquina é composta por unidades Alimentação, Impressoras, Slotter, Perfuradora, Dobra e Contagem, e é dividida em três zonas de segurança.
+ O Setor 1 compreende a área da Alimentação até a Perfuradora, o Setor 2 compreende a Dobra e o Setor 3 compreende a Contagem.
+\else
 A máquina é composta por unidades Alimentação, Impressoras, Transporte, Corte e Vinco, Batedor e Empilhador, e é dividida em duas zonas de segurança.
  O Setor 1 compreende a área da Alimentação até a Corte e Vinco e o Setor 2 compreende o restante da máquina.
+\fi
 
 Os dispositivos de segurança são:
-
+\vspace*{10pt}
 %criar uma nova lista de itens com o nome safetyDevices
 
 \newlist {safetyDevices}{itemize}{1}
 %define as propriedades da lista
-\setlist [safetyDevices]{label={}, nosep, after=\vspace{10pt}}
+\setlist [safetyDevices]{label={}, nosep, after=\vspace*{10pt}}
 
 %inicia a lista de itens
 
 \begin{safetyDevices}
 
-  \item[\ding{\dingNumber}] Botões de Emergência: Estão situados tanto no lado de comando quanto no interior das unidades. Quando pressionados, bloqueiam todos os eixos da máquina.
-  \item[\ding{\dingNumber}] Chaves comutadoras: Servem para bloquear o equipamento durante a manutenção e setup.
+  \item[\ding{\dingNumber}] Botões de Emergência: Estão situados \ifmachineType \else tanto \fi no lado de comando \ifmachineType \else quanto no interior das unidades\fi. Quando pressionados, bloqueiam todos os eixos da máquina;
+  \item[\ding{\dingNumber}] Chaves comutadoras: Servem para bloquear o equipamento durante a manutenção e setup;
+  \ifmachineType
+  \item[\ding{\dingNumber}] Sensores de barreira: Detectam a entrada de pessoas entre as unidades;
+  \else
   \item[\ding{\dingNumber}] Sensores de barreira: Detectam a entrada de pessoas entre as unidades quando o equipamento está aberto. Há um sensor no lado comando para cada 
-  unidade do setor 1 e um único sensor abrangendo todas as unidades no lado acionamento.
+  unidade do setor 1 e um único sensor abrangendo todas as unidades no lado acionamento;
+  \fi
   \item[\ding{\dingNumber}] Botão reset acesso interno: Deve ser pressionado toda vez que um acesso interno for detectado, em sua respectiva unidade. Caso o acesso 
-  interno seja do lado acionamento o botão reset de todas as unidades deve ser pressionado e também o botão reset do lado acionamento.
+  interno seja do lado acionamento o botão reset de todas as unidades deve ser pressionado e também o botão reset do lado acionamento;
+  \ifmachineType
+  \item[\ding{\dingNumber}] Pedaleiras de três estágios: São utilizadas para movimentar o rolo porta ferramenta durante a troca do ferramental. O terceiro estágio é de
+  emergência e é resetado pelo botão azul em cima da pedaleira;
+  \else
   \item[\ding{\dingNumber}] Pedaleiras de três estágios: São utilizadas para movimentar os rolos porta ferramenta e porta clichê durante a troca do ferramental.
-  O terceiro estágio é de emergência e é resetado pelo botão azul em cima da pedaleira.
-  \item[\ding{\dingNumber}] Botão abrir/fechar + botão auxiliar (bimanual): Necessários para abrir e fechar o equipamento.
-  \item[\ding{\dingNumber}] Travas de segurança nas portas do Empilhador: Devem ser liberadas para abrir as portas e fechadas para fechar as portas.
+  O terceiro estágio é de emergência e é resetado pelo botão azul em cima da pedaleira;
+  \fi
+  \ifmachineType
+  \item[\ding{\dingNumber}] Travas de segurança nas portas das unidades: Devem ser liberadas através do bloqueio local para abrir;
+  \item[\ding{\dingNumber}] Sensores de abertura das portas: Caso alguma porta seja aberta, todos os eixos do setor entram no estado de emergência
+  impossibilitando seu funcionamento; com exceção dos rolos porta ferramenta e porta clichê que são movimentados através de pedaleiras e botões em baixa velocidade
+  e incrementos pequenos acada toque do botão para permitir a troca do ferramental;
+  \else
+  \item[\ding{\dingNumber}] Botão abrir/fechar + botão auxiliar (bimanual): Necessários para abrir e fechar o equipamento;
+  \item[\ding{\dingNumber}] Travas de segurança nas portas do Empilhador: Devem ser liberadas através do bloqueio global para abrir;
   \item[\ding{\dingNumber}] Sensores de abertura de portas dos paineis elétricos: Detectam a abertura de portas dos paineis das unidades caso seja detectado a abertura do
-   painel é suspensa a força elétrica na mesma.
+   painel é suspensa a força elétrica na mesma;
   \item[\ding{\dingNumber}] Sensores de abertura das portas do Empilhador: Caso alguma porta do empilhador seja aberta, todos os eixos do setor entram no estado de emergência. 
-  impossibilitando o funcionamento do mesmo.
-  \item[\ding{\dingNumber}] Sensores de acoplamento das unidades: Detectam se as unidades estão acopladas corretamente. Caso não estejam, o setor entra em estado de emergência.
-  
+  impossibilitando o funcionamento do mesmo;
+  \fi
+  \item[\ding{\dingNumber}] Sensores de acoplamento das unidades: Detectam se as unidades estão acopladas corretamente. Caso não estejam, o setor entra em estado de emergência;
+  \item[\ding{\dingNumber}] Botões bimanuais na alimentação: Garante a segurança do operador durante a alimentação da máquina.
+
 \end{safetyDevices}
+
+\ifmachineType
+\subsection{Segurança ao abrir e fechar as portas}
+
+Para abrir as portas da maquina, é necessário primeiro realizar o bloqueio local da máquina por meio das chaves comutadoras, após isso, as travas das portas da unidade 
+serão liberadas. Para devolver o equipamento para o estado de operação, é necessário primeiro fechar as portas, devolver achave comutadora para a posição de 
+operação, após isso, as travas das portas serão bloqueadas por fim resetar o acesso interno e o equipamento estará pronto para operar.
+
+\else
 
 \subsection{Segurança ao abrir e fechar a máquina}
 
 Para abrir o equipamento é necessário primeiro desligar o acionamento atraves do respectivo botão em qualquer unidade, após isso, é necessário destravar a unidade 
 desejada para abrir, por fim é necessário pressionar o botão de abrir e o botão auxiliar (bimanual) na unidade alimentação. A máquina vai soar um alarme e em seguida
-vai iniciar o movimento pelo tempo em que os botões forem pressionados. Para fechar o equipamento é necessário primeiro pressionar o botão de fechar e o botão auxiliar
+vai iniciar o movimento pelo tempo em que os botões forem pressionados. Para fechar o equipamento é necessário primeiro pressionar o botão de fechar no batedor e outra
+pessoa deve pressionar o botão auxiliar (bimanual) e o botão de fecha na unidade alimentação. A máquina vai soar um alarme e em seguida vai iniciar o movimento pelo tempo 
+em que os botões forem pressionados.
 
 \subsection{Segurança ao abrir e fechar as portas do empilhador}
 
 Para abrir as portas do Empilhador, é necessário primeiro realizar o bloqueio global da máquina por meio das chaves comutadoras, após isso, as travas das portas do
-Empilhador serão liberadas. Para devolver o equipamento para o estado de operação, é necessário primeiro fechar as portas, devolver achave comutadora para a posição de 
+Empilhador serão liberadas. Para devolver o equipamento para o estado de operação, é necessário primeiro fechar as portas, devolver a chave comutadora para a posição de 
 operação, após isso, as travas das portas do Empilhador serão bloqueadas por fim resetar o acesso interno e o equipamento estará pronto para operar.
 
 \newpage
 \thispagestyle{fancy}
 \vspace*{40 pt}
 
-\subsection{Segurança ao adentrar no interior da máquina}
+\fi
 
-Para adentrar no interior da máquina é necessário primeiro realizar o bloqueio global da máquina por meio das chaves comutadoras e levar a chave consigo, após realizar o
-seu trabalho, é necessário devolver a chave para a posição de operação e resetar o acesso interno das unidades adentradas pelo lado comando, caso o acesso interno tenha
+\subsection{Segurança ao entrar no interior da máquina}
+
+Para acessar o interior da máquina é necessário primeiro realizar o bloqueio \ifmachineType local \else global \fi da máquina por meio das chaves comutadoras e levar a chave consigo, após realizar o
+seu trabalho, é necessário devolver a chave para a posição de operação e resetar o acesso interno das unidades acessadas pelo lado comando, caso o acesso interno tenha
 sido realizado pelo lado acionamento, é necessário resetar o acesso interno de todas as unidades no setor lado comando e também resetar o acesso interno do lado acionamento.
 
+\ifmachineType
+  \newpage
+  \thispagestyle{fancy}
+  \vspace*{40 pt}
+\fi
 
 \subsection{Segurança ao trocar ferramental}
 
-A troca do ferramental (forma e clichês) é feita com o auxílio de pedaleiras de três estágios, sendo que o eixo vai se mover uma pequena distância em baixa velocidade a 
-cada toque no segundo estágio da pedaleira. O terceiro estágio é de emergência e é resetado pelo botão azul em cima da pedaleira.
+A troca do ferramental (forma e clichês) é feita com o auxílio de \ifmachineType pedaleiras de três estágios ou botões\else pedaleiras de três estágios\fi, sendo que o 
+eixo vai se mover uma pequena distância em baixa velocidade a cada toque \ifmachineType no segundo estágio da pedaleira ou no botão \else no segundo estágio da pedaleira \fi. 
+O terceiro estágio é de emergência e é resetado pelo botão azul em cima da pedaleira.
+
 
 \subsection{Segurança ao alimentar a máquina}
 
-O equipamento ao identificar um nível baixo na pilha de papel, vai emitir um alarme e parar ou impedir a alimentação. Você pode alimentar a máquina com chapas de papelão
+O equipamento ao identificar um nível baixo na pilha de papel, vai emitir um alarme na IHM e parar ou impedir a alimentação. Você pode alimentar a máquina com chapas de papelão
 e para retomar a produção é necessário apertar o bimanual de alimentação e habilitar novamente a alimentação. Caso queira introduzir a pilha até o final, é necessário
 apertar o bimanual de alimentação até a pilha acabar.
 
