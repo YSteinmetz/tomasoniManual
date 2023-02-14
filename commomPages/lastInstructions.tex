@@ -2,7 +2,12 @@
 
 \vspace*{40 pt}
 
-\section{\large{PROCEDIMENTO PARA AJUSTE DA MÁQUINA SEM RECEITA}}
+\section{\large{DESCRIÇÃO DOS PROCEDIMENTOS PARA OPERAÇÃO DA MÁQUINA}}
+
+Este equipamento é uma máquina avançada projetada para impressão de alta qualidade em caixas de papelão.
+Abaixo segue a descrição de procedimentos importantes para a operação da máquina, incluindo as etapas de configuração e operação.
+
+\subsection{Procedimento para ajuste da máquina sem receita}
 
 Atenção, ao ajustar a máquina sem receita não será possível salvar as configurações, para salvar as configurações é necessário ter uma receita carregada.
 Não recomendamos ajustar a máquina sem receita, pois não será possível salvar as configurações e os seus finos serão perdidos ao carregar uma nova receita.
@@ -155,7 +160,7 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \vspace*{40 pt}
 \fi
 
-\section{\large{PROCEDIMENTO PARA AJUSTE DA MÁQUINA COM RECEITA}}
+\subsection{Procedimento para ajuste da máquina com receita}
 
 %criar uma nova lista de itens com o nome procedureAdjustmentRecipe
 \newlist {procedureAdjustmentRecipe}{itemize}{1}
@@ -201,7 +206,7 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   
 \end{procedureAdjustmentRecipe}
 
-\section{\large{PROCEDIMENTO PARA RESOLUÇÃO DE EMBUCHAMENTOS NO SETOR 1}}
+\subsection{Procedimento para resolução de emchamentos no setor 1}
 
 %criar uma nova lista de itens com o nome procedureFixingIsuesSector1
 
@@ -233,7 +238,7 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   
 \end{procedureFixingIsuesSector1}
 
-\section{\large{PROCEDIMENTO PARA RESOLUÇÃO DE EMBUCHAMENTOS NO SETOR 2}}
+\subsection{Procedimento para resolução de emchamentos no setor 2}
 
 %criar uma nova lista de itens com o nome procedureFixingIsuesSector2
 
@@ -274,7 +279,77 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \item[\ding{\dingNumber}] Resete as falhas.
   
 \end{procedureFixingIsuesSector2}
+
+\newpage
+\thispagestyle{fancy}
+\vspace*{40 pt}
   
+\section{\large\MakeUppercase{{Lógica de segurança da máquina}}}
+
+A máquina é composta por unidades Alimentação, Impressoras, Transporte, Corte e Vinco, Batedor e Empilhador, e é dividida em duas zonas de segurança.
+ O Setor 1 compreende a área da Alimentação até a Corte e Vinco e o Setor 2 compreende o restante da máquina.
+
+Os dispositivos de segurança são:
+
+%criar uma nova lista de itens com o nome safetyDevices
+
+\newlist {safetyDevices}{itemize}{1}
+%define as propriedades da lista
+\setlist [safetyDevices]{label={}, nosep, after=\vspace{10pt}}
+
+%inicia a lista de itens
+
+\begin{safetyDevices}
+
+  \item[\ding{\dingNumber}] Botões de Emergência: Estão situados tanto no lado de comando quanto no interior das unidades. Quando pressionados, bloqueiam todos os eixos da máquina.
+  \item[\ding{\dingNumber}] Chaves comutadoras: Servem para bloquear o equipamento durante a manutenção e setup.
+  \item[\ding{\dingNumber}] Sensores de barreira: Detectam a entrada de pessoas entre as unidades quando o equipamento está aberto. Há um sensor no lado comando para cada 
+  unidade do setor 1 e um único sensor abrangendo todas as unidades no lado acionamento.
+  \item[\ding{\dingNumber}] Botão reset acesso interno: Deve ser pressionado toda vez que um acesso interno for detectado, em sua respectiva unidade. Caso o acesso 
+  interno seja do lado acionamento o botão reset de todas as unidades deve ser pressionado e também o botão reset do lado acionamento.
+  \item[\ding{\dingNumber}] Pedaleiras de três estágios: São utilizadas para movimentar os rolos porta ferramenta e porta clichê durante a troca do ferramental.
+  O terceiro estágio é de emergência e é resetado pelo botão azul em cima da pedaleira.
+  \item[\ding{\dingNumber}] Botão abrir/fechar + botão auxiliar (bimanual): Necessários para abrir e fechar o equipamento.
+  \item[\ding{\dingNumber}] Travas de segurança nas portas do Empilhador: Devem ser liberadas para abrir as portas e fechadas para fechar as portas.
+  \item[\ding{\dingNumber}] Sensores de abertura de portas dos paineis elétricos: Detectam a abertura de portas dos paineis das unidades caso seja detectado a abertura do
+   painel é suspensa a força elétrica na mesma.
+  \item[\ding{\dingNumber}] Sensores de abertura das portas do Empilhador: Caso alguma porta do empilhador seja aberta, todos os eixos do setor entram no estado de emergência. 
+  impossibilitando o funcionamento do mesmo.
+  \item[\ding{\dingNumber}] Sensores de acoplamento das unidades: Detectam se as unidades estão acopladas corretamente. Caso não estejam, o setor entra em estado de emergência.
+  
+\end{safetyDevices}
+
+\subsection{Segurança ao abrir e fechar a máquina}
+
+Para abrir o equipamento é necessário primeiro desligar o acionamento atraves do respectivo botão em qualquer unidade, após isso, é necessário destravar a unidade 
+desejada para abrir, por fim é necessário pressionar o botão de abrir e o botão auxiliar (bimanual) na unidade alimentação. A máquina vai soar um alarme e em seguida
+vai iniciar o movimento pelo tempo em que os botões forem pressionados. Para fechar o equipamento é necessário primeiro pressionar o botão de fechar e o botão auxiliar
+
+\subsection{Segurança ao abrir e fechar as portas do empilhador}
+
+Para abrir as portas do Empilhador, é necessário primeiro realizar o bloqueio global da máquina por meio das chaves comutadoras, após isso, as travas das portas do
+Empilhador serão liberadas. Para devolver o equipamento para o estado de operação, é necessário primeiro fechar as portas, devolver achave comutadora para a posição de 
+operação, após isso, as travas das portas do Empilhador serão bloqueadas por fim resetar o acesso interno e o equipamento estará pronto para operar.
+
+\newpage
+\thispagestyle{fancy}
+\vspace*{40 pt}
+
+\subsection{Segurança ao adentrar no interior da máquina}
+
+Para adentrar no interior da máquina é necessário primeiro realizar o bloqueio global da máquina por meio das chaves comutadoras e levar a chave consigo, após realizar o
+seu trabalho, é necessário devolver a chave para a posição de operação e resetar o acesso interno das unidades adentradas pelo lado comando, caso o acesso interno tenha
+sido realizado pelo lado acionamento, é necessário resetar o acesso interno de todas as unidades no setor lado comando e também resetar o acesso interno do lado acionamento.
 
 
+\subsection{Segurança ao trocar ferramental}
+
+A troca do ferramental (forma e clichês) é feita com o auxílio de pedaleiras de três estágios, sendo que o eixo vai se mover uma pequena distância em baixa velocidade a 
+cada toque no segundo estágio da pedaleira. O terceiro estágio é de emergência e é resetado pelo botão azul em cima da pedaleira.
+
+\subsection{Segurança ao alimentar a máquina}
+
+O equipamento ao identificar um nível baixo na pilha de papel, vai emitir um alarme e parar ou impedir a alimentação. Você pode alimentar a máquina com chapas de papelão
+e para retomar a produção é necessário apertar o bimanual de alimentação e habilitar novamente a alimentação. Caso queira introduzir a pilha até o final, é necessário
+apertar o bimanual de alimentação até a pilha acabar.
 
