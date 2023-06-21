@@ -23,21 +23,24 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \item[\ding{\dingNumber}] Colocar clichê e tintas nas impressoras que serão usadas;
   \item[\ding{\dingNumber}] Colocar o ferramental na máquina;
   \item[\ding{\dingNumber}] Habilitar as impressoras que serão usadas; Ver: 
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{telaComandoImpressoraHabilitaImpressora} - \nameref{telaComandoImpressoraHabilitaImpressora};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:comandosImpressoraHabilitaImpressora} - \nameref{sec:comandosImpressoraHabilitaImpressora};
   \fi
   \item[\ding{\dingNumber}] Fazer os ajustes de pressão no anilox conforme a expessura do clichê; Ver: 
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{ajustaPressaoRoloAnilox} - \nameref{ajustaPressaoRoloAnilox};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:telaAjustesImpressoraPressaoRoloAnilox} - \nameref{sec:telaAjustesImpressoraPressaoRoloAnilox};
   \fi
   \item[\ding{\dingNumber}] Ajustar a pressão da caixa de vácuo considerando a espessura do clichê e a espessura da chapa; Ver: 
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{ajustaPressaoCaixaVacuo} - \nameref{ajustaPressaoCaixaVacuo};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:telaAjustesImpressoraPressaoCaixaVaco} - \nameref{sec:telaAjustesImpressoraPressaoCaixaVaco};
   \fi
   \item[\ding{\dingNumber}] Realizar os outros ajustes de pressão de acordo com a espessura da chapa; Ver: 
@@ -48,7 +51,7 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
     %inicia a lista de itens
 
     \begin{pressureAdjustment}
-      \ifmachineType
+      \ifmachineTypeFlexo
 
       \item[\ding{\dingNumber}] \ref{telaAjustesAlimentacaoPressaoRoloPuxador} - \nameref{telaAjustesAlimentacaoPressaoRoloPuxador};
       \item[\ding{\dingNumber}] \ref{telaAjustesSlotterAjustePressaoDoAmassador} - \nameref{telaAjustesSlotterAjustePressaoDoAmassador};
@@ -64,7 +67,8 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
       \thispagestyle{fancy}
       \vspace*{50 pt}
 
-      \else
+      \fi
+      \ifmachineTypeIcv
 
       \item[\ding{\dingNumber}] \ref{sec:telaConfiguracoesAlimentacaoPressaoRoloPuxador} - \nameref{sec:telaConfiguracoesAlimentacaoPressaoRoloPuxador};
 
@@ -73,7 +77,7 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
 
     
   
-  \ifmachineType
+  \ifmachineTypeFlexo
   \item[\ding{\dingNumber}] Ajustar a dobra e a contagem de acordo com as dimensões da caixa;Ver: 
   %cria uma nova lista com o nome ajustes de dobra e contagem
   \newlist {foldCount}{itemize}{1}
@@ -96,7 +100,8 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
     
   \end{foldCount}
 
-  \else
+  \fi
+  \ifmachineTypeIcv
 
   \item[\ding{\dingNumber}] Ajustar o batedor e o empilhador de acordo com as dimensões da caixa;Ver:
   
@@ -117,35 +122,40 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
     
   \fi
   \item[\ding{\dingNumber}] Ajustar a pressão de corte conforme o ferramental e o desgaste da manta; Ver: 
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{telaAjustesPerfuradoraAjustePressaoPortaManta} - \nameref{telaAjustesPerfuradoraAjustePressaoPortaManta};
   \ref{telaAjustesPerfuradoraAlteraPerimetroManta} - \nameref{telaAjustesPerfuradoraAlteraPerimetroManta};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:comandosCorteVincoAjustePressaoPortaManta} - \nameref{sec:comandosCorteVincoAjustePressaoPortaManta};
   \ref{sec:telaAjustesCorteEVincoPerimetroManta} - \nameref{sec:telaAjustesCorteEVincoPerimetroManta};
   \fi
   \item[\ding{\dingNumber}] Fazer ponto zero geral da máquina; Ver: 
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{telaComandosMaquinaPontoZeroGeral} - \nameref{telaComandosMaquinaPontoZeroGeral};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:comandosMaquinaexecutaPontoZeroGeral} - \nameref{sec:comandosMaquinaexecutaPontoZeroGeral};
   \fi
   \item[\ding{\dingNumber}] Ligar a máquina e fazer o teste de impressão; Ver: 
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{telaComandoAlimentacaoConfiguracaoDeAlimentacaoDeCaixasModoManual} - \nameref{telaComandoAlimentacaoConfiguracaoDeAlimentacaoDeCaixasModoManual};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:telaComandoAlimentacaoAlimentacaoManualDaMaquina} - \nameref{sec:telaComandoAlimentacaoAlimentacaoManualDaMaquina};
   \fi
   \item[\ding{\dingNumber}] Ajustar os registros de impressão; Ver: 
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{ajustaRegistroRoloPortaCliche} - \nameref{ajustaRegistroRoloPortaCliche};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:telaAjustesImpressoraRadialPortaCliche} - \nameref{sec:telaAjustesImpressoraRadialPortaCliche};
   \fi
-  \ifmachineType
+  \ifmachineTypeFlexo
   \item[\ding{\dingNumber}] Ajustar os registros dos entalhes; Ver: \ref{telaAjustesSlotterAjusteRegistroEntalheDianteiro} - \nameref{telaAjustesSlotterAjusteRegistroEntalheDianteiro} e \ref{telaAjustesSlotterAjusteRegistroEntalheTraseiro} - \nameref{telaAjustesSlotterAjusteRegistroEntalheTraseiro};
   \item[\ding{\dingNumber}] Ajustar os registros da perfuradora; Ver: \ref{telaAjustesPerfuradoraAjusteRegistroPortaFerramenta} - \nameref{telaAjustesPerfuradoraAjusteRegistroPortaFerramenta};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \item[\ding{\dingNumber}] Ajustar o resgistro do corte; Ver: \ref{sec:telaAjustesCorteEVincoRadialPortaFerramenta} - \nameref{sec:telaAjustesCorteEVincoRadialPortaFerramenta};
   \fi
   \item[\ding{\dingNumber}] Ajustar o ajuste fino das pressões de acordo com a impressão;
@@ -153,8 +163,8 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   
 \end{procedureAdjustmentNoRecipe}
 
-\ifmachineType
-\else
+%\ifmachineTypeFlexo
+\ifmachineTypeIcv
   \newpage
   \thispagestyle{fancy}
   \vspace*{40 pt}
@@ -174,30 +184,34 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   \item[\ding{\dingNumber}] Colocar clichê e tintas nas impressoras que serão usadas;
   \item[\ding{\dingNumber}] Colocar o ferramental na máquina;
   \item[\ding{\dingNumber}] Carregar a receita, ou criar uma nova receita; Ver: 
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{telaVisualizacaoPedidos} - \nameref{telaVisualizacaoPedidos};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:telaVisualizacaoReceitas} - \nameref{sec:telaVisualizacaoReceitas};
   \fi
   \item[\ding{\dingNumber}] Ajustar a pressão de corte conforme o ferramental e o desgaste da manta; Ver: 
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{telaAjustesPerfuradoraAjustePressaoPortaManta} - \nameref{telaAjustesPerfuradoraAjustePressaoPortaManta};
   \ref{telaAjustesPerfuradoraAlteraPerimetroManta} - \nameref{telaAjustesPerfuradoraAlteraPerimetroManta};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:comandosCorteVincoAjustePressaoPortaManta} - \nameref{sec:comandosCorteVincoAjustePressaoPortaManta};
   \ref{sec:telaAjustesCorteEVincoPerimetroManta} - \nameref{sec:telaAjustesCorteEVincoPerimetroManta};
   \fi
   \item[\ding{\dingNumber}] Ligar a máquina e fazer o teste de impressão;
   \item[\ding{\dingNumber}] Ajustar os registros de impressão; Ver: 
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{ajustaRegistroRoloPortaCliche} - \nameref{ajustaRegistroRoloPortaCliche};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:segundaTelaGeralAjustesImpressorasRadialPortaCliche} - \nameref{sec:segundaTelaGeralAjustesImpressorasRadialPortaCliche};
   \fi
-  \ifmachineType
+  \ifmachineTypeFlexo
   \item[\ding{\dingNumber}] Ajustar os registros dos entalhes; Ver: \ref{telaAjustesSlotterAjusteRegistroEntalheDianteiro} - \nameref{telaAjustesSlotterAjusteRegistroEntalheDianteiro} e \ref{telaAjustesSlotterAjusteRegistroEntalheTraseiro} - \nameref{telaAjustesSlotterAjusteRegistroEntalheTraseiro};
   \item[\ding{\dingNumber}] Ajustar os registros da perfuradora; Ver: \ref{telaAjustesPerfuradoraAjusteRegistroPortaFerramenta} - \nameref{telaAjustesPerfuradoraAjusteRegistroPortaFerramenta};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \item[\ding{\dingNumber}] Ajustar o resgistro do corte; Ver: \ref{sec:telaAjustesCorteEVincoRadialPortaFerramenta} - \nameref{sec:telaAjustesCorteEVincoRadialPortaFerramenta};
   \fi
   \item[\ding{\dingNumber}] Ajustar as pressões de acordo com a impressão;
@@ -206,11 +220,12 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   
 \end{procedureAdjustmentRecipe}
 
-\ifmachineType
+\ifmachineTypeFlexo
   \newpage
   \thispagestyle{fancy}
   \vspace*{40 pt}
 \fi
+\ifmachineTypeIcv
 
 \subsection{Procedimento para resolução de embuchamentos no setor 1}
 
@@ -225,21 +240,24 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
 \begin{procedureFixingIsuesSector1}
 
   \item[\ding{\dingNumber}] Desative o controle de embuchamento; Ver: 
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{telaComandosMaquinaLigaControleDeEmbuchamento} - \nameref{telaComandosMaquinaLigaControleDeEmbuchamento};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:comandosMaquinaLigaControleDoEmbuchamento} - \nameref{sec:comandosMaquinaLigaControleDoEmbuchamento};
   \fi
-  \ifmachineType
+  \ifmachineTypeFlexo
   \item[\ding{\dingNumber}] Abra a tampa da unidade em que o embuchamento ocorreu;
-  \else
+  \fi
+  \ifmachineTypeIcv
   \item[\ding{\dingNumber}] Destrave a unidade em que o embuchamento ocorreu;
   \item[\ding{\dingNumber}] Abra a máquina;
   \fi
   \item[\ding{\dingNumber}] Remova o embuchamento;
-  \ifmachineType
+  \ifmachineTypeFlexo
   \item[\ding{\dingNumber}] Feche a tampa da unidade;
-  \else
+  \fi
+  \ifmachineTypeIcv
   \item[\ding{\dingNumber}] Feche a máquina;
   \item[\ding{\dingNumber}] Trave a unidade;
   \fi
@@ -256,7 +274,7 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
 
 %inicia a lista de itens
 %procedimentos para desembuchamento do setor 2
-\ifmachineType
+\ifmachineTypeFlexo
 
 \subsection{Procedimento para resolução de embuchamentos no setor 2}
 
@@ -301,7 +319,7 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
 
 \fi
 
-\subsection{Procedimento para resolução de embuchamentos no setor \ifmachineType 3 \else 2 \fi}
+\subsection{Procedimento para resolução de embuchamentos no setor \ifmachineTypeFlexo 3 \fi \ifmachineTypeIcv 2 \fi}
 
 \newlist {procedureFixingIsuesSector3}{itemize}{1}
 %define as propriedades da lista
@@ -312,29 +330,33 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
 \begin{procedureFixingIsuesSector3}
 
   \item[\ding{\dingNumber}] Habilite o modo embuchamento; Ver:
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{telaComandoContagemHabilitaModoEmbuchamento} - \nameref{telaComandoContagemHabilitaModoEmbuchamento};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:telaComandosEmpilhadorHabilitaModoEmbuchamento} - \nameref{sec:telaComandosEmpilhadorHabilitaModoEmbuchamento};
   \fi
   \item[\ding{\dingNumber}] Descarte a pilha; Ver:
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{telaComandoContagemDescartaPilha} - \nameref{telaComandoContagemDescartaPilha};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:telaComandosEmpilhadorDescartaPilha} - \nameref{sec:telaComandosEmpilhadorDescartaPilha};
   \fi
-  \item[\ding{\dingNumber}] Pressione o botão de JOG até que \ifmachineType a dobra \else o empilhador \fi não tenha mais nenhuma caixa; Ver:
-  \ifmachineType
+  \item[\ding{\dingNumber}] Pressione o botão de JOG até que \ifmachineTypeFlexo a dobra \fi \ifmachineTypeIcv o empilhador \fi não tenha mais nenhuma caixa; Ver:
+  \ifmachineTypeFlexo
   \ref{telaComandoContagemMenuJOGEixos} - \nameref{telaComandoContagemMenuJOGEixos};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:telaComandosEmpilhadorHabilitaFuncaoJog} - \nameref{sec:telaComandosEmpilhadorHabilitaFuncaoJog};
   \fi
   \item[\ding{\dingNumber}] Descarte a pilha;
   \item[\ding{\dingNumber}] Desabilite o modo embuchamento;
   \item[\ding{\dingNumber}] Devolva os eixos para a posição inicial; Ver:
-  \ifmachineType
+  \ifmachineTypeFlexo
   \ref{telaComandoContagemMovimentoInicialDosEixos} - \nameref{telaComandoContagemMovimentoInicialDosEixos};
-  \else
+  \fi
+  \ifmachineTypeIcv
   \ref{sec:telaComandosEmpilhadorMovimentoInicialEixos} - \nameref{sec:telaComandosEmpilhadorMovimentoInicialEixos};
   \fi
   \item[\ding{\dingNumber}] Resete as falhas.
@@ -347,10 +369,11 @@ Não recomendamos ajustar a máquina sem receita, pois não será possível salv
   
 \section{\large\MakeUppercase{{Lógica de segurança da máquina}}}
 
-\ifmachineType
+\ifmachineTypeFlexo
  A máquina é composta por unidades Alimentação, Impressoras, Slotter, Perfuradora, Dobra e Contagem, e é dividida em três zonas de segurança.
  O Setor 1 compreende a área da Alimentação até a Perfuradora, o Setor 2 compreende a Dobra e o Setor 3 compreende a Contagem.
-\else
+\fi
+\ifmachineTypeIcv
 A máquina é composta por unidades Alimentação, Impressoras, Transporte, Corte e Vinco, Batedor e Empilhador, e é dividida em duas zonas de segurança.
  O Setor 1 compreende a área da Alimentação até a Corte e Vinco e o Setor 2 compreende o restante da máquina.
 \fi
@@ -367,29 +390,32 @@ Os dispositivos de segurança são:
 
 \begin{safetyDevices}
 
-  \item[\ding{\dingNumber}] Botões de Emergência: Estão situados \ifmachineType \else tanto \fi no lado de comando \ifmachineType \else quanto no interior das unidades\fi. Quando pressionados, bloqueiam todos os eixos da máquina;
+  \item[\ding{\dingNumber}] Botões de Emergência: Estão situados \ifmachineTypeIcv tanto \fi no lado de comando \ifmachineTypeIcv quanto no interior das unidades\fi. Quando pressionados, bloqueiam todos os eixos da máquina;
   \item[\ding{\dingNumber}] Chaves comutadoras: Servem para bloquear o equipamento durante a manutenção e setup;
-  \ifmachineType
+  \ifmachineTypeFlexo
   \item[\ding{\dingNumber}] Sensores de barreira: Detectam a entrada de pessoas entre as unidades;
-  \else
+  \fi
+  \ifmachineTypeIcv
   \item[\ding{\dingNumber}] Sensores de barreira: Detectam a entrada de pessoas entre as unidades quando o equipamento está aberto. Há um sensor no lado comando para cada 
   unidade do setor 1 e um único sensor abrangendo todas as unidades no lado acionamento;
   \fi
   \item[\ding{\dingNumber}] Botão reset acesso interno: Deve ser pressionado toda vez que um acesso interno for detectado, em sua respectiva unidade. Caso o acesso 
   interno seja do lado acionamento o botão reset de todas as unidades deve ser pressionado e também o botão reset do lado acionamento;
-  \ifmachineType
+  \ifmachineTypeFlexo
   \item[\ding{\dingNumber}] Pedaleiras de três estágios: São utilizadas para movimentar o rolo porta ferramenta durante a troca do ferramental. O terceiro estágio é de
   emergência e é resetado pelo botão azul em cima da pedaleira;
-  \else
+  \fi
+  \ifmachineTypeIcv
   \item[\ding{\dingNumber}] Pedaleiras de três estágios: São utilizadas para movimentar os rolos porta ferramenta e porta clichê durante a troca do ferramental.
   O terceiro estágio é de emergência e é resetado pelo botão azul em cima da pedaleira;
   \fi
-  \ifmachineType
+  \ifmachineTypeFlexo
   \item[\ding{\dingNumber}] Travas de segurança nas portas das unidades: Devem ser liberadas através do bloqueio local para abrir;
   \item[\ding{\dingNumber}] Sensores de abertura das portas: Caso alguma porta seja aberta, todos os eixos do setor entram no estado de emergência
   impossibilitando seu funcionamento; com exceção dos rolos porta ferramenta e porta clichê que são movimentados através de pedaleiras e botões em baixa velocidade
   e incrementos pequenos acada toque do botão para permitir a troca do ferramental;
-  \else
+  \fi
+  \ifmachineTypeIcv
   \item[\ding{\dingNumber}] Botão abrir/fechar + botão auxiliar (bimanual): Necessários para abrir e fechar o equipamento;
   \item[\ding{\dingNumber}] Travas de segurança nas portas do Empilhador: Devem ser liberadas através do bloqueio global para abrir;
   \item[\ding{\dingNumber}] Sensores de abertura de portas dos paineis elétricos: Detectam a abertura de portas dos paineis das unidades caso seja detectado a abertura do
@@ -402,14 +428,15 @@ Os dispositivos de segurança são:
 
 \end{safetyDevices}
 
-\ifmachineType
+\ifmachineTypeFlexo
 \subsection{Segurança ao abrir e fechar as portas}
 
 Para abrir as portas da maquina, é necessário primeiro realizar o bloqueio local da máquina por meio das chaves comutadoras, após isso, as travas das portas da unidade 
 serão liberadas. Para devolver o equipamento para o estado de operação, é necessário primeiro fechar as portas, devolver achave comutadora para a posição de 
 operação, após isso, as travas das portas serão bloqueadas por fim resetar o acesso interno e o equipamento estará pronto para operar.
 
-\else
+\fi
+\ifmachineTypeIcv
 
 \subsection{Segurança ao abrir e fechar a máquina}
 
@@ -433,11 +460,11 @@ operação, após isso, as travas das portas do Empilhador serão bloqueadas por
 
 \subsection{Segurança ao entrar no interior da máquina}
 
-Para acessar o interior da máquina é necessário primeiro realizar o bloqueio \ifmachineType local \else global \fi da máquina por meio das chaves comutadoras e levar a chave consigo, após realizar o
+Para acessar o interior da máquina é necessário primeiro realizar o bloqueio \ifmachineTypeFlexo local \fi \ifmachineTypeIcv global \fi da máquina por meio das chaves comutadoras e levar a chave consigo, após realizar o
 seu trabalho, é necessário devolver a chave para a posição de operação e resetar o acesso interno das unidades acessadas pelo lado comando, caso o acesso interno tenha
 sido realizado pelo lado acionamento, é necessário resetar o acesso interno de todas as unidades no setor lado comando e também resetar o acesso interno do lado acionamento.
 
-\ifmachineType
+\ifmachineTypeFlexo
   \newpage
   \thispagestyle{fancy}
   \vspace*{40 pt}
@@ -445,8 +472,8 @@ sido realizado pelo lado acionamento, é necessário resetar o acesso interno de
 
 \subsection{Segurança ao trocar ferramental}
 
-A troca do ferramental (forma e clichês) é feita com o auxílio de \ifmachineType pedaleiras de três estágios ou botões\else pedaleiras de três estágios\fi, sendo que o 
-eixo vai se mover uma pequena distância em baixa velocidade a cada toque \ifmachineType no segundo estágio da pedaleira ou no botão \else no segundo estágio da pedaleira \fi. 
+A troca do ferramental (forma e clichês) é feita com o auxílio de \ifmachineTypeFlexo pedaleiras de três estágios ou botões\fi \ifmachineTypeIcv pedaleiras de três estágios\fi, sendo que o 
+eixo vai se mover uma pequena distância em baixa velocidade a cada toque \ifmachineTypeFlexo no segundo estágio da pedaleira ou no botão \fi \ifmachineTypeIcv no segundo estágio da pedaleira \fi. 
 O terceiro estágio é de emergência e é resetado pelo botão azul em cima da pedaleira.
 
 

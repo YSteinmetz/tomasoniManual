@@ -32,12 +32,13 @@
 \newpage
 \input{commomPages/indexPage.tex}
 
-\ifmachineType
+\ifmachineTypeFlexo
 
 \newpage
 \input{src/glossaryFlexo.tex}
 
-\else
+\fi
+\ifmachineTypeIcv
 
 \newpage
 \input{src/glossaryICV.tex}
@@ -52,7 +53,7 @@
 
 %commands screens
 
-\ifmachineType
+\ifmachineTypeFlexo
 
     \newpage
     \input{pagesFlexo/screenDescriptions/01-main/screenNavegation.tex}
@@ -85,7 +86,8 @@
     \newpage
     \input{pagesFlexo/screenDescriptions/08-count/commands/countCommands.tex}
 
-    \else
+    \fi
+    \ifmachineTypeIcv
 
     \newpage
     \input{pagesICV/screenDescriptions/01-main/screenNavegation.tex}
@@ -120,7 +122,7 @@
 
 %settings screens
 
-    \ifmachineType
+    \ifmachineTypeFlexo
     
     \newpage
     \input{pagesFlexo/screenDescriptions/03-feeder/settings/feederSettings.tex}
@@ -171,7 +173,8 @@
     \newpage
     \input{pagesFlexo/screenDescriptions/12-IHMCNT/screensIHMCNT.tex}
 
-    \else
+    \fi
+    \ifmachineTypeIcv
     
     \newpage
     \input{pagesICV/screenDescriptions/03-feeder/settings/feederSettings.tex}
@@ -220,7 +223,7 @@
     
     \fi
 
-    \newpage
-    \input{commomPages/lastInstructions.tex}
+    %\newpage
+    %\input{commomPages/lastInstructions.tex}
 
 \end{document}

@@ -30,14 +30,15 @@ Trabalhamos com ética, responsabilidade, comprometimento e com muito respeito p
 \begin{machinePartsList}
     \item[\ding{\dingNumber}] 1 - Unidade Alimentação;
     \item[\ding{\dingNumber}] \numberOfPrinters \space - Unidades Impressoras;
-    \ifmachineType
+    \ifmachineTypeFlexo
         \item[\ding{\dingNumber}] 1 - Unidade Slotter;
         \ifunidadePerfuradora
         \item[\ding{\dingNumber}] 1 - Unidade Perfuradora;
         \fi
         \item[\ding{\dingNumber}] 1 - Unidade Dobra;
         \item[\ding{\dingNumber}] 1 - Unidade Contagem.
-    \else
+    \fi
+    \ifmachineTypeIcv
         \item[\ding{\dingNumber}] 1 - Unidade Transporte;
         \item[\ding{\dingNumber}] 1 - Unidade Corte e Vinco;
         \item[\ding{\dingNumber}] 1 - Unidade Batedor;
@@ -49,7 +50,7 @@ Projetos Elétricos: cada unidade possui projeto elétrico representando os esqu
  funções de segurança. Os projetos são entregues juntamente com os manuais de operação, manutenção e
  peças de reposição.
 
- \ifmachineType
+ \ifmachineTypeFlexo
 
   \ifunidadePerfuradora
        Definição da utilização prevista para a Máquina:
@@ -58,7 +59,8 @@ Projetos Elétricos: cada unidade possui projeto elétrico representando os esqu
  Definição da utilização prevista para a Máquina:
  Máquina destinada à Produção de Caixas de Papelão tipo Maleta.
     \fi
-\else
+\fi
+\ifmachineTypeIcv
 Definição da utilização prevista para a Máquina:
 Máquina destinada à Produção de Caixas de Papelão em formatos variados sem dobra e cola.
 \fi
